@@ -1,0 +1,15 @@
+{
+  "association": {
+    "name": "Volt Deutschland",
+    "type": "Bundesverband"
+  },
+  "address": {
+    "street": "Knaackstr.",
+    "nr": "3",
+    "postal": "10405",
+    "city": "Berlin",
+    "country": "DE"
+  },
+  "website": "voltdeutschland.org",
+  "mail": "info@voltdeutschland.org"
+}
