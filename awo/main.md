@@ -11,8 +11,8 @@ Soweit staatliches Wahlrecht nicht entgegensteht, findet diese Wahlordnung auch 
 
 ## § 2 – Abweichungsbefugnis auf Landes- und Kommunalebene
 
-Landes- und Kreisverbände können in ihrer Satzung von den Bestimmungen dieser Wahlordnung abweichen oder ihre Anwendung vollständig ausschließen.
-Landesverbände können dabei die Abweichungsbefugnis der Kreisverbände nach Satz 1 nicht einschränken.
+Landes- und untere Gebietsverbände können in ihrer Satzung von den Bestimmungen dieser Wahlordnung abweichen oder ihre Anwendung vollständig ausschließen.
+Landesverbände können dabei die Abweichungsbefugnis der unteren Debietsverbände nach Satz 1 nicht einschränken.
 
 ## § 3 – Ankündigung und Einladung
 
@@ -166,7 +166,7 @@ Abweichendes kann in Bezug auf Aufstellungsversammlungen für die Wahl von Kandi
 Passiv wahlberechtigt sind, soweit die Satzung oder die anwendbaren Gesetze nicht etwas Abweichendes bestimmen,
 
 1. bei Wahlen auf Bundesebene grundsätzlich alle Mitglieder von Volt Deutschland.
-2. auf Ebene der Gebietsverbände, Landes- und Kreisverbände die Mitglieder dieser Gebietsverbände.
+2. auf Ebene der Gebietsverbände, Landes- und unteren Gebietsverbände die Mitglieder dieser Gebietsverbände.
 
 (2)
 Bei Aufstellungsversammlungen für Wahlen zu öffentlichen Ämtern sind alle Mitglieder von Volt Deutschland passiv wahlberechtigt, denen nach den anwendbaren Gesetzen und Verordnungen das passive Wahlrecht für die jeweilige Wahl zukommt.
@@ -322,7 +322,7 @@ Ist kein solcher vorhanden, ist der Bundesvorstand zur Unterzeichnung berechtigt
 
 (4)
 Volt Deutschland oder ihre Gebietsverbände können bei Wahlen zu Landtagen oder kommunalen Vertretungskörperschaften gemeinsame Listen mit anderen Parteien oder Wähler\*innengruppen aufstellen, sofern deren Grundwerte und Ziele mit denen von Volt Deutschland vereinbar sind und eine eigene Liste nicht sinnvoll erscheint.
-Die Entscheidung über eine gemeinsame Liste trifft der zuständige Kreisverband oder, falls nicht vorhanden, der zuständige Landesverband.
+Die Entscheidung über eine gemeinsame Liste trifft der zuständige untere Gebietsverband oder, falls nicht vorhanden, der zuständige Landesverband.
 
 ## § 22 – Vereinfachtes Wahlverfahren
 
@@ -404,6 +404,7 @@ Weiterhin kann sie vor dem ersten Wahlgang festlegen, die Liste nach einer besti
 Sofern auf einer der Wahllisten nach § 23 Abs. 2 nur ein\*e Bewerber\*in gelistet ist, wird abweichend von § 23 Abs. 2 für diese Liste eine Einzelwahl gemäß § 19 durchgeführt.
 
 ## § 25 bis 27 – weggefallen
+
 # D | Wahlen des Bundesvorstandes
 
 ## § 28 – Geltungsbereich
@@ -413,7 +414,7 @@ Die Vorschriften der §§ 29 bis 33 gelten für die Wahlen des Bundesvorstands a
 Die Regelungen der §§ 1 bis 18 gelten ergänzend.
 
 (2)
-Landes- und Kreisverbände können in ihrer Satzung für die Wahl des jeweiligen Vorstandes die Geltung des in den §§ 29 bis 33 geregelten Wahlverfahrens anordnen.
+Landes- und untere Gebietsverbände können in ihrer Satzung für die Wahl des jeweiligen Vorstandes die Geltung des in den §§ 29 bis 33 geregelten Wahlverfahrens anordnen.
 
 ## § 29 – Reihenfolge der Wahl, Vorstellung und Zusammenfassung der Wahlen
 

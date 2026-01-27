@@ -163,8 +163,8 @@ Die Landesschiedsgerichte entscheiden in erster Instanz über
 2. die Verhängung von Ordnungsmaßnahmen gegenüber Mitgliedern und den Einspruch gegen Ordnungsmaßnahmen,
 3. die Zulässigkeit des Widerrufs der Mitgliedschaft nach § 4 Absatz 5 der Satzung,
 4. die Verhängung von Ordnungsmaßnahmen gegenüber Gebietsverbänden unterhalb der Landesebene,
-5. rechtliche Auseinandersetzungen zwischen einem Kreisverband und den von diesem geschaffenen Untergliederungen sowie zwischen diesen Gliederungen untereinander,
-6. rechtliche Auseinandersetzungen zwischen Kreisverbänden untereinander oder zwischen einem oder mehreren Kreisverbänden und dem Landesverband,
+5. rechtliche Auseinandersetzungen zwischen einem unteren Gebietsverband und den von diesem geschaffenen Untergliederungen sowie zwischen diesen Gliederungen untereinander,
+6. rechtliche Auseinandersetzungen zwischen unteren Gebietsverbänden untereinander oder zwischen einem oder mehreren unteren Gebietsverbänden und dem Landesverband,
 7. die Anfechtung und die Feststellung der Nichtigkeit von Wahlen und Beschlüssen im Bereich des Landesverbandes,
 8. rechtliche Auseinandersetzungen über Auslegung und Anwendung von Satzungen im Zuständigkeitsbereich des Landesverbandes und
 9. alle sonstigen Streitigkeiten, die ihnen durch die Satzung von Volt Deutschland oder die Satzung des jeweiligen Landesverbandes zugewiesen sind oder bei denen eine andere Zuständigkeitsregelung nicht ersichtlich ist.

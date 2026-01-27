@@ -87,8 +87,8 @@ b) der Bundesfinanzrat für in seinen nach der Finanzordnung festgelegten Aufgab
 c) der Bundesschatzmeister für in seine nach der Finanzordnung festgelegten Aufgabenbereiche fallenden Anträge,
 d) die Vorstände der Landesverbände,
 e) die Landesparteitage,
-f) die Vorstände der Kreisverbände,
-g) die Mitgliederversammlungen der Kreisverbände,
+f) die Vorstände der unteren Gebietsverbände,
+g) die Mitgliederversammlungen der unteren Gebietsverbände,
 h) eine Gruppe von mindestens 1 % der Mitglieder bis zu einer gesamt Mitgliederzahl von 4500 Mitgliedern.
 Darüber hinaus reichen die Unterstützungsunterschriften von 45 Mitgliedern.
 i) bei Durchführung des Parteitages als Vertreter\*innenversammlung im Fall von Anträgen nach § 16 Absatz 6 Satz 4 der Satzung von Volt Deutschland eine Gruppe von mindestens zwanzig auf der Versammlung stimmberechtigt akkreditierte Delegierten und
@@ -272,4 +272,3 @@ Für die Parteitage übt die Sitzungsleitung, im Übrigen der Bundesvorstand das
 ## § 14 – Schlussbestimmung
 
 Sich durch die Änderung dieser Geschäftsordnung ergebende Änderungen von Fristen und Voraussetzungen für die Antragstellung gelten nicht auf dem Parteitag, auf dem sie beschlossen wurden.
-
