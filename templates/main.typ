@@ -1,90 +1,43 @@
 #import "util/general_template.typ": conf
 #import "util/colours_and_stuff.typ" as resources
 #import "util/elements.typ" as elements
+#import "@preview/cmarker:0.1.5"
 
-#let titleWithSortIfExisting(element: none, sep: none) = {
-  if (element.sortTxt != none and element.sortTxt != "") {
-    element.sortTxt + " " + sep + " "
-  }
-  element.title
-}
+// Get directory from input, default to "satzung" for preview
+#let directory = sys.inputs.at("directory", default: "satzung")
+#let build_date = sys.inputs.at("date", default: datetime.today().display("[year]-[month]-[day]"))
 
-#let elementTemplate(element: none) = {
-  if (element == none) {
-    return ""
-  }
+// Read data files
+#let meta = json("/" + directory + "/meta.json")
+#let root_meta = json("/meta.json")
+#let content = read("/" + directory + "/main.md")
 
-  if (element.type == "PARAGRAPH") {
-    heading(level: 2, titleWithSortIfExisting(element: element, sep: "–"))
-    element.children.map(c => elementTemplate(element: c)).flatten().join()
-  } else if (element.type == "SUBPARAGRAPH") {
-    list(marker: element.sortTxt, element.children.map(c => elementTemplate(element: c)).flatten().join(" "))
-    v(5pt)
-  } else if (element.type == "SENTENCE") {
-    if (element.sortTxt != none) {
-      super(element.sortTxt)
-    }
-    text(element.content) + " " + element.children.map(c => elementTemplate(element: c)).flatten().join()
-  } else if (element.type == "ENUMERATION") {
-    list(
-      marker: if (element.sortTxt == none) { "•" } else { element.sortTxt },
-      [#element.content #element.children.map(c => elementTemplate(element: c)).flatten().join(" ")],
-    )
-  } else if (element.type == "SECTION") {
-    pagebreak()
-    heading(level: 1, titleWithSortIfExisting(element: element, sep: "|"))
-    element.children.map(c => elementTemplate(element: c)).flatten().join()
-  } else if (element.type == "ATTACHMENT") {
-    pagebreak()
-    heading(level: 1, titleWithSortIfExisting(element: element, sep: "•"))
-    element.children.map(c => elementTemplate(element: c)).flatten().join()
-  } else if (element.type == "H3") {
-    heading(level: 2, titleWithSortIfExisting(element: element, sep: "–
-    "))
-    element.children.map(c => elementTemplate(element: c)).flatten().join()
-  } else if (element.type == "H4") {
-    heading(level: 3, titleWithSortIfExisting(element: element, sep: ""))
-    element.children.map(c => elementTemplate(element: c)).flatten().join()
-  } else if (element.type == "H5") {
-    heading(level: 4, titleWithSortIfExisting(element: element, sep: ""))
-    element.children.map(c => elementTemplate(element: c)).flatten().join()
-  }
-}
-
-#let documentation(
-  data: "data.json",
-  doc,
-) = {
-  if (sys.inputs.keys().contains("data")) { data = sys.inputs.data }
-
-  let data = json(data)
-
-  let version = data.document
-  let content = data.content
-  let association = data.association
+#let documentation(doc) = {
+  let address = root_meta.address
+  let address_line = address.street + " " + address.nr + ", " + address.postal + " " + address.city
 
   show: conf.with(
-    title: version.title,
-    date: elements.datetimeFromString(date: version.firstValidAt),
-    adress: (association.topName, association.subName, association.address, ""),
-    website: association.webValue,
-    email: association.mailValue,
-    doc_id: version.id,
+    title: meta.title,
+    date: elements.datetimeFromString(date: meta.changed_at),
+    adress: (root_meta.association.name, root_meta.association.type, address_line, ""),
+    website: root_meta.website,
+    email: root_meta.mail,
+    doc_id: meta.id_document,
     title_page: true,
     qr_code: false,
-    line1: "Letzte Änderung vom " + elements.dateFromString(date: version.firstValidAt),
-    line2: "Redaktionelle Änderung vom " + elements.dateFromString(date: version.submittedAt),
-    line3: "Dokument erstellt am " + elements.dateFromString(date: datetime.today().display()),
+    line1: "Letzte Änderung vom " + elements.dateFromString(date: meta.changed_at),
+    line2: "Geändert durch: " + meta.changed_by,
+    line3: "Dokument erstellt am " + elements.dateFromString(date: build_date),
   )
-
 
   outline()
 
   pagebreak()
 
-  content.map(c => elementTemplate(element: c)).join()
+  // Render markdown content
+  cmarker.render(content)
 
   doc
 }
 
-#show: documentation.with()
+#show: documentation

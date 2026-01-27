@@ -74,7 +74,9 @@
       #text(adress.at(2) + if (adress.at(3) != "") { " | " + adress.at(3) })
       #linebreak()
       #linebreak()
-      #link(website)
+      #if (website != none and website != "") {
+        link(website)
+      }
       #linebreak()
       #link("mailto:" + email)
     ]
