@@ -230,35 +230,30 @@ Organisatorische Zusammenschlüsse mehrerer Gebietsverbände eines Rangs, die di
 ## § 11 – Gründung von Landes- und Kreisverbänden
 
 (1)
-Die Gründung eines Landes- oder Kreisverbands bedarf der vorherigen Zustimmung des Bundesvorstands.
+Die Gründung eines Gebietsverbands bedarf der vorherigen Zustimmung des rangniedrigsten Vorstandes, dessen Zuständigkeit das Gebiet des zu gründenden Verbandes vollständig umfasst.
 
 (2)
-Der Antrag auf Zustimmung zur Gründung des Landes- oder Kreisverbands ist an den Bundesvorstand zu richten und bedarf zu seiner Wirksamkeit der Unterzeichnung von mindestens sieben Mitgliedern, die im betroffenen Gebiet ihren mitgliedschaftlichen Wohnsitz haben.
+Der Antrag auf Zustimmung zur Gründung ist an den zuständigen Vorstand zu richten und bedarf zu seiner Wirksamkeit der Unterzeichnung von mindestens zwanzig Mitgliedern, die im betroffenen Gebiet ihren mitgliedschaftlichen Wohnsitz haben.
 Der Antrag ist innerhalb einer angemessenen Frist, spätestens aber innerhalb von vier Wochen, per Beschluss zu bescheiden.
 
 (3)
-Der Gründung ist grundsätzlich zuzustimmen, wenn mindestens zwanzig Mitglieder Volt Deutschlands ihren mitgliedschaftlichen Wohnsitz in diesem Gebiet haben und mindestens fünf dieser Mitglieder nicht dem unter den Mitgliedern am stärksten repräsentierten Geschlecht angehören.
-Eine Ablehnung kann bei Vorliegen dieser Voraussetzung nur erfolgen, wenn der Bundesvorstand ernsthafte Bedenken bezüglich der organisatorischen Festigkeit der Mitgliederstruktur geltend machen kann.
-In diesem Fall ist eine Verweigerung der Zustimmung vom Bundesvorstand innerhalb von zwei Wochen ab Bekanntgabe der Entscheidung schriftlich oder per E-Mail zu begründen.
+Der Gründung ist grundsätzlich zuzustimmen, wenn keine ernsthaften Bedenken bezüglich der organisatorischen Festigkeit der Mitgliederstruktur geltend gemacht werden können und mindestens 25% der Mitglieder nichtdem am stärksten repräsentierten Geschlecht angehören.
+Im Falle einer Ablehnung kann die Gründung eines Verbandes auf dem selben Gebiet nach einer Frist von 6 Monaten erneut beantragt werden.
 
 (4)
-Sind die Voraussetzungen des Absatzes 3 Satz 1 nicht erfüllt, so kann der Bundesvorstand der Gründung eines Landes- oder Kreisverbands ausnahmsweise zustimmen, sofern nachgewiesen werden kann, dass die Mitgliederstruktur ausreichend gefestigt ist, um die Geschäfte des Landes- oder Kreisverbands pflicht- und ordnungsgemäß zu führen, oder wenn die Interessen der Partei dies erfordern.
-Dies ist insbesondere dann der Fall, wenn die Gründung eines Landes- oder Kreisverbands für die Teilnahme an einer Bundestags-, Landtags- oder Kommunalwahl erforderlich oder hilfreich ist.
+Ist dem Antrag auf Gründung stattgegeben, so hat der zuständige Vorstand innerhalb von zwei Wochen ab Zustimmung den Termin der Gründungsversammlung bekanntzugeben.
 
 (5)
-Stimmt der Bundesvorstand der Gründung zu, so hat er innerhalb von zwei Wochen den Termin der Gründungsversammlung zu bestimmen, der innerhalb eines Zeitraumes von zwölf Wochen, gerechnet ab der Bekanntgabe der Zustimmungsentscheidung, liegen muss.
-Zu dieser Gründungsversammlung sind alle Mitglieder zu laden, die ihren mitgliedschaftlichen Wohnsitz in dem Gebiet haben.
-Die Ladungsfrist beträgt mindestens zwei Wochen.
-Der Termin der Gründungsversammlung darf nicht später als zwölf Wochen ab der Zustimmung liegen.
-
-(6)
 Hat ein Gebietsverband keinen gewählten handlungs- und beschlussfähigen Vorstand mehr, so stellt der Vorstand des nächsthöherrangigen Gebietsverbands die Handlungs- und Beschlussunfähigkeit durch Beschluss fest und lädt alle Mitglieder, die ihren mitgliedschaftlichen Wohnsitz in dem Gebiet haben, zum Parteitag oder zur Mitgliederversammlung, um einen neuen Vorstand zu wählen.
 Die Ladungsfrist beträgt zwei Wochen.
 Bis zu dieser Wahl führt der Vorstand des nächsthöherrangigen Gebietsverbands die Geschäfte kommissarisch.
 
-(7)
+(6)
 Der Bundesvorstand kann einen Kreis- oder Landesverband, der eine Mitgliederzahl von zehn für eine Dauer von länger als sechs Monaten unterschreitet, auflösen.
 Über die beabsichtigte Auflösung ist der Vorstand des betroffenen Gebietsverbands mindestens drei Monate im Voraus zu informieren.
+
+(7)
+Vor Gründung des ersten unteren Gebietsverbandes beschließen Landesverbände in ihrer jeweiligen Satzung die Anwendung dieser oder abweichender Vorschriften für die Gründung und Aufsicht von unteren Gebietsverbänden.
 
 ## § 12 – Rechte und Pflichten der Gebietsverbände
 
