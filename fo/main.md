@@ -109,7 +109,10 @@ Der Bundesparteitag beschließt weiterhin über die Höhe der zwischen dem Bunde
 
 (7)
 Der Bundesverband zahlt den Anteil der Mitgliedsbeiträge quartalsweise direkt an die Landesverbände und Kreisverbände aus.
-Auf Antrag einzelner Landes- oder Kreisverbände kann der/die Bundesschatzmeister\*in eine kurzfristige Auszahlung der jeweiligen Anteile bewilligen.
+Auf Antrag einzelner Landesverbände kann der/die Bundesschatzmeister\*in eine kurzfristige Auszahlung der jeweiligen Anteile bewilligen.
+Die Landesparteitage beschließen über die Höhe der zwischen dem Landesverband und den unteren Gebietsverbänden zu verteilenden Anteile des nach Satz 2 verbleibenden Gesamtanteils.
+Die von den Landesparteitagen beschlossene Höhe der Anteile gilt jeweils für das folgende Kalenderjahr; eine Änderung im laufenden Kalenderjahr ist nur im Falle des erstmaligen Beschlusses möglich.
+Liegt kein Beschluss des Landesparteitages vor, so gilt der zuletzt durch den Landesparteitag beschlossene Verteilerschlüssel weiter fort.
 
 ## § 5a – Verletzung der Beitragspflicht, Mahnung und Ausschluss
 
@@ -145,7 +148,7 @@ Die Beiträge sind als solche gesondert zu erfassen.
 Die Beiträge werden vom jeweils rangniedrigsten Verband erhoben, der das Wahlgebiet des Parlaments / der Vertretungskörperschaft vollständig umfasst, und stehen diesem ungeteilt zu, soweit die nachfolgenden Sätze nichts anderes regeln.
 Bei Mandatsträger\*innen auf Ebene des Bundes werden die Beiträge vom Bundesverband erhoben und zu gleichen Teilen zwischen Bundesverband und dem jeweiligen Landesverband aufgeteilt.
 Bei Mandatsträger\*innen im Europäischen Parlament werden die Beiträge vom Bundesverband erhoben; dabei werden auf Wunsch der Mandatsträger\*innen direkt an Volt Europa AISBL geleistete Beiträge bis zur Höhe von maximal 50 Prozent angerechnet.
-Sofern ein Kreisverband noch nicht besteht, können Mandatsträger\*innen auf kommunaler Ebene bestimmen, dass ihr Beitrag vom erhebenden Verband innerhalb der entsprechenden kommunalen Gebietskörperschaft verwendet wird.
+Mandatsträger\*innen auf kommunaler Ebene können abweichend von Satz 1 selbst bestimmen, ob sie bis zu 50% ihres Beitrags an den Landesverband entrichten wollen.
 
 (3)
 Der Parteitag / die Mitgliederversammlung des jeweils erhebenden Verbandes beschließt die Höhe des Beitrages in Form eines Prozentsatzes oder eines Festbetrages vor Beginn der Amtsperiode oder auf dem darauffolgenden Parteitag nach Beginn der Amtsperiode rückwirkend.
