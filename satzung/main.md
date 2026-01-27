@@ -409,7 +409,8 @@ Stehen nicht gen체gend Ersatzdelegierte oder Stimmrechts체bertragungen zur Verf�
 
 (10)
 Die Mitglieder des Bundesvorstandes und der Landesvorst채nde haben ein Teilnahme- und Rederecht.
-Der Parteitag kann auch anderen als den stimmberechtigten Teilnehmern durch Beschluss das Rederecht erteilten.
+Alle Mitglieder von Volt Europa sowie von nationalen Chaptern haben ein Rederecht, sofern der Parteitag dies nicht per Beschluss einschr채nkt.
+Weiteren Teilnehmenden kann per Beschluss das Rederecht erteilt werden.
 
 (11)
 Die Bewerber\*innen f체r eine gemeinsame Liste f체r alle L채nder zur Europawahl werden in einer Versammlung der Mitglieder gew채hlt, die zum Zeitpunkt ihres Zusammentritts zum Europ채ischen Parlament wahlberechtigt sind.

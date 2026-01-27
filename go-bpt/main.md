@@ -249,8 +249,8 @@ Gäste können auf Einladung durch den Bundesvorstand an Parteitagen teilnehmen.
 Der Bundesvorstand kann die Zahl der am Parteitag Teilnehmenden ohne Stimmrecht aus organisatorischen Gründen begrenzen.
 
 (2)
-Gemäß § 15 Absatz 11 der Satzung kann der Parteitag Gästen das Rederecht erteilen.
-Teilnehmende Mitglieder haben nach § 10 Abs. 2 unabhängig ihres Stimmrechts das Rederecht; für nicht stimmberechtigte Teilnehmer\*innen kann die Versammlung per Antrag das Rederecht einschränken.
+Gemäß § 15 Absatz 10 der Satzung kann der Parteitag Gästen das Rederecht erteilen.
+Teilnehmende Mitglieder von Volt Europa und nationalen Chaptern haben nach § 10 Abs. 1 unabhängig ihres Stimmrechts das Rederecht; für nicht stimmberechtigte Teilnehmende kann die Versammlung per Beschluss das Rederecht einschränken.
 
 (3)
 Parteitage stehen Vertreter\*innen der Presse offen.
