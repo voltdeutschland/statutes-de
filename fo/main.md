@@ -6,7 +6,7 @@ Volt Deutschland regelt ihre Finanzverhältnisse folgendermaßen:
 1. Der/die Bundesschatzmeister\*in verwaltet die zentralen Finanzen und ist für die Beschaffung der finanziellen Mittel des Bundesverbands verantwortlich.
 2. Die Schatzmeister\*innen der Landes- und Kreisverbände verwalten die Finanzen ihrer jeweiligen Verbände und sind für die Beschaffung der finanziellen Mittel ihrer jeweiligen Verbände verantwortlich.
 3. Der Bundesfinanzrat berät Volt Deutschland in allen Finanzfragen, er fasst Beschlüsse und dient der Vernetzung der Finanzverantwortlichen.
-Er entwickelt und plant Maßnahmen zur finanziellen Leistungsfähigkeit aller Ebenen Volt Deutschlands.
+   Er entwickelt und plant Maßnahmen zur finanziellen Leistungsfähigkeit aller Ebenen Volt Deutschlands.
 
 (2)
 Die Finanzwirtschaft Volt Deutschlands folgt den Grundsätzen der wirtschaftlichen und sparsamen Haushaltsführung.
@@ -98,23 +98,42 @@ Er wird am ersten Bankarbeitstag des Monats, der auf den Monat folgt, in dem der
 Bei quartalsweiser oder jährlicher Zahlung wird zu diesem Zeitpunkt ebenfalls der anteilige Mitgliedsbeitrag fällig, den das Mitglied für den Zeitraum bis zur ersten regulären Zahlung schuldet.
 
 (5)
-Befindet sich ein Mitglied mit der Zahlung eines Mitgliedsbeitrages in Verzug, so kann es durch den Bundesverband schriftlich oder per E-Mail gemahnt werden.
-Die zweite Mahnung erfolgt unter Setzung einer Zahlungsfrist von einem Monat und dem Hinweis, dass die Nichtzahlung der Erklärung des Austritts gleichsteht.
-Sofern ein Mitglied die Rückgabe einer berechtigten Lastschrift zu vertreten hat, ist Volt Deutschland zur Rückforderung der durch die Rückgabe tatsächlich entstandenen Kosten berechtigt.
-
-(6)
 Der Mitgliedsbeitrag wird vom Bundesverband erhoben und verteilt.
 Soweit Volt Deutschland Mitglied der Volt Europa AISBL ist, erhält Volt Europa AISBL im Rahmen der nach § 9 der Satzung von Volt Deutschland bestehenden Mitgliedschaften einen Anteil des Mitgliedsbeitrages.
 Die Landes- und Kreisverbände, in deren Zuständigkeitsbereich das Mitglied seinen Wohnsitz hat, erhalten jeweils einen Anteil des nach Satz 2 verbleibenden Mitgliedsbeitrages.
 Sofern ein Verband nicht besteht, steht der Anteil dem nächsthöheren Verband zu.
 
-(7)
+(6)
 Über die Höhe des an Volt Europa AISBL abzuführenden Anteils beschließt der Bundesparteitag.
 Der Bundesparteitag beschließt weiterhin über die Höhe der zwischen dem Bundesverband und den Landes- und Kreisverbänden zu verteilenden Anteile des nach Satz 1 verbleibenden Gesamtanteils.
 
-(8)
+(7)
 Der Bundesverband zahlt den Anteil der Mitgliedsbeiträge quartalsweise direkt an die Landesverbände und Kreisverbände aus.
 Auf Antrag einzelner Landes- oder Kreisverbände kann der/die Bundesschatzmeister\*in eine kurzfristige Auszahlung der jeweiligen Anteile bewilligen.
+
+## § 5a – Verletzung der Beitragspflicht, Mahnung und Ausschluss
+
+(1)
+Befindet sich ein Mitglied mit der Zahlung des Mitgliedsbeitrages in Verzug, kann es schriftlich oder per E-Mail gemahnt werden.
+Sofern ein Mitglied die Rückgabe einer berechtigten Lastschrift zu vertreten hat, ist Volt Deutschland zur Rückforderung der durch die Rückgabe tatsächlich entstandenen Kosten berechtigt.
+
+(2)
+Ein Mitglied unterlässt schuldhaft die Beitragszahlung nach § 7 Abs. 3 Nr. 4 der Satzung, wenn es trotz Mahnung mit der Zahlung des Mitgliedsbeitrages länger als sechs Monate in Verzug ist.
+
+(3)
+Kommt das Mitglied einer zweiten Mahnung trotz Setzung einer Zahlungsfrist von nicht weniger als einem Monat und einem Hinweis auf die Folgen des Verzugs nicht nach, kann jede nach § 19 Nr. 2 der Schiedsgerichtsordnung dazu befugte Stelle den Ausschluss beantragen.
+
+(4)
+Die Mahnungen nach Abs. 3 sind entbehrlich, wenn das Mitglied seinen Informationspflichten nach § 6 Abs. 3 Satz 1 der Satzung nicht nachgekommen ist.
+
+(5)
+Ist die schuldhaft unterlassene Beitragszahlung unstreitig, kann das Schiedsgericht nach § 30 Abs. 1 der Schiedsgerichtsordnung ohne mündliche Verhandlung durch Vorbescheid entscheiden.
+
+(6)
+Kommt das Mitglied den offenen Forderungen aus seiner\*ihrer Beitragspflicht sowie den nach Abs. 1 angefallenen Rückforderungen in voller Höhe nach, bevor es aufgrund eines Schiedsspruchs seine Parteimitgliedschaft verliert, ist das Verfahren einzustellen.
+
+(7)
+Der\*die Bundesschatzmeister\*in ist berechtigt, zum Ende eines Kalenderjahres einen Verzicht auf die Forderungen gegen ein Mitglied zu erklären, das seine Parteimitgliedschaft nach dieser Vorschrift unter Berücksichtigung der in der Schiedsgerichtsordnung genannten Beschwerdefristen endgültig verloren hat, sofern eine Aufrechterhaltung der Forderung nicht sinnhaft erscheint.
 
 ## § 6 – Mandatsträger\*innenbeiträge
 
@@ -331,4 +350,3 @@ Die Unterhaltung eigener Kapitalgesellschaften durch Landes- oder Kreisverbände
 (2)
 Die wirtschaftliche Tätigkeit dient nur nebensächlich der Gewinnerzielung.
 Vielmehr dient die wirtschaftliche Tätigkeit in ihrer Gesamtrichtung dazu, die satzungsmäßigen Zwecke von Volt Deutschland zu verwirklichen.
-
