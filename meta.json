@@ -1,0 +1,13 @@
+{
+  "association": {
+    "name": "Volt Deutschland",
+    "type": "Bundesverband"
+  },
+  "address": {
+    "street": "Schwedter Str.",
+    "nr": "1",
+    "postal": "10119",
+    "city": "Berlin",
+    "country": "DE"
+  }
+}
