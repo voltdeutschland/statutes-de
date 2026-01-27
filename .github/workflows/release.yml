@@ -1,0 +1,75 @@
+name: Build and Release PDFs
+
+on:
+  push:
+    tags:
+      - '*'
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Typst
+        uses: typst-community/setup-typst@v4
+
+      - name: Get tag commit date
+        id: tag_date
+        run: |
+          # Get the commit date of the tagged commit in ISO format
+          COMMIT_DATE=$(git log -1 --format=%cI ${{ github.ref_name }})
+          echo "commit_date=$COMMIT_DATE" >> $GITHUB_OUTPUT
+          # Also get current date for PDF content
+          echo "current_date=$(date +%Y-%m-%d)" >> $GITHUB_OUTPUT
+
+      - name: Build PDFs
+        run: |
+          mkdir -p dist
+
+          # Find all directories excluding .github and templates
+          for dir in */; do
+            dir_name="${dir%/}"
+
+            # Skip excluded directories
+            if [[ "$dir_name" == ".github" || "$dir_name" == "templates" ]]; then
+              continue
+            fi
+
+            echo "Building PDF for: $dir_name"
+
+            # Run typst with directory name and date as input
+            typst compile \
+              --root . \
+              --font-path templates/fonts \
+              --input directory="$dir_name" \
+              --input date="${{ steps.tag_date.outputs.current_date }}" \
+              templates/main.typ \
+              "dist/${dir_name}.pdf"
+          done
+
+      - name: Create Release
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # Create the release with all PDFs
+          gh release create "${{ github.ref_name }}" \
+            --title "${{ github.ref_name }}" \
+            --generate-notes \
+            dist/*.pdf
+
+      - name: Backdate Release
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # Update the release created_at to match the tag's commit date
+          # This ensures releases appear in chronological order even when tags are pushed out of order
+          gh api \
+            --method PATCH \
+            -H "Accept: application/vnd.github+json" \
+            "/repos/${{ github.repository }}/releases/tags/${{ github.ref_name }}" \
+            -f created_at="${{ steps.tag_date.outputs.commit_date }}"
