@@ -180,7 +180,7 @@ Das zuständige Schiedsgericht hat in jeder Lage des Verfahrens zu prüfen, ob d
 ## § 8 – Gleichberechtigung und Antidiskriminierung
 
 (1)
-Der Bundesvorstand und die Vorstände der Landes-, Kreis- und sonstiger Gebietsverbände der Partei sind verpflichtet, die rechtliche und tatsächliche Gleichstellung der Geschlechter in ihrem jeweiligen Verantwortungsbereich durchzusetzen und zu fördern.
+Der Bundesvorstand und die Vorstände der anderer Gebietsverbände der Partei sind verpflichtet, die rechtliche und tatsächliche Gleichstellung der Geschlechter in ihrem jeweiligen Verantwortungsbereich durchzusetzen und zu fördern.
 Weiterhin sind sie dazu verpflichtet, jeglicher Diskriminierung, insbesondere aufgrund der Staatsangehörigkeit, der Herkunft, der Sprache, des Aussehens, der kulturellen Identität, des Geschlechts, der sexuellen Orientierung, des religiösen Bekenntnisses oder einer Behinderung, entschieden entgegenzuwirken.
 
 (2)
@@ -214,12 +214,12 @@ Volt Deutschland gliedert sich unterhalb des Bundesverbands in absteigender Rang
    Die Landesverbände führen die Bezeichnung "Regional Team".
    Die Landesverbände Berlins, Hamburgs und Bremens können stattdessen auch die Bezeichnung "City-Team" führen.
    In Fällen des Satzes 2 ist die Bezeichnung in der Satzung festzulegen.
-2. in Kreisverbände auf dem Gebiet eines Landkreises/Kreises, einer kreisfreien Stadt/eines Stadtkreises, eines Stadtbezirks der Länder Berlin und Hamburg, einer Stadtgemeinde des Landes Bremen, der Region Hannover, des Regionalverbands Saarbrücken und der Städteregion Aachen.
-   Die Kreisverbände können die Bezeichnung "City-Team" oder "Local Team" führen.
-   Die Wahl der Bezeichnung ist in der Satzung festzulegen.
+2. in untere Gebietsverbände auf dem Gebiet einer oder mehrerer räumlich verbundener Verwaltungseinheiten, wie Landkreisen/Kreisen, kreisfreien Städten/Stadtkreisen, Stadtbezirken der Länder Berlin und Hamburg, Stadtgemeinden des Landes Bremen, der Region Hannover, dem Regionalverband Saarbrücken und der Städteregion Aachen.
+   Untere Gebietsverbände führen den Namen der Partei unter Zusatz ihrer Organisationsstellung.
+   Der Zusatz ist nur an nachfolgender Stelle zulässig und wird in der Satzung festgelegt.
 
 (2)
-Kreisverbände können je nach lokalen Gegebenheiten in ihrer Satzung eine weitergehende Untergliederung beschließen.
+Untere Gebietsverbände können je nach lokalen Gegebenheiten in ihrer Satzung eine weitergehende Untergliederung beschließen.
 
 (3)
 Auf jedem Gebiet gibt es nur einen Gebietsverband gleichen Rangs.
@@ -230,35 +230,30 @@ Organisatorische Zusammenschlüsse mehrerer Gebietsverbände eines Rangs, die di
 ## § 11 – Gründung von Landes- und Kreisverbänden
 
 (1)
-Die Gründung eines Landes- oder Kreisverbands bedarf der vorherigen Zustimmung des Bundesvorstands.
+Die Gründung eines Gebietsverbands bedarf der vorherigen Zustimmung des rangniedrigsten Vorstandes, dessen Zuständigkeit das Gebiet des zu gründenden Verbandes vollständig umfasst.
 
 (2)
-Der Antrag auf Zustimmung zur Gründung des Landes- oder Kreisverbands ist an den Bundesvorstand zu richten und bedarf zu seiner Wirksamkeit der Unterzeichnung von mindestens sieben Mitgliedern, die im betroffenen Gebiet ihren mitgliedschaftlichen Wohnsitz haben.
+Der Antrag auf Zustimmung zur Gründung ist an den zuständigen Vorstand zu richten und bedarf zu seiner Wirksamkeit der Unterzeichnung von mindestens zwanzig Mitgliedern, die im betroffenen Gebiet ihren mitgliedschaftlichen Wohnsitz haben.
 Der Antrag ist innerhalb einer angemessenen Frist, spätestens aber innerhalb von vier Wochen, per Beschluss zu bescheiden.
 
 (3)
-Der Gründung ist grundsätzlich zuzustimmen, wenn mindestens zwanzig Mitglieder Volt Deutschlands ihren mitgliedschaftlichen Wohnsitz in diesem Gebiet haben und mindestens fünf dieser Mitglieder nicht dem unter den Mitgliedern am stärksten repräsentierten Geschlecht angehören.
-Eine Ablehnung kann bei Vorliegen dieser Voraussetzung nur erfolgen, wenn der Bundesvorstand ernsthafte Bedenken bezüglich der organisatorischen Festigkeit der Mitgliederstruktur geltend machen kann.
-In diesem Fall ist eine Verweigerung der Zustimmung vom Bundesvorstand innerhalb von zwei Wochen ab Bekanntgabe der Entscheidung schriftlich oder per E-Mail zu begründen.
+Der Gründung ist grundsätzlich zuzustimmen, wenn keine ernsthaften Bedenken bezüglich der organisatorischen Festigkeit der Mitgliederstruktur geltend gemacht werden können und mindestens 25% der Mitglieder nichtdem am stärksten repräsentierten Geschlecht angehören.
+Im Falle einer Ablehnung kann die Gründung eines Verbandes auf dem selben Gebiet nach einer Frist von 6 Monaten erneut beantragt werden.
 
 (4)
-Sind die Voraussetzungen des Absatzes 3 Satz 1 nicht erfüllt, so kann der Bundesvorstand der Gründung eines Landes- oder Kreisverbands ausnahmsweise zustimmen, sofern nachgewiesen werden kann, dass die Mitgliederstruktur ausreichend gefestigt ist, um die Geschäfte des Landes- oder Kreisverbands pflicht- und ordnungsgemäß zu führen, oder wenn die Interessen der Partei dies erfordern.
-Dies ist insbesondere dann der Fall, wenn die Gründung eines Landes- oder Kreisverbands für die Teilnahme an einer Bundestags-, Landtags- oder Kommunalwahl erforderlich oder hilfreich ist.
+Ist dem Antrag auf Gründung stattgegeben, so hat der zuständige Vorstand innerhalb von zwei Wochen ab Zustimmung den Termin der Gründungsversammlung bekanntzugeben.
 
 (5)
-Stimmt der Bundesvorstand der Gründung zu, so hat er innerhalb von zwei Wochen den Termin der Gründungsversammlung zu bestimmen, der innerhalb eines Zeitraumes von zwölf Wochen, gerechnet ab der Bekanntgabe der Zustimmungsentscheidung, liegen muss.
-Zu dieser Gründungsversammlung sind alle Mitglieder zu laden, die ihren mitgliedschaftlichen Wohnsitz in dem Gebiet haben.
-Die Ladungsfrist beträgt mindestens zwei Wochen.
-Der Termin der Gründungsversammlung darf nicht später als zwölf Wochen ab der Zustimmung liegen.
-
-(6)
 Hat ein Gebietsverband keinen gewählten handlungs- und beschlussfähigen Vorstand mehr, so stellt der Vorstand des nächsthöherrangigen Gebietsverbands die Handlungs- und Beschlussunfähigkeit durch Beschluss fest und lädt alle Mitglieder, die ihren mitgliedschaftlichen Wohnsitz in dem Gebiet haben, zum Parteitag oder zur Mitgliederversammlung, um einen neuen Vorstand zu wählen.
 Die Ladungsfrist beträgt zwei Wochen.
 Bis zu dieser Wahl führt der Vorstand des nächsthöherrangigen Gebietsverbands die Geschäfte kommissarisch.
 
-(7)
+(6)
 Der Bundesvorstand kann einen Kreis- oder Landesverband, der eine Mitgliederzahl von zehn für eine Dauer von länger als sechs Monaten unterschreitet, auflösen.
 Über die beabsichtigte Auflösung ist der Vorstand des betroffenen Gebietsverbands mindestens drei Monate im Voraus zu informieren.
+
+(7)
+Vor Gründung des ersten unteren Gebietsverbandes beschließen Landesverbände in ihrer jeweiligen Satzung die Anwendung dieser oder abweichender Vorschriften für die Gründung und Aufsicht von unteren Gebietsverbänden.
 
 ## § 12 – Rechte und Pflichten der Gebietsverbände
 
@@ -266,27 +261,27 @@ Der Bundesvorstand kann einen Kreis- oder Landesverband, der eine Mitgliederzahl
 Die Gebietsverbände ermöglichen den einzelnen Mitgliedern eine angemessene Mitwirkung an der Willensbildung der Partei.
 
 (2)
-Die Kreisverbände und Landesverbände genießen Satzungs-, Finanz-, Personal- sowie Organisationshoheit und regeln ihre Angelegenheiten innerhalb ihres Gebiets selbst, soweit diese Regelungen nicht im Widerspruch zu den Satzungen, politischen Grundsätzen, Programmen oder Beschlüssen höherrangiger Gebietsverbände stehen.
-In den Kreisverbänden erfolgt der Schwerpunkt der politischen Tätigkeit von Volt Deutschland.
-Die Landesverbände dienen vorrangig der Teilnahme an Wahlen und dem Austausch zwischen den Kreisverbänden.
-Landesverbände können unter ihrem Namen klagen und verklagt werden.
+Die unteren Gebietsverbände und Landesverbände genießen Satzungs-, Finanz-, Personal- sowie Organisationshoheit und regeln ihre Angelegenheiten innerhalb ihres Gebiets selbst, soweit diese Regelungen nicht im Widerspruch zu den Satzungen, politischen Grundsätzen, Programmen oder Beschlüssen höherrangiger Gebietsverbände stehen.
+In den unteren Gebietsverbänden erfolgt der Schwerpunkt der politischen Tätigkeit von Volt Deutschland; sofern kein unterer Gebietsverband besteht, fällt die Verantwortung der politischen Tätigkeit auf den nächsthöheren Verband.
+Die Landesverbände dienen zudem dem Austausch zwischen den Gebietsverbänden.
+Sie unterstützen untere Gebietsverbände, wenn möglich und sofern notwendig, in ihrer politischen Tätigkeit.
 
 (3)
 Die Satzungen der Gebietsverbände müssen diese Bestimmungen enthalten:
 
-1. Eine aufeinanderfolgende Wiederwahl für dasselbe oder ein anderes Vorstandsamt des jeweiligen Kreis- bzw. Landesverbandes ist einmal möglich; danach kann das Mitglied für zwei Wahlperioden nicht für den betroffenen Landes- oder Kreisvorstand kandidieren.
+1. Eine aufeinanderfolgende Wiederwahl für dasselbe oder ein anderes Vorstandsamt des jeweiligen unteren Gebiets- bzw. Landesverbandes ist einmal möglich; danach kann das Mitglied für zwei Wahlperioden nicht für den betroffenen Landes- oder Vorstand eines unteren Gebietsverbandes kandidieren.
    Bestimmungen, die abweichend von Satz 1 eine zweite Wiederwahl im Einzelfall mit 2/3 Mehrheit des jeweiligen Landesparteitags bzw. Mitgliederversammlung ermöglichen, sind zulässig.
    Die Neuwahl der Vorstands erfolgt in jedem zweiten Kalenderjahr.
 2. Bei Aufstellungen von Wahllisten für Wahlen zum Europäischen Parlament, Deutschen Bundestag, zu Landtagen, dem Abgeordnetenhaus Berlin, der Bremer und Hamburger Bürgerschaft sowie kommunalen Vertretungskörperschaften ist im Falle der Besetzung der einzelnen Listenpositionen in einem anderen Wahlverfahren als dem der §§ 22 bis 24 der Allgemeinen Wahlordnung von Volt Deutschland zwingend sicherzustellen, dass zwei aufeinanderfolgende Listenplätze nicht von zwei Personen desselben Geschlechts besetzt werden können. Eine Abweichung kann erfolgen, wenn sich nur noch Kandidat\*innen eines Geschlechts für die verbleibenden Listenplätze bewerben.
-3. Eine Mitgliedschaft im Vorstand eines Landesverbandes oder Kreisverbandes ist mit einem Mandat als Abgeordnete\*r des Europäischen Parlaments, des Bundestags, eines Landtags sowie mit einem öffentlichen Amt als Mitglied der Europäischen Kommission, der Bundesregierung oder einer Landesregierung, sowie eines Amtes als Bürger- oder Oberbürgermeister\*in oder Landrat/Landrätin unvereinbar.
-   Eine Mitgliedschaft im Vorstand eines Landesverbandes oder Kreisverbandes ist mit einem Mandat auf kommunaler Ebene vereinbar.
-4. Eine Mitgliedschaft im Landesvorstand oder Kreisvorstand ist mit einer Mitgliedschaft im Vorstand eines anderen Landes- oder Kreisverbandes, des Bundesverbandes oder von Volt Europa unvereinbar.
+3. Eine Mitgliedschaft im Vorstand eines Landesverbandes oder unteren Gebietsverbandes ist mit einem Mandat als Abgeordnete\*r des Europäischen Parlaments, des Bundestags, eines Landtags sowie mit einem öffentlichen Amt als Mitglied der Europäischen Kommission, der Bundesregierung oder einer Landesregierung, sowie eines Amtes als Bürger- oder Oberbürgermeister\*in oder Landrat/Landrätin unvereinbar.
+   Eine Mitgliedschaft im Vorstand eines Landesverbandes oder unteren Gebietsverbandes ist mit einem Mandat auf kommunaler Ebene vereinbar.
+4. Eine Mitgliedschaft im Landesvorstand oder Vorstand eines unteren Gebietsverbandes ist mit einer Mitgliedschaft im Vorstand eines anderen unteren Gebietsverbandes, Landesverbandes, des Bundesverbandes oder von Volt Europa unvereinbar.
 
 Abweichend von Satz 1 Nr. 1 kann die Satzung der Gebietsverbände die Bestimmung enthalten, dass die Neuwahl des Vorstands in jedem Kalenderjahr erfolgt.
-In diesem Fall ist eine aufeinanderfolgende Wiederwahl für dasselbe oder ein anderes Vorstandsamt des jeweiligen Kreis- bzw. Landesverbandes dreimal möglich; danach kann das Mitglied für vier Wahlperioden nicht für den betroffenen Landes- oder Kreisvorstand kandidieren.
+In diesem Fall ist eine aufeinanderfolgende Wiederwahl für dasselbe oder ein anderes Vorstandsamt des jeweiligen unteren Gebietsverbandes bzw. Landesverbandes dreimal möglich; danach kann das Mitglied für vier Wahlperioden nicht für den betroffenen Landesvorstand oder Vorstand eines unteren Gebietsverbandes kandidieren.
 
 (4)
-Satzungsänderungen der Kreis- und Landesverbände sind dem Bundesvorstand innerhalb von zwei Wochen nach ihrem Beschluss anzuzeigen.
+Satzungsänderungen der unteren Gebiets- und Landesverbände sind dem Bundesvorstand innerhalb von zwei Wochen nach ihrem Beschluss anzuzeigen.
 
 (5)
 Der Gebietsverband ist für alle Fragen seines Gebiets zuständig, solange und soweit nicht das Gebiet eines gleichrangigen oder höherrangigen Gebietsverbands betroffen ist.
@@ -340,16 +335,16 @@ Notwendige Organe der Landesverbände sind:
 2. der Landesvorstand
 
 (3)
-Notwendige Organe der Kreisverbände sind:
+Notwendige Organe der unteren Gebietsverbände sind:
 
 1. die Mitgliederversammlung
-2. der Kreisvorstand
+2. der Vorstand
 
 (4)
-Landes- und Kreisverbände können in ihrer Satzung zusätzliche Organe regeln.
+Landes- und untere Gebietsverbände können in ihrer Satzung zusätzliche Organe regeln.
 
 (5)
-In Kreis- und Landesverbänden darf die Anzahl der Vorstandsmitglieder desselben Geschlechtes
+In unteren Gebiets- und Landesverbänden darf die Anzahl der Vorstandsmitglieder desselben Geschlechtes
 
 1. bei drei Vorstandsmitgliedern zwei Drittel,
 2. bei einer höheren Anzahl von Vorstandsämtern 60 Prozent der satzungsgemäßen Vorstandspositionen nicht überschreiten.
@@ -362,7 +357,7 @@ Er tagt als ordentlicher Bundesparteitag mindestens einmal im Jahr und wird vom 
 Der Bundesparteitag gibt sich eine Geschäftsordnung.
 
 (2)
-Der Bundesvorstand kann in dringenden Fällen und muss auf einen mit Gründen versehenen Antrag von mindestens einem Fünftel der Mitglieder, drei Landesverbänden oder sieben Kreisverbänden einen außerordentlichen Parteitag einberufen.
+Der Bundesvorstand kann in dringenden Fällen und muss auf einen mit Gründen versehenen Antrag von mindestens einem Fünftel der Mitglieder, drei Landesverbänden oder sieben unteren Gebietsverbänden einen außerordentlichen Parteitag einberufen.
 
 (3)
 Der Bundesvorstand beruft den ordentlichen Bundesparteitag schriftlich oder per E-Mail mit einer Frist von zehn Wochen unter Angabe der vorläufigen Tagesordnung, des Tagungsortes sowie der Antrags- und soweit aufgrund von Wahlen notwendig der Wahlkommission ein.
@@ -414,7 +409,8 @@ Stehen nicht genügend Ersatzdelegierte oder Stimmrechtsübertragungen zur Verf�
 
 (10)
 Die Mitglieder des Bundesvorstandes und der Landesvorstände haben ein Teilnahme- und Rederecht.
-Der Parteitag kann auch anderen als den stimmberechtigten Teilnehmern durch Beschluss das Rederecht erteilten.
+Alle Mitglieder von Volt Europa sowie von nationalen Chaptern haben ein Rederecht, sofern der Parteitag dies nicht per Beschluss einschränkt.
+Weiteren Teilnehmenden kann per Beschluss das Rederecht erteilt werden.
 
 (11)
 Die Bewerber\*innen für eine gemeinsame Liste für alle Länder zur Europawahl werden in einer Versammlung der Mitglieder gewählt, die zum Zeitpunkt ihres Zusammentritts zum Europäischen Parlament wahlberechtigt sind.

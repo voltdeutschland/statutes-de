@@ -87,8 +87,8 @@ b) der Bundesfinanzrat für in seinen nach der Finanzordnung festgelegten Aufgab
 c) der Bundesschatzmeister für in seine nach der Finanzordnung festgelegten Aufgabenbereiche fallenden Anträge,
 d) die Vorstände der Landesverbände,
 e) die Landesparteitage,
-f) die Vorstände der Kreisverbände,
-g) die Mitgliederversammlungen der Kreisverbände,
+f) die Vorstände der unteren Gebietsverbände,
+g) die Mitgliederversammlungen der unteren Gebietsverbände,
 h) eine Gruppe von mindestens 1 % der Mitglieder bis zu einer gesamt Mitgliederzahl von 4500 Mitgliedern.
 Darüber hinaus reichen die Unterstützungsunterschriften von 45 Mitgliedern.
 i) bei Durchführung des Parteitages als Vertreter\*innenversammlung im Fall von Anträgen nach § 16 Absatz 6 Satz 4 der Satzung von Volt Deutschland eine Gruppe von mindestens zwanzig auf der Versammlung stimmberechtigt akkreditierte Delegierten und
@@ -205,7 +205,7 @@ Die Bestimmungen dieser Geschäftsordnung gelten ergänzend, soweit sie der Satz
 ## § 10 – Redebeiträge
 
 (1)
-Alle stimmberechtigten Teilnehmer\*innen sowie alle Mitglieder haben Rederecht.
+Alle stimmberechtigten Teilnehmer\*innen sowie alle Mitglieder von Volt Deutschland und Volt Europa haben Rederecht.
 Dies gilt auch für Mitglieder, die nicht am Ort der Versammlung anwesend sind, sofern die technische Durchführung der Versammlung Redebeiträge für sie ermöglicht.
 Darüber, ob die technische Durchführung Redebeiträge in Abwesenheit ermöglicht und über welchen Weg diese einzureichen sind, ist in der Einladung zum Parteitag zu informieren.
 
@@ -249,8 +249,8 @@ Gäste können auf Einladung durch den Bundesvorstand an Parteitagen teilnehmen.
 Der Bundesvorstand kann die Zahl der am Parteitag Teilnehmenden ohne Stimmrecht aus organisatorischen Gründen begrenzen.
 
 (2)
-Gemäß § 15 Absatz 11 der Satzung kann der Parteitag Gästen das Rederecht erteilen.
-Teilnehmende Mitglieder haben nach § 10 Abs. 2 unabhängig ihres Stimmrechts das Rederecht; für nicht stimmberechtigte Teilnehmer\*innen kann die Versammlung per Antrag das Rederecht einschränken.
+Gemäß § 15 Absatz 10 der Satzung kann der Parteitag Gästen das Rederecht erteilen.
+Teilnehmende Mitglieder von Volt Europa und nationalen Chaptern haben nach § 10 Abs. 1 unabhängig ihres Stimmrechts das Rederecht; für nicht stimmberechtigte Teilnehmende kann die Versammlung per Beschluss das Rederecht einschränken.
 
 (3)
 Parteitage stehen Vertreter\*innen der Presse offen.
@@ -272,4 +272,3 @@ Für die Parteitage übt die Sitzungsleitung, im Übrigen der Bundesvorstand das
 ## § 14 – Schlussbestimmung
 
 Sich durch die Änderung dieser Geschäftsordnung ergebende Änderungen von Fristen und Voraussetzungen für die Antragstellung gelten nicht auf dem Parteitag, auf dem sie beschlossen wurden.
-

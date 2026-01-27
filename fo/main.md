@@ -4,27 +4,27 @@
 Volt Deutschland regelt ihre Finanzverhältnisse folgendermaßen:
 
 1. Der/die Bundesschatzmeister\*in verwaltet die zentralen Finanzen und ist für die Beschaffung der finanziellen Mittel des Bundesverbands verantwortlich.
-2. Die Schatzmeister\*innen der Landes- und Kreisverbände verwalten die Finanzen ihrer jeweiligen Verbände und sind für die Beschaffung der finanziellen Mittel ihrer jeweiligen Verbände verantwortlich.
+2. Die Schatzmeister\*innen der Landes- und unteren Gebietsverbände verwalten die Finanzen ihrer jeweiligen Verbände und sind für die Beschaffung der finanziellen Mittel ihrer jeweiligen Verbände verantwortlich.
 3. Der Bundesfinanzrat berät Volt Deutschland in allen Finanzfragen, er fasst Beschlüsse und dient der Vernetzung der Finanzverantwortlichen.
    Er entwickelt und plant Maßnahmen zur finanziellen Leistungsfähigkeit aller Ebenen Volt Deutschlands.
 
 (2)
 Die Finanzwirtschaft Volt Deutschlands folgt den Grundsätzen der wirtschaftlichen und sparsamen Haushaltsführung.
-Die Schatzmeister\*innen des Bundesverbands und der jeweiligen Landes- und Kreisverbände sind dafür verantwortlich, die dafür notwendigen Maßnahmen zu treffen.
+Die Schatzmeister\*innen des Bundesverbands und der jeweiligen Landes- und unteren Gebietsverbände sind dafür verantwortlich, die dafür notwendigen Maßnahmen zu treffen.
 
 ## § 2 – Rechnungslegung
 
 (1)
-Der Bundesverband und die Landes- und Kreisverbände sind verpflichtet, ihre Bücher nach den Grundsätzen ordnungsgemäßer Buchführung zu führen und jährlich den Rechenschaftsbericht nach den Vorschriften des Fünften Abschnittes des Parteiengesetzes aufzustellen.
-Zur Gewährleistung des einheitlichen Rechenschaftsberichts Volt Deutschlands sind die Landes- und Kreisverbände angehalten, die Bundesgeschäftsstelle mit ihrer Buchführung zu beauftragen.
-Die dem Bundesverband dabei entstehenden Kosten tragen die in Anspruch nehmenden Landes- und Kreisverbände anteilig.
+Der Bundesverband und die Landes- und unteren Gebietsverbände sind verpflichtet, ihre Bücher nach den Grundsätzen ordnungsgemäßer Buchführung zu führen und jährlich den Rechenschaftsbericht nach den Vorschriften des Fünften Abschnittes des Parteiengesetzes aufzustellen.
+Zur Gewährleistung des einheitlichen Rechenschaftsberichts Volt Deutschlands sind die Landes- und unteren Gebietsverbände angehalten, die Bundesgeschäftsstelle mit ihrer Buchführung zu beauftragen.
+Die dem Bundesverband dabei entstehenden Kosten tragen die in Anspruch nehmenden Landes- und unteren Gebietsverbände anteilig.
 
 (2)
 Der/die Bundesschatzmeister\*in und die Schatzmeister\*innen der Landesverbände kontrollieren fortlaufend die ordnungsgemäße Buchführung niederrangiger Verbände und gewährleisten damit, dass jederzeit die zur Erstellung des Prüfvermerkes für den Rechenschaftsbericht nach § 29 Abs.1 PartG vorgeschriebenen Stichproben möglich sind.
 
 (3)
-Der/die Bundesschatzmeister\*in ist berechtigt und verpflichtet, zur einheitlichen Gestaltung des Rechnungswesens sowie zur ordnungsgemäßen Vereinnahmung und Veröffentlichung von Spenden im Sinne des Parteiengesetzes Anweisungen zu erteilen und verbindliche Richtlinien für den Bundesverband sowie die Landes- und Kreisverbände herauszugeben.
-Die Landes- und Kreisverbände sind berechtigt und verpflichtet, die vom Bundesverband zu diesen Zwecken zur Verfügung gestellten IT-Systeme zu nutzen.
+Der/die Bundesschatzmeister\*in ist berechtigt und verpflichtet, zur einheitlichen Gestaltung des Rechnungswesens sowie zur ordnungsgemäßen Vereinnahmung und Veröffentlichung von Spenden im Sinne des Parteiengesetzes Anweisungen zu erteilen und verbindliche Richtlinien für den Bundesverband sowie die Landes- und unteren Gebietsverbände herauszugeben.
+Die Landes- und unteren Gebietsverbände sind berechtigt und verpflichtet, die vom Bundesverband zu diesen Zwecken zur Verfügung gestellten IT-Systeme zu nutzen.
 
 ## § 3 – Prüfungswesen und Rechnungsprüfer\*innen
 
@@ -35,11 +35,11 @@ Jedes Vorstandsmitglied ist berechtigt, jederzeit Einsicht in die Buchführung, 
 Der Bundesverband und die Landesverbände prüfen stichprobenartig die Konten und Kassen ihrer Untergliederungen nach Maßgabe des Parteiengesetzes.
 
 (3)
-Der Bundesverband sowie die Landes- und Kreisverbände sind verpflichtet, die Buchführung, die Kassen und die Konten durch satzungsgemäß bestellte Rechnungsprüfer\*innen entsprechend § 9 Abs. 5 PartG prüfen zu lassen.
+Der Bundesverband sowie die Landes- und unteren Gebietsverbände sind verpflichtet, die Buchführung, die Kassen und die Konten durch satzungsgemäß bestellte Rechnungsprüfer\*innen entsprechend § 9 Abs. 5 PartG prüfen zu lassen.
 
 (4)
-Der Bundesparteitag und die Mitgliederversammlungen der Landes- und Kreisverbände wählen in nicht geheimer Wahl jeweils drei Rechnungsprüfer\*innen für eine Amtszeit von zwei Jahren.
-Landes- und Kreisverbände können in ihrer Satzung eine abweichende Anzahl von Rechnungsprüfer\*innen, mindestens aber zwei, festlegen.
+Der Bundesparteitag und die Mitgliederversammlungen der Landes- und unteren Gebietsverbände wählen in nicht geheimer Wahl jeweils drei Rechnungsprüfer\*innen für eine Amtszeit von zwei Jahren.
+Landes- und unteren Gebietsverbände können in ihrer Satzung eine abweichende Anzahl von Rechnungsprüfer\*innen, mindestens aber zwei, festlegen.
 Ungeachtet der nach den Sätzen 1 und 2 zu wählenden Anzahl ist bei allen wesentlichen Prüfungshandlungen das Vier-Augen-Prinzip einzuhalten - insofern die Prüfung durch lediglich eine\*n Rechnungsprüfer\*in stets ausgeschlossen.
 
 (5)
@@ -64,7 +64,7 @@ In jedem Fall sind in diesen Bericht die Rahmenbedingungen, der Umfang der Prüf
 Der/die Bundesschatzmeister\*in trägt die Verantwortung für die fristgerechte Vorlage des Rechenschaftsberichtes bei der/dem Präsidentin/en des Deutschen Bundestages gemäß § 23 Abs. 2 Satz 3 PartG.
 Zu diesem Zweck legen
 
-a) die Schatzmeister\*innen der Kreisverbände dem/der Schatzmeister\*in ihres Landesverbandes - wenn kein Landesverband besteht, dem/der Bundesschatzmeister\*in - bis spätestens zum 31. März eines jeden Jahres die Rechenschaftsberichte der Kreisverbände und
+a) die Schatzmeister\*innen der unteren Gebietsverbände dem/der Schatzmeister\*in ihres Landesverbandes - wenn kein Landesverband besteht, dem/der Bundesschatzmeister\*in - bis spätestens zum 31. März eines jeden Jahres die Rechenschaftsberichte der unteren Gebietsverbände und
 b) die Schatzmeister\*innen der Landesverbände dem/der Bundesschatzmeister\*in bis spätestens zum 31. Mai eines jeden Jahres die Rechenschaftsberichte der Landesverbände vor.
 
 (2)
@@ -100,16 +100,19 @@ Bei quartalsweiser oder jährlicher Zahlung wird zu diesem Zeitpunkt ebenfalls d
 (5)
 Der Mitgliedsbeitrag wird vom Bundesverband erhoben und verteilt.
 Soweit Volt Deutschland Mitglied der Volt Europa AISBL ist, erhält Volt Europa AISBL im Rahmen der nach § 9 der Satzung von Volt Deutschland bestehenden Mitgliedschaften einen Anteil des Mitgliedsbeitrages.
-Die Landes- und Kreisverbände, in deren Zuständigkeitsbereich das Mitglied seinen Wohnsitz hat, erhalten jeweils einen Anteil des nach Satz 2 verbleibenden Mitgliedsbeitrages.
+Die Landes- und unteren Gebietsverbände, in deren Zuständigkeitsbereich das Mitglied seinen Wohnsitz hat, erhalten jeweils einen Anteil des nach Satz 2 verbleibenden Mitgliedsbeitrages.
 Sofern ein Verband nicht besteht, steht der Anteil dem nächsthöheren Verband zu.
 
 (6)
 Über die Höhe des an Volt Europa AISBL abzuführenden Anteils beschließt der Bundesparteitag.
-Der Bundesparteitag beschließt weiterhin über die Höhe der zwischen dem Bundesverband und den Landes- und Kreisverbänden zu verteilenden Anteile des nach Satz 1 verbleibenden Gesamtanteils.
+Der Bundesparteitag beschließt weiterhin über die Höhe der zwischen dem Bundesverband und den Landes- und unteren Gebietsverbände zu verteilenden Anteile des nach Satz 1 verbleibenden Gesamtanteils.
 
 (7)
 Der Bundesverband zahlt den Anteil der Mitgliedsbeiträge quartalsweise direkt an die Landesverbände und Kreisverbände aus.
-Auf Antrag einzelner Landes- oder Kreisverbände kann der/die Bundesschatzmeister\*in eine kurzfristige Auszahlung der jeweiligen Anteile bewilligen.
+Auf Antrag einzelner Landesverbände kann der/die Bundesschatzmeister\*in eine kurzfristige Auszahlung der jeweiligen Anteile bewilligen.
+Die Landesparteitage beschließen über die Höhe der zwischen dem Landesverband und den unteren Gebietsverbänden zu verteilenden Anteile des nach Satz 2 verbleibenden Gesamtanteils.
+Die von den Landesparteitagen beschlossene Höhe der Anteile gilt jeweils für das folgende Kalenderjahr; eine Änderung im laufenden Kalenderjahr ist nur im Falle des erstmaligen Beschlusses möglich.
+Liegt kein Beschluss des Landesparteitages vor, so gilt der zuletzt durch den Landesparteitag beschlossene Verteilerschlüssel weiter fort.
 
 ## § 5a – Verletzung der Beitragspflicht, Mahnung und Ausschluss
 
@@ -145,7 +148,7 @@ Die Beiträge sind als solche gesondert zu erfassen.
 Die Beiträge werden vom jeweils rangniedrigsten Verband erhoben, der das Wahlgebiet des Parlaments / der Vertretungskörperschaft vollständig umfasst, und stehen diesem ungeteilt zu, soweit die nachfolgenden Sätze nichts anderes regeln.
 Bei Mandatsträger\*innen auf Ebene des Bundes werden die Beiträge vom Bundesverband erhoben und zu gleichen Teilen zwischen Bundesverband und dem jeweiligen Landesverband aufgeteilt.
 Bei Mandatsträger\*innen im Europäischen Parlament werden die Beiträge vom Bundesverband erhoben; dabei werden auf Wunsch der Mandatsträger\*innen direkt an Volt Europa AISBL geleistete Beiträge bis zur Höhe von maximal 50 Prozent angerechnet.
-Sofern ein Kreisverband noch nicht besteht, können Mandatsträger\*innen auf kommunaler Ebene bestimmen, dass ihr Beitrag vom erhebenden Verband innerhalb der entsprechenden kommunalen Gebietskörperschaft verwendet wird.
+Mandatsträger\*innen auf kommunaler Ebene können abweichend von Satz 1 selbst bestimmen, ob sie bis zu 50% ihres Beitrags an den Landesverband entrichten wollen.
 
 (3)
 Der Parteitag / die Mitgliederversammlung des jeweils erhebenden Verbandes beschließt die Höhe des Beitrages in Form eines Prozentsatzes oder eines Festbetrages vor Beginn der Amtsperiode oder auf dem darauffolgenden Parteitag nach Beginn der Amtsperiode rückwirkend.
@@ -177,7 +180,7 @@ Entsprechendes gilt auch für von den Fraktionen der jeweiligen Ebene in Aufsich
 ## § 7 – Spenden
 
 (1)
-Der Bundesverband und die Landes- und Kreisverbände sind berechtigt, Spenden anzunehmen.
+Der Bundesverband und die Landes- und unteren Gebietsverbände sind berechtigt, Spenden anzunehmen.
 Die für ihre Verbandsebene bestimmten Spenden werden von den Schatzmeister\*innen der jeweiligen Verbände nach § 25 Abs. 1 Satz 3 und 4 PartG entgegengenommen.
 Ausgenommen sind Spenden, die im Sinne von § 25 PartG unzulässig sind.
 Können unzulässige Spenden nicht zurückgegeben werden, so sind diese über die Landesverbände und durch den Bundesverband unverzüglich an die/den Präsidentin/en des Deutschen Bundestages weiterzuleiten.
@@ -236,8 +239,8 @@ Ausgaben, für die kein Titel im Haushaltsplan besteht, dürfen nur nach Umwidmu
 Die Umwidmung bedarf der ausdrücklichen Zustimmung des Bundesfinanzrates.
 
 (4)
-Landes- und Kreisverbände beschließen im Rahmen einer eigenen Haushaltsplanung selbständig über die Einnahmen und Ausgaben ihres Verbandes.
-Die Haushaltspläne der Landes und Kreisverbände sind den jeweils übergeordneten Verbänden unverzüglich vorzulegen und beschlossene Änderungen anzuzeigen.
+Landes- und unteren Gebietsverbände beschließen im Rahmen einer eigenen Haushaltsplanung selbständig über die Einnahmen und Ausgaben ihres Verbandes.
+Die Haushaltspläne der Landes und unteren Gebietsverbände sind den jeweils übergeordneten Verbänden unverzüglich vorzulegen und beschlossene Änderungen anzuzeigen.
 Die Absätze 1 bis 3 gelten entsprechend.
 
 (5)
@@ -249,12 +252,12 @@ Die mittelfristige Finanzplanung umfasst einen Zeitraum von mindestens vier Jahr
 (1)
 Grundsätzlich sind alle finanzwirksamen Vorgänge von Volt Deutschland vom Vorstand des jeweiligen Verbandes zu beschließen.
 Alle finanzwirksamen Beschlüsse haben stets im Rahmen der Haushalts- und Finanzplanung zu erfolgen.
-Verbindlichkeiten, für die eine Deckung in der Haushaltsplanung der Landes- und Kreisverbände bzw. der mittelfristigen Finanzplanung des Bundesverbands nicht vorgesehen ist, dürfen nicht eingegangen werden.
+Verbindlichkeiten, für die eine Deckung in der Haushaltsplanung der Landes- und unteren Gebietsverbände bzw. der mittelfristigen Finanzplanung des Bundesverbands nicht vorgesehen ist, dürfen nicht eingegangen werden.
 Die Volt Deutschland zugeflossenen Geldmittel dürfen nur für satzungsgemäße Zwecke entsprechend der in § 24 Abs. 5 PartG definierten Ausgabenarten verwendet werden.
 
 (2)
 Für die Aufnahme von Krediten ist stets die Einwilligung des Vorstandes des jeweiligen Verbandes erforderlich.
-Landes- oder Kreisverbände bedürfen zusätzlich der Einwilligung des jeweils höherrangigen Verbandes und die vollständige Tilgung im folgenden Haushaltsjahr muss gesichert sein.
+Landes- oder untere Gebietsverbände bedürfen zusätzlich der Einwilligung des jeweils höherrangigen Verbandes und die vollständige Tilgung im folgenden Haushaltsjahr muss gesichert sein.
 
 (3)
 Für den Vollzug des Haushalts- und Finanzplans ist der/die Bundesschatzmeister\*in verantwortlich.
@@ -263,9 +266,9 @@ Ausgaben bis zu jeweils 10.000 Euro sind mit Einwilligung zweier Zeichnungsberec
 Für alle anderen Ausgaben, die jeweils 10.000 Euro übersteigen, ist die Einwilligung des Bundesvorstands erforderlich.
 
 (4)
-Abs. 3 gilt entsprechend für Landes- und Kreisverbände.
-Die Wertgrenzen sind hierbei um 50 Prozent für Landesverbände und 75 Prozent für Kreisverbände reduziert.
-In den Satzungen der Landes- und Kreisverbände können zusätzlich niedrigere Wertgrenzen festgelegt werden.
+Abs. 3 gilt entsprechend für Landes- und unteren Gebietsverbände.
+Die Wertgrenzen sind hierbei um 50 Prozent für Landesverbände und 75 Prozent für untere Gebietsverbände reduziert.
+In den Satzungen der Landes- und unteren Gebietsverbände können zusätzlich niedrigere Wertgrenzen festgelegt werden.
 
 (5)
 Widerspricht der/die Schatzmeister\*in des jeweiligen Verbandes außerplanmäßigen Ausgaben oder der Aufnahme von Krediten, so dürfen diese nur getätigt werden, wenn der Vorstand des jeweiligen Verbandes sie mit Zweidrittelmehrheit beschließt.
@@ -292,7 +295,7 @@ Die dauerhaften Bestände aller Kassen dürfen 1.000 Euro nicht übersteigen.
 Darüber hinausgehende Bestände sind unverzüglich auf die Konten des Bundesverbandes einzuzahlen.
 
 (4)
-Landes- und Kreisverbände führen Kassen in eigenem Namen.
+Landes- und unteren Gebietsverbände führen Kassen in eigenem Namen.
 Die Führung von Bankkonten erfolgt für eigene Rechnung aber im Rahmen von Treuhandkonten im Namen des Bundesverbands.
 Zu diesem Zweck ist eine entsprechende Treuhandvereinbarung zu schließen.
 Vor Eröffnung eines Kontos bei einem Zahlungsdienstleister ist die Einwilligung des/der Bundesschatzmeister\*in einzuholen.
@@ -306,7 +309,7 @@ Notwendige Kosten und Auslagen, die innerparteilichen Amtsträger\*innen, Bewerb
 (2)
 Höhe und Umfang der Erstattungen beschließt der Bundesvorstand in einheitlichen Richtlinien, die den Grundsätzen der Verhältnismäßigkeit und Angemessenheit zu entsprechen haben.
 Erstattungen, Entschädigungen und Tagessätze sind grundsätzlich der Höhe nach auf die entsprechenden Regelsätze des Bundesreisekostengesetzes, stets aber auf die steuerlichen Höchstgrenzen zu begrenzen.
-Eigene, abweichende Regelungen der Landes- und Kreisverbände sind zulässig, dürfen jedoch Höhe und Umfang der Regelungen ihres jeweils übergeordneten Verbandes nicht überschreiten.
+Eigene, abweichende Regelungen der Landes- und unteren Gebietsverbände sind zulässig, dürfen jedoch Höhe und Umfang der Regelungen ihres jeweils übergeordneten Verbandes nicht überschreiten.
 
 ## § 13 – Bundesfinanzrat
 
@@ -321,7 +324,7 @@ a) die Beratung der Partei in allen Finanzfragen;
 b) die gemeinsame Vorbereitung der finanziellen Beschlüsse des Bundesparteitags mit dem/ der Bundesschatzmeister\*in, insbesondere solche, die die Verteilung der staatlichen Mittel und Mitgliedsbeiträge zwischen dem Bundesverband und den nachgeordneten Verbänden betreffen;
 c) die Berechtigung, in dringlichen Fällen zu beschließen, dass die nachgeordneten Verbände zusätzliche Beträge an den Bundesverband abzuführen haben (Umlagen);
 d) die Zustimmung bei der Umwidmung von Haushaltstiteln des Bundesverbands;
-e) die Beschlussfassung über die vorübergehende Einschränkung oder Aussetzung der finanziellen Autonomie von Landes- oder Kreisverbänden bei schwerwiegenden Verstößen gegen die innere finanzielle Ordnung von Volt Deutschland, gegen den finanziellen Teil des Parteiengesetzes oder bei Nicht-Erstellung ihres Rechenschaftsberichts.
+e) die Beschlussfassung über die vorübergehende Einschränkung oder Aussetzung der finanziellen Autonomie von Landes- oder unteren Gebietsverbänden bei schwerwiegenden Verstößen gegen die innere finanzielle Ordnung von Volt Deutschland, gegen den finanziellen Teil des Parteiengesetzes oder bei Nicht-Erstellung ihres Rechenschaftsberichts.
 
 (3)
 Der Bundesfinanzrat tritt in der Regel halbjährlich und in Vorbereitung der Bundesparteitage zusammen.
@@ -335,7 +338,7 @@ Bei Stimmengleichheit entscheidet die Stimme der/des Vorsitzenden.
 Der Bundesfinanzrat gibt sich eine eigene Geschäftsordnung mit zwei Dritteln der Stimmen seiner Mitglieder.
 
 (6)
-Solange in einem Bundesland noch kein Landesverband existiert, tritt abweichend von Abs. 1 Satz 1 an die Stelle des/der Landesschatzmeisters/in der/die Schatzmeister\*in des jeweils mitgliederstärksten Kreisverbandes.
+Solange in einem Bundesland noch kein Landesverband existiert, tritt abweichend von Abs. 1 Satz 1 an die Stelle des/der Landesschatzmeisters/in der/die Schatzmeister\*in des jeweils mitgliederstärksten unteren Gebietsverbandes.
 
 (7)
 Der Bundesfinanzrat tritt erstmals zusammen, wenn ihm mindestens neun Mitglieder angehören.
@@ -345,7 +348,7 @@ Der Bundesfinanzrat tritt erstmals zusammen, wenn ihm mindestens neun Mitglieder
 (1)
 Dem Betrieb von wirtschaftlichen Unternehmungen dienen Kapitalgesellschaften des Bundesverbandes.
 Soweit eine solche Kapitalgesellschaft existiert, sind innerhalb des Bereiches des Unternehmensgegenstandes der Kapitalgesellschaft wirtschaftliche Unternehmungen durch die Partei selbst ausgeschlossen.
-Die Unterhaltung eigener Kapitalgesellschaften durch Landes- oder Kreisverbände ist stets ausgeschlossen.
+Die Unterhaltung eigener Kapitalgesellschaften durch Landes- oder untere Gebietsverbände ist stets ausgeschlossen.
 
 (2)
 Die wirtschaftliche Tätigkeit dient nur nebensächlich der Gewinnerzielung.
