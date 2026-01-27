@@ -36,7 +36,7 @@ jobs:
             dir_name="${dir%/}"
 
             # Skip excluded directories
-            if [[ "$dir_name" == ".github" || "$dir_name" == "templates" ]]; then
+            if [[ "$dir_name" == ".github" || "$dir_name" == "templates" || "$dir_name" == "dist" ]]; then
               continue
             fi
 
