@@ -529,7 +529,11 @@ Einzelne Mitglieder des Bundesvorstands können im Rahmen von Anstellungsverhäl
 Den Mitgliedern des Bundesvorstands in Ausübung ihrer Vorstandstätigkeit entstandene Aufwendungen werden nach den Regelungen der Finanzordnung ersetzt.
 
 (12)
-Der Bundesvorstand kann bei Bedarf zur Durchführung seiner Aufgaben und zur Koordination der internen Parteiarbeit zwei Generalsekretär\*innen unterschiedlichen Geschlechts ernennen.
+Der Bundesvorstand entscheidet über die Anstellung und Entlassung der Bundesgeschäftsführung.
+Die Bundesgeschäftsführung führt die Geschäfte der Bundesgeschäftsstelle.
+Dazu gehört die Verteilung der Geschäfte.
+Der Geschäftsverteilungsplan ist regelmäßig, mindestens jährlich, fortzuschreiben.
+Der Bundesvorstand kann daneben für die politische Leitung ein Generalsekretariat ernennen.
 
 ## § 18 – Wahlen von Parteiämtern und Bewerberaufstellung für staatliche Wahlen
 
