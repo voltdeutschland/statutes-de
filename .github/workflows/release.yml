@@ -62,14 +62,3 @@ jobs:
             --generate-notes \
             dist/*.pdf
 
-      - name: Backdate Release
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          # Update the release created_at to match the tag's commit date
-          # This ensures releases appear in chronological order even when tags are pushed out of order
-          gh api \
-            --method PATCH \
-            -H "Accept: application/vnd.github+json" \
-            "/repos/${{ github.repository }}/releases/tags/${{ github.ref_name }}" \
-            -f created_at="${{ steps.tag_date.outputs.commit_date }}"
