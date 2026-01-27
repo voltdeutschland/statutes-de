@@ -262,9 +262,9 @@ Die Gebietsverbände ermöglichen den einzelnen Mitgliedern eine angemessene Mit
 
 (2)
 Die Kreisverbände und Landesverbände genießen Satzungs-, Finanz-, Personal- sowie Organisationshoheit und regeln ihre Angelegenheiten innerhalb ihres Gebiets selbst, soweit diese Regelungen nicht im Widerspruch zu den Satzungen, politischen Grundsätzen, Programmen oder Beschlüssen höherrangiger Gebietsverbände stehen.
-In den Kreisverbänden erfolgt der Schwerpunkt der politischen Tätigkeit von Volt Deutschland.
-Die Landesverbände dienen vorrangig der Teilnahme an Wahlen und dem Austausch zwischen den Kreisverbänden.
-Landesverbände können unter ihrem Namen klagen und verklagt werden.
+In den unteren Gebietsverbänden erfolgt der Schwerpunkt der politischen Tätigkeit von Volt Deutschland; sofern kein unterer Gebietsverband besteht, fällt die Verantwortung der politischen Tätigkeit auf den nächsthöheren Verband.
+Die Landesverbände dienen zudem dem Austausch zwischen den Gebietsverbänden.
+Sie unterstützen untere Gebietsverbände, wenn möglich und sofern notwendig, in ihrer politischen Tätigkeit.
 
 (3)
 Die Satzungen der Gebietsverbände müssen diese Bestimmungen enthalten:
