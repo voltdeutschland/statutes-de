@@ -38,7 +38,8 @@ Die Schiedsgerichte treten in der Besetzung mit einem/einer Vorsitzenden, einem/
 Der/die Vorsitzende und der/die stellvertretende Vorsitzende und mindestens die Hälfte der stellvertretenden Schiedsrichter\*innen müssen die Befähigung zum Richteramt oder eine vergleichbare Qualifikation in einem Mitgliedstaat der Europäischen Union haben.
 
 (3)
-Die Schiedsrichter\*innen und ihre Stellvertreter\*innen werden für die Dauer von zwei Jahren gewählt.
+Wahlen zum Bundesschiedsgericht finden für alle seine Mitglieder gemeinsam in jedem zweiten Jahr statt.
+Die Mitglieder des Bundesschiedsgerichts bleiben bis zur Neuwahl des Bundesschiedsgerichts im Amt.
 Wiederwahlen sind möglich.
 
 ## § 6 – Vertretungsregelung für das Bundesschiedsgericht
@@ -69,7 +70,8 @@ Der/die Vorsitzende und mindestens die Hälfte der stellvertretenden Schiedsrich
 Die jeweilige Satzung des Landesverbands kann eine höhere Zahl von stellvertretenden Schiedsrichter\*innen vorsehen.
 
 (5)
-Die Schiedsrichter\*innen und ihre Stellvertreter\*innen werden für die Dauer von zwei Jahren gewählt.
+Wahlen zum Landesschiedsgericht finden für alle seine Mitglieder gemeinsam in jedem zweiten Jahr statt.
+Die Mitglieder des Landesschiedsgerichts bleiben bis zur Neuwahl des Landesschiedsgerichts im Amt.
 Wiederwahlen sind möglich.
 
 ## § 8 – Vertretungsregelung für die Landesschiedsgerichte
@@ -202,17 +204,17 @@ Das Bundesschiedsgericht entscheidet erstinstanzlich über
 Antragsberechtigt in einem Schiedsverfahren sind
 
 1. In Verfahren über die Anfechtung von Wahlen und Beschlüssen
-a) der Bundesvorstand,
-b) der Vorstand jedes Gebietsverbandes, in dessen Bereich die Wahl stattgefunden hat oder der von dem Beschluss unmittelbar betroffen ist,
-c) fünf Prozent der stimmberechtigten Teilnehmer der Versammlung, die die angefochtene Wahl vollzogen oder den Beschluss gefasst hat,
-d) wer geltend machen kann, in einem eigenen satzungsmäßigen Recht durch die Wahl oder den Beschluss verletzt zu sein.
+   a) der Bundesvorstand,
+   b) der Vorstand jedes Gebietsverbandes, in dessen Bereich die Wahl stattgefunden hat oder der von dem Beschluss unmittelbar betroffen ist,
+   c) fünf Prozent der stimmberechtigten Teilnehmer der Versammlung, die die angefochtene Wahl vollzogen oder den Beschluss gefasst hat,
+   d) wer geltend machen kann, in einem eigenen satzungsmäßigen Recht durch die Wahl oder den Beschluss verletzt zu sein.
 2. In Verfahren über Ordnungsmaßnahmen und Parteiausschlussverfahren
-a) der Bundesvorstand,
-b) jeder für das betroffene Mitglied zuständige Vorstand eines Gebietsverbandes.
+   a) der Bundesvorstand,
+   b) jeder für das betroffene Mitglied zuständige Vorstand eines Gebietsverbandes.
 3. In allen übrigen Verfahren
-a) der Bundesvorstand,
-b) der Vorstand jedes Gebietsverbandes, der in der Sache betroffen ist,
-c) jedes Parteimitglied, das in der Sache persönlich betroffen ist.
+   a) der Bundesvorstand,
+   b) der Vorstand jedes Gebietsverbandes, der in der Sache betroffen ist,
+   c) jedes Parteimitglied, das in der Sache persönlich betroffen ist.
 4. Personen, Organe und Vereinigungen, denen die Satzung von Volt Deutschland das Antragsrecht in einem Schiedsverfahren gewährt.
 
 ## § 20 – Ausschluss und Ablehnung eines Schiedsrichters
@@ -554,4 +556,3 @@ Zur Ergänzung dieser Schiedsgerichtsordnung sind die Vorschriften der Verwaltun
 ## § 55 – Inkrafttreten
 
 Diese Schiedsgerichtsordnung tritt mit ihrer Beschlussfassung in Kraft.
-
