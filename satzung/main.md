@@ -107,11 +107,6 @@ Jedes Mitglied ist jederzeit zum sofortigen Austritt aus der Partei berechtigt.
 Der Austritt erfolgt durch schriftliche Erklärung oder per E-Mail gegenüber der Geschäftsstelle des Bundesverbands, welche den Austritt den Vorständen aller Gebietsverbände, in denen die Mitgliedschaft besteht, unverzüglich anzeigen wird.
 
 (3)
-Der Erklärung des Austritts steht es gleich, wenn ein Mitglied länger als sechs Monate schuldhaft mit der Zahlung seiner Mitgliedsbeiträge in Verzug ist, innerhalb dieser Zeit schriftlich oder per E-Mail gemahnt wurde und anschließend auf eine zweite Mahnung, trotz Setzung einer Zahlungsfrist von einem Monat und Hinweises auf die Folgen des Verzugs, die ausstehenden Mitgliedsbeiträge nicht bezahlt.
-Ist ein Mitglied der Informationspflicht nach § 6 Absatz 3 Satz 1 nicht nachgekommen, sind Mahnungen nach Absatz 3 Satz 1 entbehrlich.
-Widerspricht ein Mitglied aktiv dem Lastschrifteinzug seines Mitgliedsbeitrags aus nicht von der Partei zu vertretenden Gründen, verkürzt sich die Frist für den Zahlungsverzug nach Satz 1 auf einen Monat und eine zweite Mahnung ist entbehrlich.
-
-(4)
 Bei Beendigung der Mitgliedschaft besteht kein Anspruch auf Rückzahlung von Beiträgen.
 
 ## § 6 – Rechte und Pflichten der Mitglieder
@@ -163,8 +158,9 @@ Insbesondere liegt ein Verstoß im Sinne des Absatzes 2 in der Regel dann vor, w
 1. innerhalb des Tätigkeitsgebiets von Volt Deutschland zugleich einer anderen politischen Partei, Jugendorganisation oder Gruppe, Fraktion oder einer Vereinigung, die darauf abzielt, eine politische Partei zu werden, angehört,
 2. einer Organisation angehört oder eine solche fördert, deren Ziele nach dem sachlich gerechtfertigten Verständnis der Partei die gleichzeitige Verfolgung der Ziele und Grundsätze der Partei ausschließen, und dadurch die Glaubwürdigkeit und Überzeugungskraft der Partei beeinträchtigt,
 3. vertrauliche Parteivorgänge veröffentlicht oder an politische Gegner verrät,
-4. Vermögen, das der Partei gehört oder ihr zur Verfügung steht, veruntreut, oder
-5. andere Parteimitglieder oder den politischen Gegner öffentlich beleidigt, verunglimpft, verleumdet oder sich diesen gegenüber der üblen Nachrede strafbar macht.
+4. schuldhaft die Beitragszahlung unterlässt,
+5. Vermögen, das der Partei gehört oder ihr zur Verfügung steht, veruntreut, oder
+6. andere Parteimitglieder oder den politischen Gegner öffentlich beleidigt, verunglimpft, verleumdet oder sich diesen gegenüber der üblen Nachrede strafbar macht.
 
 (4)
 Eine Ordnungsmaßnahme nach Absatz 1 Nr. 1 und Nr. 2 kann innerhalb von zwei Monaten nach Bekanntwerden der die Ordnungsmaßnahme begründenden Umstände von den Vorständen aller Gebietsverbände durch Vorstandsbeschluss verhängt werden, denen das betroffene Mitglied angehört.
@@ -215,12 +211,12 @@ Dies schließt insbesondere eine finanzielle Zusammenarbeit im rechtlich zuläss
 Volt Deutschland gliedert sich unterhalb des Bundesverbands in absteigender Rangfolge
 
 1. in Landesverbände auf dem Gebiet eines deutschen Bundeslandes.
-Die Landesverbände führen die Bezeichnung "Regional Team".
-Die Landesverbände Berlins, Hamburgs und Bremens können stattdessen auch die Bezeichnung "City-Team" führen.
-In Fällen des Satzes 2 ist die Bezeichnung in der Satzung festzulegen.
+   Die Landesverbände führen die Bezeichnung "Regional Team".
+   Die Landesverbände Berlins, Hamburgs und Bremens können stattdessen auch die Bezeichnung "City-Team" führen.
+   In Fällen des Satzes 2 ist die Bezeichnung in der Satzung festzulegen.
 2. in Kreisverbände auf dem Gebiet eines Landkreises/Kreises, einer kreisfreien Stadt/eines Stadtkreises, eines Stadtbezirks der Länder Berlin und Hamburg, einer Stadtgemeinde des Landes Bremen, der Region Hannover, des Regionalverbands Saarbrücken und der Städteregion Aachen.
-Die Kreisverbände können die Bezeichnung "City-Team" oder "Local Team" führen.
-Die Wahl der Bezeichnung ist in der Satzung festzulegen.
+   Die Kreisverbände können die Bezeichnung "City-Team" oder "Local Team" führen.
+   Die Wahl der Bezeichnung ist in der Satzung festzulegen.
 
 (2)
 Kreisverbände können je nach lokalen Gegebenheiten in ihrer Satzung eine weitergehende Untergliederung beschließen.
@@ -279,11 +275,11 @@ Landesverbände können unter ihrem Namen klagen und verklagt werden.
 Die Satzungen der Gebietsverbände müssen diese Bestimmungen enthalten:
 
 1. Eine aufeinanderfolgende Wiederwahl für dasselbe oder ein anderes Vorstandsamt des jeweiligen Kreis- bzw. Landesverbandes ist einmal möglich; danach kann das Mitglied für zwei Wahlperioden nicht für den betroffenen Landes- oder Kreisvorstand kandidieren.
-Bestimmungen, die abweichend von Satz 1 eine zweite Wiederwahl im Einzelfall mit 2/3 Mehrheit des jeweiligen Landesparteitags bzw. Mitgliederversammlung ermöglichen, sind zulässig.
-Die Neuwahl der Vorstands erfolgt in jedem zweiten Kalenderjahr.
+   Bestimmungen, die abweichend von Satz 1 eine zweite Wiederwahl im Einzelfall mit 2/3 Mehrheit des jeweiligen Landesparteitags bzw. Mitgliederversammlung ermöglichen, sind zulässig.
+   Die Neuwahl der Vorstands erfolgt in jedem zweiten Kalenderjahr.
 2. Bei Aufstellungen von Wahllisten für Wahlen zum Europäischen Parlament, Deutschen Bundestag, zu Landtagen, dem Abgeordnetenhaus Berlin, der Bremer und Hamburger Bürgerschaft sowie kommunalen Vertretungskörperschaften ist im Falle der Besetzung der einzelnen Listenpositionen in einem anderen Wahlverfahren als dem der §§ 22 bis 24 der Allgemeinen Wahlordnung von Volt Deutschland zwingend sicherzustellen, dass zwei aufeinanderfolgende Listenplätze nicht von zwei Personen desselben Geschlechts besetzt werden können. Eine Abweichung kann erfolgen, wenn sich nur noch Kandidat\*innen eines Geschlechts für die verbleibenden Listenplätze bewerben.
 3. Eine Mitgliedschaft im Vorstand eines Landesverbandes oder Kreisverbandes ist mit einem Mandat als Abgeordnete\*r des Europäischen Parlaments, des Bundestags, eines Landtags sowie mit einem öffentlichen Amt als Mitglied der Europäischen Kommission, der Bundesregierung oder einer Landesregierung, sowie eines Amtes als Bürger- oder Oberbürgermeister\*in oder Landrat/Landrätin unvereinbar.
-Eine Mitgliedschaft im Vorstand eines Landesverbandes oder Kreisverbandes ist mit einem Mandat auf kommunaler Ebene vereinbar.
+   Eine Mitgliedschaft im Vorstand eines Landesverbandes oder Kreisverbandes ist mit einem Mandat auf kommunaler Ebene vereinbar.
 4. Eine Mitgliedschaft im Landesvorstand oder Kreisvorstand ist mit einer Mitgliedschaft im Vorstand eines anderen Landes- oder Kreisverbandes, des Bundesverbandes oder von Volt Europa unvereinbar.
 
 Abweichend von Satz 1 Nr. 1 kann die Satzung der Gebietsverbände die Bestimmung enthalten, dass die Neuwahl des Vorstands in jedem Kalenderjahr erfolgt.
