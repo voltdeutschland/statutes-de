@@ -205,7 +205,7 @@ Die Bestimmungen dieser Geschäftsordnung gelten ergänzend, soweit sie der Satz
 ## § 10 – Redebeiträge
 
 (1)
-Alle stimmberechtigten Teilnehmer\*innen sowie alle Mitglieder haben Rederecht.
+Alle stimmberechtigten Teilnehmer\*innen sowie alle Mitglieder von Volt Deutschland und Volt Europa haben Rederecht.
 Dies gilt auch für Mitglieder, die nicht am Ort der Versammlung anwesend sind, sofern die technische Durchführung der Versammlung Redebeiträge für sie ermöglicht.
 Darüber, ob die technische Durchführung Redebeiträge in Abwesenheit ermöglicht und über welchen Weg diese einzureichen sind, ist in der Einladung zum Parteitag zu informieren.
 
