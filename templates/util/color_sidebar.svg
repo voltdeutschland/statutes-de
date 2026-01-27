@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210mm" height="297mm" viewBox="0 0 210 297">
+  <!-- Stripe 1 -->
+  <polygon points="0,0 7,0 7,18 0,20" fill="#82D0F4" />
+  <!-- Stripe 2 -->
+  <polygon points="0,20 7,18 7,78 0,80" fill="#502379" />
+  <!-- Stripe 3 -->
+  <polygon points="0,80 7,78 7,138 0,140" fill="#E63E12" />
+  <!-- Stripe 4 -->
+  <polygon points="0,140 7,138 7,198 0,200" fill="#1BBE6F" />
+  <!-- Stripe 5 -->
+  <polygon points="0,200 7,198 7,258 0,260" fill="#502379" />
+  <!-- Stripe 6 -->
+  <polygon points="0,260 7,258 7,297 0,297" fill="#FDC220" />
+</svg>
