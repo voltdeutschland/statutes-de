@@ -227,7 +227,7 @@ Auf jedem Gebiet gibt es nur einen Gebietsverband gleichen Rangs.
 (4)
 Organisatorische Zusammenschlüsse mehrerer Gebietsverbände eines Rangs, die die verbandsmäßige Gliederung von Volt Deutschland nicht wesentlich beeinträchtigen, sind zulässig.
 
-## § 11 – Gründung von Landes- und Kreisverbänden
+## § 11 – Gründung von Landes- und unteren Gebietsverbänden
 
 (1)
 Die Gründung eines Gebietsverbands bedarf der vorherigen Zustimmung des rangniedrigsten Vorstandes, dessen Zuständigkeit das Gebiet des zu gründenden Verbandes vollständig umfasst.
@@ -237,11 +237,14 @@ Der Antrag auf Zustimmung zur Gründung ist an den zuständigen Vorstand zu rich
 Der Antrag ist innerhalb einer angemessenen Frist, spätestens aber innerhalb von vier Wochen, per Beschluss zu bescheiden.
 
 (3)
-Der Gründung ist grundsätzlich zuzustimmen, wenn keine ernsthaften Bedenken bezüglich der organisatorischen Festigkeit der Mitgliederstruktur geltend gemacht werden können und mindestens 25% der Mitglieder nichtdem am stärksten repräsentierten Geschlecht angehören.
+Der Gründung ist grundsätzlich zuzustimmen, wenn keine ernsthaften Bedenken bezüglich der organisatorischen Festigkeit der Mitgliederstruktur geltend gemacht werden können und mindestens 25% der Mitglieder nicht dem am stärksten repräsentierten Geschlecht angehören.
 Im Falle einer Ablehnung kann die Gründung eines Verbandes auf dem selben Gebiet nach einer Frist von 6 Monaten erneut beantragt werden.
 
 (4)
 Ist dem Antrag auf Gründung stattgegeben, so hat der zuständige Vorstand innerhalb von zwei Wochen ab Zustimmung den Termin der Gründungsversammlung bekanntzugeben.
+Zu dieser Gründungsversammlung sind alle Mitglieder zu laden, die ihren mitgliedschaftlichen Wohnsitz in dem Gebiet haben.
+Die Ladungsfrist beträgt mindestens zwei Wochen.
+Der Termin der Gründungsversammlung darf nicht später als zwölf Wochen ab der Zustimmung liegen.
 
 (5)
 Hat ein Gebietsverband keinen gewählten handlungs- und beschlussfähigen Vorstand mehr, so stellt der Vorstand des nächsthöherrangigen Gebietsverbands die Handlungs- und Beschlussunfähigkeit durch Beschluss fest und lädt alle Mitglieder, die ihren mitgliedschaftlichen Wohnsitz in dem Gebiet haben, zum Parteitag oder zur Mitgliederversammlung, um einen neuen Vorstand zu wählen.
@@ -249,7 +252,7 @@ Die Ladungsfrist beträgt zwei Wochen.
 Bis zu dieser Wahl führt der Vorstand des nächsthöherrangigen Gebietsverbands die Geschäfte kommissarisch.
 
 (6)
-Der Bundesvorstand kann einen Kreis- oder Landesverband, der eine Mitgliederzahl von zehn für eine Dauer von länger als sechs Monaten unterschreitet, auflösen.
+Der Bundesvorstand kann einen unteren Gebiets- oder Landesverband, der eine Mitgliederzahl von zehn für eine Dauer von länger als sechs Monaten unterschreitet, auflösen.
 Über die beabsichtigte Auflösung ist der Vorstand des betroffenen Gebietsverbands mindestens drei Monate im Voraus zu informieren.
 
 (7)
@@ -487,7 +490,7 @@ Eine Mitgliedschaft im Bundesvorstand ist mit einem Mandat als Abgeordnete\*r de
 Eine Mitgliedschaft im Bundesvorstand ist mit einem Mandat auf kommunaler Ebene vereinbar.
 
 (5)
-Eine Mitgliedschaft im Bundesvorstand ist mit einer Mitgliedschaft im Vorstand eines Kreisverbandes, Landesverbandes oder von Volt Europa unvereinbar.
+Eine Mitgliedschaft im Bundesvorstand ist mit einer Mitgliedschaft im Vorstand eines unteren Gebietsverbandes, Landesverbandes oder von Volt Europa unvereinbar.
 
 (6)
 Der Bundesparteitag kann den Bundesvorstand oder einzelne Mitglieder jederzeit in geheimer Wahl mit einer Mehrheit von zwei Dritteln der abgegebenen Stimmen abwählen.

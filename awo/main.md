@@ -12,7 +12,7 @@ Soweit staatliches Wahlrecht nicht entgegensteht, findet diese Wahlordnung auch 
 ## § 2 – Abweichungsbefugnis auf Landes- und Kommunalebene
 
 Landes- und untere Gebietsverbände können in ihrer Satzung von den Bestimmungen dieser Wahlordnung abweichen oder ihre Anwendung vollständig ausschließen.
-Landesverbände können dabei die Abweichungsbefugnis der unteren Debietsverbände nach Satz 1 nicht einschränken.
+Landesverbände können dabei die Abweichungsbefugnis der unteren Gebietsverbände nach Satz 1 nicht einschränken.
 
 ## § 3 – Ankündigung und Einladung
 
