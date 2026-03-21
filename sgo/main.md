@@ -35,11 +35,13 @@ Das Bundesschiedsgericht besteht aus einem/einer Vorsitzenden, einem/einer stell
 
 (2)
 Die Schiedsgerichte treten in der Besetzung mit einem/einer Vorsitzenden, einem/einer stellvertretenden Vorsitzenden und einem/einer Beisitzer\*in zusammen.
-Der/die Vorsitzende und der/die stellvertretende Vorsitzende und mindestens die Hälfte der stellvertretenden Schiedsrichter\*innen müssen die Befähigung zum Richteramt oder eine vergleichbare Qualifikation in einem Mitgliedstaat der Europäischen Union haben.
+Der/die Vorsitzende und der/die stellvertretende Vorsitzende müssen die Befähigung zum Richteramt oder eine vergleichbare Qualifikation in einem Mitgliedstaat der Europäischen Union haben.
+Mindestens die Hälfte der stellvertretenden Schiedsrichter\*innen muss die Erste Juristische Staatsprüfung erfolgreich absolviert oder eine vergleichbare Qualifikation in einem Mitgliedstaat der Europäischen Union erlangt haben.
 
 (3)
 Wahlen zum Bundesschiedsgericht finden für alle seine Mitglieder gemeinsam in jedem zweiten Jahr statt.
-Die Mitglieder des Bundesschiedsgerichts bleiben bis zur Neuwahl des Bundesschiedsgerichts im Amt.
+Die Mitglieder, deren Ämter nicht neugewählt wurden, werden mit der kommissarischen Weiterführung ihres Amtes beauftragt, soweit keine Vertretung nach § 6 möglich ist.
+Das nicht besetzte Amt muss auf dem nächsten Parteitag erneut zur Wahl stehen.
 Wiederwahlen sind möglich.
 
 ## § 6 – Vertretungsregelung für das Bundesschiedsgericht
@@ -126,7 +128,7 @@ Sofern so viele Schiedsrichter\*innen ausscheiden, dass eine ordnungsgemäße Be
 
 ## § 12a – Ruhen des Verfahrens bei nicht ordnungsgemäßer Besetzung
 
-Sind die Ämter der stellvertretenden Schiedsrichter\*innen nicht besetzt, ruhen Verfahren, die vor der Beschwerdekammer des Bundesschiedsgerichts fristgemäß anhängig sind oder beim Bundesschiedsgericht anhängig werden, ohne dass eine ordnungsgemäße Besetzung des Gerichts hergestellt werden kann, bis zur Wahl einer hinreichenden Besetzung des Schiedsgerichts, ohne dass Fristen nach dieser Schiedsordnung fortlaufen.
+Kann bei einem fristgemäß anhängigen Verfahren vor dem Bundesschiedsgericht oder der Beschwerdekammer des Bundesschiedsgericht keine ordnungsgemäße Besetzung gemäß § 5 I 1 oder Vertretung gemäß § 6 zustande kommen, so ruht das Verfahren, ohne dass Fristen nach dieser Schiedsordnung fortlaufen.
 
 ## § 13 – Auslagenerstattung
 
