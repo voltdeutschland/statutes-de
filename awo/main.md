@@ -21,9 +21,11 @@ Die Wahl von
 
 1. Mitgliedern des Vorstandes des Bundesverbandes sowie der Gebietsverbände
 2. Mitgliedern der Schiedsgerichte
-3. Rechnungsprüfer\*innen
-4. Kandidat\*innen für öffentliche Ämter und staatliche Wahlen
-5. Delegierten für Vertreter\*innenversammlungen
+3. Mitgliedern der Antragskommission
+4. Mitgliedern der Wahlkommission
+5. Rechnungsprüfer\*innen
+6. Kandidat\*innen für öffentliche Ämter und staatliche Wahlen
+7. Delegierten für Vertreter\*innenversammlungen
 
 kann nur durchgeführt werden, soweit sie zuvor in einer vorläufigen Tagesordnung angekündigt wurde.
 Dies gilt nicht für die erstmalige und unmittelbare Besetzung von Ämtern und Funktionen, die erst auf der Versammlung durch eine Satzungsänderung geschaffen werden.
@@ -53,9 +55,11 @@ Wahlen sind geheim, sofern die Satzungen von Volt Deutschland oder ihrer Gebiets
 a) Versammlungsleitung
 b) Schriftführer\*innen
 c) Zählkommission
-d) Rechnungsprüfer\*innen
-e) Vertrauenspersonen für die Einreichung von Wahlvorschlägen
-f) Unterzeichner\*innen von Wahlvorschlägen, die die Einhaltung der Wahlgesetze und Wahlordnungen eidesstattlich versichern
+d) Antragskommission
+e) Wahlkommission
+f) Rechnungsprüfer\*innen
+g) Vertrauenspersonen für die Einreichung von Wahlvorschlägen
+h) Unterzeichner\*innen von Wahlvorschlägen, die die Einhaltung der Wahlgesetze und Wahlordnungen eidesstattlich versichern
 
 (2)
 Erhebt ein stimmberechtigtes Versammlungsmitglied Widerspruch gegen eine offene Abstimmung, so beschließt die Versammlung in offener Abstimmung mit einfacher Mehrheit darüber, ob die Abstimmung offen oder geheim durchzuführen ist.
@@ -83,7 +87,8 @@ Sie ist von der Versammlung zu beschließen.
 ## § 7 – Wahlkommission
 
 (1)
-Zur Vorbereitung von Wahlen auf dem Bundesparteitag ernennt der Bundesvorstand eine Wahlkommission, bestehend aus mindestens drei Mitgliedern.
+Gemäß § 15 Abs. 5 der Satzung von Volt Deutschland wird die Wahlkommission vom Parteitag gewählt.
+In Landes- und unteren Gebietsverbänden wird die Wahlkommission bestehend aus mindestens drei Mitgliedern in der Einladung durch den zuständigen Vorstand ernannt.
 
 (2)
 Die Wahlkommission hat sicherzustellen, dass allen Wahlbewerber\*innen die Möglichkeit geboten wird, sich bereits vor dem Parteitag über digitale Medien den Stimmberechtigten vorzustellen.
@@ -99,7 +104,10 @@ Bei der Ausübung ihrer Tätigkeit sind die Mitglieder der Wahlkommission zur Ne
 Mitglieder der Wahlkommission können nicht zeitgleich ein satzungsmäßiges Amt des Bundesverbandes oder eines Gebietsverbandes ausüben oder zu diesen in einem Dienstverhältnis stehen.
 
 (6)
-Die Absätze 1 bis 4 gelten für Landesverbände entsprechend, soweit sich aus ihren Satzungen nicht etwas Anderweitiges ergibt.
+Auf der Versammlung steht die Wahlkommission für Rückfragen zum Wahlprozess und für die Erarbeitung von Verfahrensvorschlägen in Absprache mit der Versammlungsleitung zur Verfügung.
+
+(7)
+Die Absätze 2 bis 6 gelten für Landesverbände entsprechend, soweit sich aus ihren Satzungen nicht etwas Anderweitiges ergibt.
 
 ## § 8 – Durchführung der Wahl
 
