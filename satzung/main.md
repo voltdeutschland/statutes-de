@@ -363,13 +363,34 @@ Der Bundesparteitag gibt sich eine Geschäftsordnung.
 Der Bundesvorstand kann in dringenden Fällen und muss auf einen mit Gründen versehenen Antrag von mindestens einem Fünftel der Mitglieder, drei Landesverbänden oder sieben unteren Gebietsverbänden einen außerordentlichen Parteitag einberufen.
 
 (3)
-Der Bundesvorstand beruft den ordentlichen Bundesparteitag schriftlich oder per E-Mail mit einer Frist von zehn Wochen unter Angabe der vorläufigen Tagesordnung, des Tagungsortes sowie der Antrags- und soweit aufgrund von Wahlen notwendig der Wahlkommission ein.
+Der Bundesvorstand beruft den ordentlichen Bundesparteitag schriftlich oder per E-Mail mit einer Frist von zehn Wochen unter Angabe der vorläufigen Tagesordnung, des Tagungsortes sowie der amtierenden Antrags- und Wahlkommission ein.
 Bei außerordentlichen Bundesparteitagen soll die Einladung so früh wie möglich erfolgen, mindestens jedoch mit einer Frist von zehn Tagen.
 Bei außerordentlichen Parteitagen werden Beschlüsse nur zum dringlichen, den Parteitag notwendig machenden Anlass gefasst.
 Dieser Anlass ist bei der Einladung anzugeben.
 Das weitere Verfahren regelt die Geschäftsordnung für Bundesparteitage.
 
 (4)
+Der Bundesparteitag wählt eine Antragskommission, bestehend aus mindestens fünf Mitgliedern, die nicht dem Bundesvorstand angehören.
+Die Amtszeit der Antragskommission beträgt zwei Jahre.
+Ihre Mitglieder bleiben bis zur Neuwahl im Amt.
+Die Antragskommission arbeitet unabhängig vom Bundesvorstand und erfüllt ihre Aufgaben im Rahmen der Satzung sowie der Geschäftsordnung für ordentliche und außerordentliche Bundesparteitage.
+Näheres regelt die Geschäftsordnung.
+
+(5)
+Der Bundesparteitag wählt eine Wahlkommission, bestehend aus mindestens fünf Mitgliedern.
+Die Amtszeit der Wahlkommission beträgt zwei Jahre.
+Ihre Mitglieder bleiben bis zur Neuwahl im Amt.
+Die Wahlkommission arbeitet unabhängig vom Bundesvorstand und erfüllt ihre Aufgaben im Rahmen der Satzung und der Allgemeinen Wahlordnung sowie der Geschäftsordnung für ordentliche und außerordentliche Bundesparteitage.
+Näheres regelt die Allgemeine Wahlordnung.
+
+(6)
+Wenn eine Antrags- oder Wahlkommission weniger als fünf Mitglieder hat, kann die Kommission eigenständig neue Personen kooptieren, die die Arbeit der Kommission bis zum nächsten Parteitag unterstützen.
+Sobald einer Kommission weniger als zwei Mitglieder angehören, muss der Bundesvorstand mindestens drei Personen ernennen, die die Kommission bis zur Neuwahl auf dem nächsten Bundesparteitag ergänzen.
+
+(7)
+Landesverbände und untere Gebietsverbände können in ihren Satzungen oder Geschäftsordnungen eigene Regelungen zur Einrichtung und Besetzung von Antrags- und Wahlkommissionen treffen.
+
+(8)
 Die stimmberechtigten Delegierten für den Bundesparteitag werden für höchstens zwei Jahre durch die Landesverbände gewählt.
 Eine anschließende Wiederwahl ist zweimal möglich.
 Danach darf das Mitglied so lange nicht bei einer Neuwahl einer Delegiertenliste antreten, bis es eine Wahlperiode nicht Teil einer Delegiertenliste war.
@@ -377,25 +398,25 @@ Eine Kandidatur für Nachwahlen zu Delegiertenlisten ist unbegrenzt möglich.
 Die Satzungen der Landesverbände können bestimmen, dass ihre Delegierten ganz oder teilweise durch untergeordnete Gebietsverbände gewählt werden.
 Die Landesvorstände melden dem Bundesverband nach der Wahl die Namen der Delegierten ihres Landesverbandes und Änderungen der Namen der Delegierten, insbesondere aufgrund Rücktritts, Ab- oder Nachwahlen, innerhalb von zwei Wochen.
 
-(5)
+(9)
 Ein Landesparteitag kann seine Delegierten jederzeit ab- oder neue Delegierte nachwählen.
 Nachgewählte Delegierte führen ihr Amt nur für den verbleibenden Rest der Amtszeit der ursprünglich gewählten Delegierten aus.
 Bei Verlegung des mitgliedschaftlichen Wohnsitzes von Delegierten an einen anderen Ort als das entsendende Bundesland, erlischt das Delegiertenmandat.
 
-(6)
+(10)
 Die Anzahl der Delegierten eines Landesverbandes bemisst sich nach der Zahl der Mitglieder des Landesverbandes und ergibt sich wie folgt:
 Die Zahl der Mitglieder des Landesverbandes wird mit dem Faktor 400 multipliziert.
 Das sich ergebende Produkt wird durch die Zahl der Mitglieder des Bundesverbandes vier Monate vor der Einberufung des Bundesparteitags dividiert.
 Das Ergebnis ist die Anzahl der Delegierten eines Landesverbandes, wobei auf eine ganze gerade Zahl aufgerundet wird.
 Die Anzahl der Delegierten beträgt mindestens zwei (Grundmandate).
 
-(7)
+(11)
 Jeder Landesverband wählt zwei fortlaufende Listen an Delegierten, eine männlich/diverse Liste und eine weiblich/diverse Liste.
 Die Anzahl stimmberechtigter Delegierter für den Bundesparteitag auf diesen Listen entspricht jeweils der Hälfte der Anzahl der Delegierten des Landesverbandes nach Abs. 6.
 Mitglieder auf diesen Listen, die nach Satz 2 keine stimmberechtigten Delegierten sind, sind in absteigender Reihenfolge, für die Liste, auf die sie gewählt wurden, Ersatzdelegierte für den Bundesparteitag.
 Hat ein Landesverband nach Abs. 4 Satz 3 die Wahl der Delegierten ganz oder teilweise an untergeordnete Gebietsverbände delegiert, gelten Satz 1 bis 3 für diese entsprechend mit der Maßgabe, dass die Anzahl der Delegierten eines untergeordneten Gebietsverbandes durch die Satzung des Landesverbandes bestimmt wird.
 
-(8)
+(12)
 Mit der Einberufung des Bundesparteitags setzt der Bundesvorstand den stimmberechtigten Delegierten eine Frist zur Rückmeldung ihrer Teilnahme am Bundesparteitag (Rückmeldefrist).
 Die Rückmeldefrist beträgt höchstens sieben Tage vor Beginn des Bundesparteitags.
 Sagen die Delegierten ihre Teilnahme am Bundesparteitag zur Rückmeldefrist nicht gegenüber dem Bundesverband ab, obwohl sie ihr Stimmrecht auf dem Bundesparteitag nicht ausüben können werden, können keine Ersatzdelegierten für sie teilnehmen.
@@ -407,15 +428,15 @@ Die Stimmrechtsübertragung bedarf zu ihrer Wirksamkeit einer Mitteilung der üb
 Stimmrechtsübertragungen nach Beginn der Versammlung sind in der Regel nicht zulässig, die Versammlungsleitung kann sie in Ausnahmefällen zulassen.
 Stimmrechtsübertragungen nach Satz 5 bis 9 sind nur auf Versammlungen zulässig, die als Präsenzversammlungen an einem Ort, an dem Mitglieder gemeinsam physisch anwesend sind, abgehalten werden.
 
-(9)
+(13)
 Stehen nicht genügend Ersatzdelegierte oder Stimmrechtsübertragungen zur Verfügung, verfallen die nicht vertretenen Stimmen des jeweiligen Landesverbandes für den jeweiligen Bundesparteitag.
 
-(10)
+(14)
 Die Mitglieder des Bundesvorstandes und der Landesvorstände haben ein Teilnahme- und Rederecht.
 Alle Mitglieder von Volt Europa sowie von nationalen Chaptern haben ein Rederecht, sofern der Parteitag dies nicht per Beschluss einschränkt.
 Weiteren Teilnehmenden kann per Beschluss das Rederecht erteilt werden.
 
-(11)
+(15)
 Die Bewerber\*innen für eine gemeinsame Liste für alle Länder zur Europawahl werden in einer Versammlung der Mitglieder gewählt, die zum Zeitpunkt ihres Zusammentritts zum Europäischen Parlament wahlberechtigt sind.
 
 ## § 16 – Aufgaben und Arbeitsweise des Bundesparteitags
