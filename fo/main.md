@@ -324,7 +324,7 @@ a) die Beratung der Partei in allen Finanzfragen;
 b) die gemeinsame Vorbereitung der finanziellen Beschlüsse des Bundesparteitags mit dem/ der Bundesschatzmeister\*in, insbesondere solche, die die Verteilung der staatlichen Mittel und Mitgliedsbeiträge zwischen dem Bundesverband und den nachgeordneten Verbänden betreffen;
 c) die Berechtigung, in dringlichen Fällen zu beschließen, dass die nachgeordneten Verbände zusätzliche Beträge an den Bundesverband abzuführen haben (Umlagen);
 d) die Zustimmung bei der Umwidmung von Haushaltstiteln des Bundesverbands;
-e) die Beschlussfassung über die vorübergehende Einschränkung oder Aussetzung der finanziellen Autonomie von Landes- oder unteren Gebietsverbänden bei schwerwiegenden Verstößen gegen die innere finanzielle Ordnung von Volt Deutschland, gegen den finanziellen Teil des Parteiengesetzes oder bei Nicht-Erstellung ihres Rechenschaftsberichts.
+e) die Beschlussfassung über die vorübergehende Einschränkung oder Aussetzung der finanziellen Autonomie des Bundesverbandes, der Landes- oder unteren Gebietsverbände bei schwerwiegenden Verstößen gegen die innere finanzielle Ordnung von Volt Deutschland, gegen den finanziellen Teil des Parteiengesetzes oder bei Nicht-Erstellung des jeweiligen Rechenschaftsberichts.
 
 (3)
 Der Bundesfinanzrat tritt in der Regel halbjährlich und in Vorbereitung der Bundesparteitage zusammen.
