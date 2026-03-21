@@ -338,9 +338,12 @@ Bei Stimmengleichheit entscheidet die Stimme der/des Vorsitzenden.
 Der Bundesfinanzrat gibt sich eine eigene Geschäftsordnung mit zwei Dritteln der Stimmen seiner Mitglieder.
 
 (6)
-Solange in einem Bundesland noch kein Landesverband existiert, tritt abweichend von Abs. 1 Satz 1 an die Stelle des/der Landesschatzmeisters/in der/die Schatzmeister\*in des jeweils mitgliederstärksten unteren Gebietsverbandes.
+Die Schatzmeister\*innen der unteren Gebietsverbände haben ein Teilnahmerecht an den Sitzungen des Bundesfinanzrates.
 
 (7)
+Solange in einem Bundesland noch kein Landesverband existiert, tritt abweichend von Abs. 1 Satz 1 an die Stelle des/der Landesschatzmeisters/in der/die Schatzmeister\*in des jeweils mitgliederstärksten unteren Gebietsverbandes.
+
+(8)
 Der Bundesfinanzrat tritt erstmals zusammen, wenn ihm mindestens neun Mitglieder angehören.
 
 ## § 14 – Wirtschaftliche Tätigkeit
