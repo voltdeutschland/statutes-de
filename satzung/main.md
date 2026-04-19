@@ -545,9 +545,9 @@ Vorstandsbeschlüsse werden in namentlicher Abstimmung gefasst und protokolliert
 Das Nähere regelt der Vorstand in seiner Geschäftsordnung.
 
 (10)
-Der Vorstand hat zu Beginn eines jeden Quartals innerhalb von 14 Tagen die Vorstandsbeschlüsse des vergangenen Quartals zu veröffentlichen.
-Dabei wird das namentliche Abstimmungsverhalten der Vorstandsmitglieder nicht veröffentlicht.
-Bei der Veröffentlichung haben einzelne Vorstandsmitglieder aber die Möglichkeit, ihre abweichende Meinung im jeweiligen Beschluss darzulegen.
+Der Vorstand hat zu Beginn jedes Monats innerhalb von 14 Tagen die Vorstandsbeschlüsse des vergangenen Monats zu veröffentlichen.
+Dabei wird das namentliche Abstimmungsverhalten der Vorstandsmitglieder veröffentlicht.
+Bei der Veröffentlichung haben einzelne Vorstandsmitglieder darüber hinaus die Möglichkeit, ihre abweichende Meinung im jeweiligen Beschluss darzulegen.
 Nicht zu veröffentlichen sind solche Vorstandsbeschlüsse, deren Veröffentlichung berechtigte Interessen, insbesondere jene des Datenschutzes und der Wahrung von Geschäftsgeheimnissen, entgegenstehen.
 
 (11)
