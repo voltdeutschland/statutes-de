@@ -38,7 +38,7 @@ Der Bundesverband und die Landesverbände prüfen stichprobenartig die Konten un
 Der Bundesverband sowie die Landes- und unteren Gebietsverbände sind verpflichtet, die Buchführung, die Kassen und die Konten durch satzungsgemäß bestellte Rechnungsprüfer\*innen entsprechend § 9 Abs. 5 PartG prüfen zu lassen.
 
 (4)
-Der Bundesparteitag und die Mitgliederversammlungen der Landes- und unteren Gebietsverbände wählen in nicht geheimer Wahl jeweils drei Rechnungsprüfer\*innen für eine Amtszeit von zwei Jahren.
+Der Bundesparteitag, die Landesparteitage und die Mitgliederversammlungen der unteren Gebietsverbände wählen jeweils mindestens drei Rechnungsprüfer\*innen für eine Amtszeit von zwei Jahren.
 Landes- und unteren Gebietsverbände können in ihrer Satzung eine abweichende Anzahl von Rechnungsprüfer\*innen, mindestens aber zwei, festlegen.
 Ungeachtet der nach den Sätzen 1 und 2 zu wählenden Anzahl ist bei allen wesentlichen Prüfungshandlungen das Vier-Augen-Prinzip einzuhalten - insofern die Prüfung durch lediglich eine\*n Rechnungsprüfer\*in stets ausgeschlossen.
 
@@ -190,7 +190,7 @@ Jeder Gliederung stehen die bei ihr eingegangenen Spenden ungeteilt zu, sofern e
 Erbschaften und Vermächtnisse werden, soweit sie keine Nachteile für Volt Deutschland haben, ohne Begrenzung angenommen.
 
 (4)
-Spenden, die im Einzelfall die Höhe von 50.000 Euro übersteigen, sind über die Landesverbände und durch den Bundesverband der/dem Präsidentin/en des Deutschen Bundestages unverzüglich anzuzeigen.
+Spenden, die im Einzelfall die Höhe von 35.000 Euro übersteigen, sind über die Landesverbände und durch den Bundesverband der/dem Präsidentin/en des Deutschen Bundestages unverzüglich anzuzeigen.
 
 (5)
 Spenden an eine oder mehrere Verbandsebenen von Volt Deutschland, deren Gesamtwert 10.000 Euro pro Jahr übersteigt, sind im jeweiligen Rechenschaftsbericht unter Angabe des Namens und der Anschrift des/der Spender\*in zu verzeichnen.

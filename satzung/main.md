@@ -360,7 +360,15 @@ Er tagt als ordentlicher Bundesparteitag mindestens einmal im Jahr und wird vom 
 Der Bundesparteitag gibt sich eine Geschäftsordnung.
 
 (2)
-Der Bundesvorstand kann in dringenden Fällen und muss auf einen mit Gründen versehenen Antrag von mindestens einem Fünftel der Mitglieder, drei Landesverbänden oder sieben unteren Gebietsverbänden einen außerordentlichen Parteitag einberufen.
+Der Bundesvorstand kann in dringenden Fällen und muss auf einen mit Gründen versehenen Antrag von mindestens:
+
+a) einem Fünftel der Mitglieder,
+b) drei Landesvorständen,
+c) drei Landesparteitagen,
+d) sieben unteren Gebietsvorständen oder
+e) sieben Mitgliederversammlungen
+
+einen außerordentlichen Parteitag einberufen.
 
 (3)
 Der Bundesvorstand beruft den ordentlichen Bundesparteitag schriftlich oder per E-Mail mit einer Frist von zehn Wochen unter Angabe der vorläufigen Tagesordnung, des Tagungsortes sowie der amtierenden Antrags- und Wahlkommission ein.
@@ -425,15 +433,10 @@ Mit der Einberufung des Bundesparteitags setzt der Bundesvorstand den stimmberec
 Die Rückmeldefrist beträgt höchstens sieben Tage vor Beginn des Bundesparteitags.
 Sagen die Delegierten ihre Teilnahme am Bundesparteitag zur Rückmeldefrist nicht gegenüber dem Bundesverband ab, obwohl sie ihr Stimmrecht auf dem Bundesparteitag nicht ausüben können werden, können keine Ersatzdelegierten für sie teilnehmen.
 Die Landesvorstände sind über die eingegangenen Rückmeldungen der Delegierten ihres Landesverbandes fortlaufend zu informieren.
-Können Delegierte nach der Rückmeldefrist ihr Stimmrecht aufgrund kurzfristiger Verhinderung nicht ausüben, können Delegierte ihr Stimmrecht auf andere Delegierte übertragen.
-Auf Delegierte kann höchstens eine andere Stimme übertragen werden.
-Die Stimmrechtsübertragung ist nicht mit Weisungen verbunden.
-Die Stimmrechtsübertragung bedarf zu ihrer Wirksamkeit einer Mitteilung der übertragenden Delegierten gegenüber dem Bundesverband und der Annahmeerklärung gegenüber dem Bundesverband durch die Delegierten, auf die das Stimmrecht übertragen werden soll.
-Stimmrechtsübertragungen nach Beginn der Versammlung sind in der Regel nicht zulässig, die Versammlungsleitung kann sie in Ausnahmefällen zulassen.
 Stimmrechtsübertragungen nach Satz 5 bis 9 sind nur auf Versammlungen zulässig, die als Präsenzversammlungen an einem Ort, an dem Mitglieder gemeinsam physisch anwesend sind, abgehalten werden.
 
 (14)
-Stehen nicht genügend Ersatzdelegierte oder Stimmrechtsübertragungen zur Verfügung, verfallen die nicht vertretenen Stimmen des jeweiligen Landesverbandes für den jeweiligen Bundesparteitag.
+Stehen nicht genügend Ersatzdelegierte zur Verfügung, verfallen die nicht vertretenen Stimmen des jeweiligen Landesverbandes für den jeweiligen Bundesparteitag.
 
 (15)
 Die Mitglieder des Bundesvorstandes und der Landesvorstände haben ein Teilnahme- und Rederecht.

@@ -20,7 +20,7 @@ Sie stellt die Stimmberechtigung fest.
 Die Mandatsprüfung ist in geeigneter Form zu dokumentieren und bei Volt Deutschland zu hinterlegen.
 
 (4)
-Der Parteitag ist nach § 17 Abs. 7 der Satzung unabhängig von der Anzahl der anwesenden Mitglieder beschlussfähig.
+Der Parteitag ist nach § 16 Absatz 8 der Satzung unabhängig von der Anzahl der anwesenden Mitglieder beschlussfähig.
 
 ## § 2 – Versammlungsleitung
 
@@ -43,7 +43,7 @@ Bei grober Verletzung der Ordnung oder der Würde des Parteitags kann die Versam
 ## § 2a – Antragskommission
 
 (1)
-Die Antragskommission prüft alle eingegangenen Anträge auf deren frist- und formgerechten Eingang, entscheidet gemäß Satzung und Geschäftsordnung über ihre Zulassung und informiert die Parteimitglieder nach § 16 Abs. 6 der Satzung.
+Die Antragskommission prüft alle eingegangenen Anträge auf deren frist- und formgerechten Eingang, entscheidet gemäß Satzung und Geschäftsordnung über ihre Zulassung und informiert die Parteimitglieder nach § 16 Absatz 7 der Satzung.
 
 (2)
 Die Antragskommission gibt dem Parteitag eine Empfehlung zur Reihenfolge der Antragsbearbeitung anhand der vorläufigen Tagesordnung, stellt Konkurrenzen zwischen Anträgen sowie Widersprüche von Anträgen zu Vorgaben von Volt Europa, insbesondere politisch inhaltliche, fest.
@@ -108,10 +108,9 @@ Für die Einreichung von Anträgen zur Änderung der Tagesordnung, Sachanträgen
 (5)
 Die erforderliche Anzahl an Mitgliedern in Fällen des Absatzes 1 lit. g richtet sich nach der Anzahl der Mitglieder zum Zeitpunkt der Einladung und wird mit der Einladung zum Parteitag bekannt gegeben.
 Nachkommastellen werden auf eine ganze Zahl abgerundet.
-Abweichend von Absatz 1 lit. g ist für Wahlvorschläge für die Wahl des Schiedsgerichts und der Rechnungsprüfer\*innen jedes Mitglied vorschlagsberechtigt.
 
 (6)
-Bei Wahlvorschlägen kann jedes Mitglied in den Fällen des Absatzes 1 lit. g beliebig viele Wahlvorschläge unterstützen.
+Bei Wahlvorschlägen kann jedes Mitglied in den Fällen des Absatzes 1 lit. h beliebig viele Wahlvorschläge unterstützen.
 
 (7)
 Die Unterstützung von Wahlvorschlägen erfolgt namentlich gegenüber der Wahlkommission.
@@ -163,7 +162,6 @@ Findet keine Gegenrede statt, gilt der Antrag als angenommen.
 
 (4)
 Der Antrag zur erneuten Aussprache und Beschlussfassung über einen bereits abgeschlossenen Tagesordnungspunkt (Rückholungsantrag) ist schriftlich bei der Versammlungsleitung zu stellen.
-Der Antrag wird mit zwei Dritteln der anwesenden Stimmberechtigten angenommen.
 
 ## § 8 – Abstimmungen
 
@@ -172,7 +170,7 @@ Abstimmungen über Anträge werden grundsätzlich per Handzeichen durchgeführt.
 Ein Geschäftsordnungsantrag auf schriftliche Abstimmung bedarf der einfachen Mehrheit der abgegebenen Stimmen.
 
 (2)
-Der Parteitag fasst Beschlüsse mit einfacher Mehrheit der abgegebenen Stimmen, soweit in der Satzung oder dieser Geschäftsordnung nicht etwas Anderes bestimmt ist.
+Der Parteitag fasst Beschlüsse mit einfacher Mehrheit der abgegebenen Stimmen, soweit in der Satzung nicht etwas Anderes bestimmt ist.
 Stimmenthaltungen und ungültig abgegebene Stimmen zählen als nicht abgegebene Stimmen.
 
 (3)
@@ -254,7 +252,7 @@ Teilnehmende Mitglieder von Volt Europa und nationalen Chaptern haben nach § 10
 
 (3)
 Parteitage stehen Vertreter\*innen der Presse offen.
-Ein temporärer Ausschluss der Presse ist nur durch Antrag des Bundesvorstandes und Abstimmung mit einer qualifizierten Mehrheit mit einem Quorum von zwei Dritteln der anwesenden Stimmberechtigten möglich.
+Ein temporärer Ausschluss der Presse ist nur durch Beschluss des Parteitages auf Antrag des Bundesvorstandes möglich.
 
 ## § 12 – Protokoll
 

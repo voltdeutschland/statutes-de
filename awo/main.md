@@ -63,7 +63,6 @@ h) Unterzeichner\*innen von Wahlvorschlägen, die die Einhaltung der Wahlgesetze
 
 (2)
 Erhebt ein stimmberechtigtes Versammlungsmitglied Widerspruch gegen eine offene Abstimmung, so beschließt die Versammlung in offener Abstimmung mit einfacher Mehrheit darüber, ob die Abstimmung offen oder geheim durchzuführen ist.
-Für Online-Parteitage gilt § 4 Abs. 2 der Online-GO.
 
 ## § 6 – Stimmzettel
 
