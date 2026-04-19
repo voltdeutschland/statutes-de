@@ -35,12 +35,14 @@ Das Bundesschiedsgericht besteht aus einem/einer Vorsitzenden, einem/einer stell
 
 (2)
 Die Schiedsgerichte treten in der Besetzung mit einem/einer Vorsitzenden, einem/einer stellvertretenden Vorsitzenden und einem/einer Beisitzer\*in zusammen.
-Der/die Vorsitzende und der/die stellvertretende Vorsitzende und mindestens die Hälfte der stellvertretenden Schiedsrichter\*innen müssen die Befähigung zum Richteramt oder eine vergleichbare Qualifikation in einem Mitgliedstaat der Europäischen Union haben.
+Der/die Vorsitzende und der/die stellvertretende Vorsitzende müssen die Befähigung zum Richteramt oder eine vergleichbare Qualifikation in einem Mitgliedstaat der Europäischen Union haben.
+Mindestens die Hälfte der stellvertretenden Schiedsrichter\*innen muss die Erste Juristische Staatsprüfung erfolgreich absolviert oder eine vergleichbare Qualifikation in einem Mitgliedstaat der Europäischen Union haben.
 
 (3)
-Wahlen zum Bundesschiedsgericht finden für alle seine Mitglieder gemeinsam in jedem zweiten Jahr statt.
+Die Neuwahl des Bundesschiedsgerichts findet für alle seine Mitglieder gemeinsam in jedem zweiten Jahr statt.
 Die Mitglieder des Bundesschiedsgerichts bleiben bis zur Neuwahl des Bundesschiedsgerichts im Amt.
 Wiederwahlen sind möglich.
+Wird ein Amt bei der Neuwahl nicht besetzt, führt das Mitglied sein Amt bis zur Nachwahl nach § 12 Absatz 2 kommissarisch, wenn keine Vertretung möglich ist.
 
 ## § 6 – Vertretungsregelung für das Bundesschiedsgericht
 
@@ -48,7 +50,7 @@ Wiederwahlen sind möglich.
 Der/die Vorsitzende wird im Verhinderungsfall durch den/die stellvertretende\*n Vorsitzende\*n vertreten.
 
 (2)
-Der/die stellvertretende Vorsitzende wird durch den/die stellvertretende\*n Schiedsrichter\*in vertreten, der/die dem Schiedsgericht am längsten angehört und die Befähigung zum Richteramt hat.
+Der/die stellvertretende Vorsitzende wird durch den/die stellvertretende\*n Schiedsrichter\*in vertreten, der/die dem Schiedsgericht am längsten angehört und die Befähigung zum Richteramt oder die Erste Juristische Staatsprüfung erfolgreichs absoltivert hat.
 Bei gleicher Dauer der Zugehörigkeit entscheidet das Lebensalter, bei gleichem Lebensalter das Los.
 
 (3)
@@ -70,9 +72,10 @@ Der/die Vorsitzende und mindestens die Hälfte der stellvertretenden Schiedsrich
 Die jeweilige Satzung des Landesverbands kann eine höhere Zahl von stellvertretenden Schiedsrichter\*innen vorsehen.
 
 (5)
-Wahlen zum Landesschiedsgericht finden für alle seine Mitglieder gemeinsam in jedem zweiten Jahr statt.
+Die Neuwahl des Landesschiedsgerichts findet für alle seine Mitglieder gemeinsam in jedem zweiten Jahr statt.
 Die Mitglieder des Landesschiedsgerichts bleiben bis zur Neuwahl des Landesschiedsgerichts im Amt.
 Wiederwahlen sind möglich.
+Wird ein Amt bei der Neuwahl nicht besetzt, führt das Mitglied sein Amt bis zur Nachwahl nach § 12 Absatz 2 kommissarisch, wenn keine Vertretung möglich ist.
 
 ## § 8 – Vertretungsregelung für die Landesschiedsgerichte
 
@@ -118,15 +121,17 @@ Niemand kann in mehr als einer Instanz Schiedsrichter\*in sein.
 ## § 12 – Vertretung bei Ausscheiden und Nachwahl
 
 (1)
-Scheidet der/die Vorsitzende, der/die stellvertretende Vorsitzende oder ein\*e Beisitzer\*in - insbesondere aufgrund des Endes der Mitgliedschaft bei Volt Deutschland oder seines/ihres Rücktritts - dauerhaft aus einem Schiedsgericht aus, so gelten die Vertretungsregelungen der §§ 5 und 7 entsprechend und der/die Vertreter\*in übernimmt die Funktion des/der Vertretenen bis zum Ende der Amtsperiode des Schiedsgerichts.
+Scheidet der/die Vorsitzende, der/die stellvertretende Vorsitzende oder ein\*e Beisitzer\*in - insbesondere aufgrund des Endes der Mitgliedschaft bei Volt Deutschland oder seines/ihres Rücktritts - dauerhaft aus einem Schiedsgericht aus, so gelten die Vertretungsregelungen der §§ 6 und 7 entsprechend und die Vertretung übernimmt das Amt bis zur Neuwahl des Schiedsgerichts.
 
 (2)
-Der jeweilige Parteitag kann für die Zeit bis zum Ende der Amtsperiode neue stellvertretende Schiedsrichter\*innen in der Zahl der ausgeschiedenen Schiedsrichter\*innen nach den Grundsätzen des § 5 Absatz 2 und 4 wählen.
-Sofern so viele Schiedsrichter\*innen ausscheiden, dass eine ordnungsgemäße Besetzung des jeweiligen Gerichtes nicht mehr möglich ist, müssen auf einem Parteitag Nachwahlen nach Satz 1 durchgeführt werden.
+Scheiden stellvertretende Schiedsrichter\*innen aus, kann der jeweilige Parteitag sie nachwählen.
+Sofern so viele Schiedsrichter\*innen ausscheiden, dass eine ordnungsgemäße Besetzung des jeweiligen Gerichtes nicht mehr möglich ist, müssen auf dem nächsten ordentlichen Parteitag Nachwahlen durchgeführt werden.
+Die nachgewählten Personen führen ihr Amt nur für den verbleibenden Rest der jeweiligen Amtszeit.
 
 ## § 12a – Ruhen des Verfahrens bei nicht ordnungsgemäßer Besetzung
 
-Sind die Ämter der stellvertretenden Schiedsrichter\*innen nicht besetzt, ruhen Verfahren, die vor der Beschwerdekammer des Bundesschiedsgerichts fristgemäß anhängig sind oder beim Bundesschiedsgericht anhängig werden, ohne dass eine ordnungsgemäße Besetzung des Gerichts hergestellt werden kann, bis zur Wahl einer hinreichenden Besetzung des Schiedsgerichts, ohne dass Fristen nach dieser Schiedsordnung fortlaufen.
+Kann bei einem fristgemäß anhängigen Verfahren vor dem Bundesschiedsgericht keine ordnungsgemäße Besetzung hergestellt werden, ruht das Verfahren bis zur Wahl des Bundesschiedsgerichts, ohne dass Fristen nach dieser Schiedsgerichtsordnung fortlaufen.
+Dies gilt auch für die Beschwerdekammer des Bundesschiedsgerichts nach § 49.
 
 ## § 13 – Auslagenerstattung
 
