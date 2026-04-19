@@ -278,7 +278,7 @@ Die Satzungen der Gebietsverbände müssen diese Bestimmungen enthalten:
 2. Bei Aufstellungen von Wahllisten für Wahlen zum Europäischen Parlament, Deutschen Bundestag, zu Landtagen, dem Abgeordnetenhaus Berlin, der Bremer und Hamburger Bürgerschaft sowie kommunalen Vertretungskörperschaften ist im Falle der Besetzung der einzelnen Listenpositionen in einem anderen Wahlverfahren als dem der §§ 22 bis 24 der Allgemeinen Wahlordnung von Volt Deutschland zwingend sicherzustellen, dass zwei aufeinanderfolgende Listenplätze nicht von zwei Personen desselben Geschlechts besetzt werden können. Eine Abweichung kann erfolgen, wenn sich nur noch Kandidat\*innen eines Geschlechts für die verbleibenden Listenplätze bewerben.
 3. Eine Mitgliedschaft im Vorstand eines Landesverbandes oder unteren Gebietsverbandes ist mit einem Mandat als Abgeordnete\*r des Europäischen Parlaments, des Bundestags, eines Landtags sowie mit einem öffentlichen Amt als Mitglied der Europäischen Kommission, der Bundesregierung oder einer Landesregierung, sowie eines Amtes als Bürger- oder Oberbürgermeister\*in oder Landrat/Landrätin unvereinbar.
    Eine Mitgliedschaft im Vorstand eines Landesverbandes oder unteren Gebietsverbandes ist mit einem Mandat auf kommunaler Ebene vereinbar.
-4. Eine Mitgliedschaft im Landesvorstand oder Vorstand eines unteren Gebietsverbandes ist mit einer Mitgliedschaft im Vorstand eines anderen unteren Gebietsverbandes, Landesverbandes, des Bundesverbandes oder von Volt Europa unvereinbar.
+4. Eine Mitgliedschaft im Landesvorstand oder Vorstand eines unteren Gebietsverbandes ist mit einer Mitgliedschaft im Vorstand eines anderen unteren Gebietsverbandes, Landesverbandes oder von Volt Europa unvereinbar.
 
 Abweichend von Satz 1 Nr. 1 kann die Satzung der Gebietsverbände die Bestimmung enthalten, dass die Neuwahl des Vorstands in jedem Kalenderjahr erfolgt.
 In diesem Fall ist eine aufeinanderfolgende Wiederwahl für dasselbe oder ein anderes Vorstandsamt des jeweiligen unteren Gebietsverbandes bzw. Landesverbandes dreimal möglich; danach kann das Mitglied für vier Wahlperioden nicht für den betroffenen Landesvorstand oder Vorstand eines unteren Gebietsverbandes kandidieren.
@@ -360,16 +360,49 @@ Er tagt als ordentlicher Bundesparteitag mindestens einmal im Jahr und wird vom 
 Der Bundesparteitag gibt sich eine Geschäftsordnung.
 
 (2)
-Der Bundesvorstand kann in dringenden Fällen und muss auf einen mit Gründen versehenen Antrag von mindestens einem Fünftel der Mitglieder, drei Landesverbänden oder sieben unteren Gebietsverbänden einen außerordentlichen Parteitag einberufen.
+Der Bundesvorstand kann in dringenden Fällen und muss auf einen mit Gründen versehenen Antrag von mindestens:
+
+a) einem Fünftel der Mitglieder,
+b) drei Landesvorständen,
+c) drei Landesparteitagen,
+d) sieben unteren Gebietsvorständen oder
+e) sieben Mitgliederversammlungen
+
+einen außerordentlichen Parteitag einberufen.
 
 (3)
-Der Bundesvorstand beruft den ordentlichen Bundesparteitag schriftlich oder per E-Mail mit einer Frist von zehn Wochen unter Angabe der vorläufigen Tagesordnung, des Tagungsortes sowie der Antrags- und soweit aufgrund von Wahlen notwendig der Wahlkommission ein.
+Der Bundesvorstand beruft den ordentlichen Bundesparteitag schriftlich oder per E-Mail mit einer Frist von zehn Wochen unter Angabe der vorläufigen Tagesordnung, des Tagungsortes sowie der amtierenden Antrags- und Wahlkommission ein.
 Bei außerordentlichen Bundesparteitagen soll die Einladung so früh wie möglich erfolgen, mindestens jedoch mit einer Frist von zehn Tagen.
 Bei außerordentlichen Parteitagen werden Beschlüsse nur zum dringlichen, den Parteitag notwendig machenden Anlass gefasst.
 Dieser Anlass ist bei der Einladung anzugeben.
 Das weitere Verfahren regelt die Geschäftsordnung für Bundesparteitage.
 
 (4)
+Der Bundesparteitag wählt eine Antragskommission, bestehend aus mindestens fünf Mitgliedern, die nicht dem Bundesvorstand angehören.
+Die Amtszeit der Antragskommission beträgt zwei Jahre.
+Ihre Mitglieder bleiben bis zur Neuwahl im Amt.
+Die Antragskommission arbeitet unabhängig vom Bundesvorstand und erfüllt ihre Aufgaben im Rahmen der Satzung sowie der Geschäftsordnung für ordentliche und außerordentliche Bundesparteitage.
+Näheres regelt die Geschäftsordnung für Bundesparteitage.
+
+(5)
+Der Bundesparteitag wählt eine Wahlkommission, bestehend aus mindestens fünf Mitgliedern.
+Die Amtszeit der Wahlkommission beträgt zwei Jahre.
+Ihre Mitglieder bleiben bis zur Neuwahl im Amt.
+Die Wahlkommission arbeitet unabhängig vom Bundesvorstand und erfüllt ihre Aufgaben im Rahmen der Satzung und der Allgemeinen Wahlordnung sowie der Geschäftsordnung für ordentliche und außerordentliche Bundesparteitage.
+Näheres regelt die Allgemeine Wahlordnung.
+
+(6)
+Die Antrags- und Wahlkommission geben sich jeweils eine Geschäftsordnung.
+Diese regelt unter anderem die Einladung, Durchführung und Dokumentation von Sitzungen sowie die Beschlussfähigkeit und Beschlussfassung inklusive einer möglichen Aufgabenteilung.
+
+(7)
+Wenn eine Antrags- oder Wahlkommission weniger als fünf Mitglieder hat, kann die Kommission eigenständig neue Personen kooptieren, die die Arbeit der Kommission bis zum nächsten Parteitag unterstützen.
+Sobald einer Kommission weniger als zwei Mitglieder angehören, muss der Bundesvorstand mindestens drei Personen ernennen, die die Kommission bis zur Neuwahl auf dem nächsten Bundesparteitag ergänzen.
+
+(8)
+Landesverbände und untere Gebietsverbände können in ihren Satzungen oder Geschäftsordnungen eigene Regelungen zur Einrichtung und Besetzung von Antrags- und Wahlkommissionen treffen.
+
+(9)
 Die stimmberechtigten Delegierten für den Bundesparteitag werden für höchstens zwei Jahre durch die Landesverbände gewählt.
 Eine anschließende Wiederwahl ist zweimal möglich.
 Danach darf das Mitglied so lange nicht bei einer Neuwahl einer Delegiertenliste antreten, bis es eine Wahlperiode nicht Teil einer Delegiertenliste war.
@@ -377,45 +410,40 @@ Eine Kandidatur für Nachwahlen zu Delegiertenlisten ist unbegrenzt möglich.
 Die Satzungen der Landesverbände können bestimmen, dass ihre Delegierten ganz oder teilweise durch untergeordnete Gebietsverbände gewählt werden.
 Die Landesvorstände melden dem Bundesverband nach der Wahl die Namen der Delegierten ihres Landesverbandes und Änderungen der Namen der Delegierten, insbesondere aufgrund Rücktritts, Ab- oder Nachwahlen, innerhalb von zwei Wochen.
 
-(5)
+(10)
 Ein Landesparteitag kann seine Delegierten jederzeit ab- oder neue Delegierte nachwählen.
 Nachgewählte Delegierte führen ihr Amt nur für den verbleibenden Rest der Amtszeit der ursprünglich gewählten Delegierten aus.
 Bei Verlegung des mitgliedschaftlichen Wohnsitzes von Delegierten an einen anderen Ort als das entsendende Bundesland, erlischt das Delegiertenmandat.
 
-(6)
+(11)
 Die Anzahl der Delegierten eines Landesverbandes bemisst sich nach der Zahl der Mitglieder des Landesverbandes und ergibt sich wie folgt:
 Die Zahl der Mitglieder des Landesverbandes wird mit dem Faktor 400 multipliziert.
 Das sich ergebende Produkt wird durch die Zahl der Mitglieder des Bundesverbandes vier Monate vor der Einberufung des Bundesparteitags dividiert.
 Das Ergebnis ist die Anzahl der Delegierten eines Landesverbandes, wobei auf eine ganze gerade Zahl aufgerundet wird.
 Die Anzahl der Delegierten beträgt mindestens zwei (Grundmandate).
 
-(7)
+(12)
 Jeder Landesverband wählt zwei fortlaufende Listen an Delegierten, eine männlich/diverse Liste und eine weiblich/diverse Liste.
-Die Anzahl stimmberechtigter Delegierter für den Bundesparteitag auf diesen Listen entspricht jeweils der Hälfte der Anzahl der Delegierten des Landesverbandes nach Abs. 6.
+Die Anzahl stimmberechtigter Delegierter für den Bundesparteitag auf diesen Listen entspricht jeweils der Hälfte der Anzahl der Delegierten des Landesverbandes nach Absatz 11.
 Mitglieder auf diesen Listen, die nach Satz 2 keine stimmberechtigten Delegierten sind, sind in absteigender Reihenfolge, für die Liste, auf die sie gewählt wurden, Ersatzdelegierte für den Bundesparteitag.
-Hat ein Landesverband nach Abs. 4 Satz 3 die Wahl der Delegierten ganz oder teilweise an untergeordnete Gebietsverbände delegiert, gelten Satz 1 bis 3 für diese entsprechend mit der Maßgabe, dass die Anzahl der Delegierten eines untergeordneten Gebietsverbandes durch die Satzung des Landesverbandes bestimmt wird.
+Hat ein Landesverband nach Absatz 9 Satz 5 die Wahl der Delegierten ganz oder teilweise an untergeordnete Gebietsverbände delegiert, gelten Satz 1 bis 3 für diese entsprechend mit der Maßgabe, dass die Anzahl der Delegierten eines untergeordneten Gebietsverbandes durch die Satzung des Landesverbandes bestimmt wird.
 
-(8)
+(13)
 Mit der Einberufung des Bundesparteitags setzt der Bundesvorstand den stimmberechtigten Delegierten eine Frist zur Rückmeldung ihrer Teilnahme am Bundesparteitag (Rückmeldefrist).
 Die Rückmeldefrist beträgt höchstens sieben Tage vor Beginn des Bundesparteitags.
 Sagen die Delegierten ihre Teilnahme am Bundesparteitag zur Rückmeldefrist nicht gegenüber dem Bundesverband ab, obwohl sie ihr Stimmrecht auf dem Bundesparteitag nicht ausüben können werden, können keine Ersatzdelegierten für sie teilnehmen.
 Die Landesvorstände sind über die eingegangenen Rückmeldungen der Delegierten ihres Landesverbandes fortlaufend zu informieren.
-Können Delegierte nach der Rückmeldefrist ihr Stimmrecht aufgrund kurzfristiger Verhinderung nicht ausüben, können Delegierte ihr Stimmrecht auf andere Delegierte übertragen.
-Auf Delegierte kann höchstens eine andere Stimme übertragen werden.
-Die Stimmrechtsübertragung ist nicht mit Weisungen verbunden.
-Die Stimmrechtsübertragung bedarf zu ihrer Wirksamkeit einer Mitteilung der übertragenden Delegierten gegenüber dem Bundesverband und der Annahmeerklärung gegenüber dem Bundesverband durch die Delegierten, auf die das Stimmrecht übertragen werden soll.
-Stimmrechtsübertragungen nach Beginn der Versammlung sind in der Regel nicht zulässig, die Versammlungsleitung kann sie in Ausnahmefällen zulassen.
 Stimmrechtsübertragungen nach Satz 5 bis 9 sind nur auf Versammlungen zulässig, die als Präsenzversammlungen an einem Ort, an dem Mitglieder gemeinsam physisch anwesend sind, abgehalten werden.
 
-(9)
-Stehen nicht genügend Ersatzdelegierte oder Stimmrechtsübertragungen zur Verfügung, verfallen die nicht vertretenen Stimmen des jeweiligen Landesverbandes für den jeweiligen Bundesparteitag.
+(14)
+Stehen nicht genügend Ersatzdelegierte zur Verfügung, verfallen die nicht vertretenen Stimmen des jeweiligen Landesverbandes für den jeweiligen Bundesparteitag.
 
-(10)
+(15)
 Die Mitglieder des Bundesvorstandes und der Landesvorstände haben ein Teilnahme- und Rederecht.
 Alle Mitglieder von Volt Europa sowie von nationalen Chaptern haben ein Rederecht, sofern der Parteitag dies nicht per Beschluss einschränkt.
 Weiteren Teilnehmenden kann per Beschluss das Rederecht erteilt werden.
 
-(11)
+(16)
 Die Bewerber\*innen für eine gemeinsame Liste für alle Länder zur Europawahl werden in einer Versammlung der Mitglieder gewählt, die zum Zeitpunkt ihres Zusammentritts zum Europäischen Parlament wahlberechtigt sind.
 
 ## § 16 – Aufgaben und Arbeitsweise des Bundesparteitags
@@ -461,52 +489,81 @@ Der Bundesparteitag ist unabhängig von der Anzahl der anwesenden Mitglieder bes
 (9)
 Von den Verhandlungen des Bundesparteitags ist eine Niederschrift zu fertigen, in der die gestellten Anträge, die gefassten Beschlüsse und die Ergebnisse der Wahlen festgehalten werden müssen.
 Daneben können die Verhandlungen auf elektronischen Datenträgern aufgezeichnet werden.
-Die Niederschrift nach Satz 1 wird von den Vorsitzenden der Versammlungsleitung, Schriftführer\*innen und den Vorsitzenden des Bundesvorstandes unterzeichnet.
+Die Niederschrift nach Satz 1 wird von den Vorsitzenden der Versammlungsleitung, Schriftführer\*innen und zwei vorsitzenden Mitgliedern des Bundesvorstandes unterzeichnet.
 Ein Auszug mit dem Wortlaut aller gefassten Beschlüsse und dem Ergebnis der Wahlen ist allen Mitgliedern innerhalb von vier Wochen schriftlich oder per E-Mail mitzuteilen.
 
 ## § 17 – Bundesvorstand
 
 (1)
-Die Mitglieder des Bundesvorstands werden durch den Bundesparteitag in geheimer Wahl gewählt.
-Wahlen zum Bundesvorstand finden für alle seine Mitglieder gemeinsam in jedem zweiten Jahr statt.
-Die Mitglieder des Bundesvorstands bleiben bis zur Neuwahl des Bundesvorstands im Amt.
+Die Mitglieder des Bundesvorstandes werden durch den Bundesparteitag in geheimer Wahl gewählt.
+Der Bundesvorstand wird mindestens in jedem zweiten Kalenderjahr gewählt, wobei eine Neuwahl der vorsitzenden und der stellvertretenden vorsitzenden Mitglieder nicht im selben Kalenderjahr stattfindet.
+Die Mitglieder des Bundesvorstands bleiben bis zur Neuwahl im Amt.
+Die Mitglieder des scheidenden Bundesvorstands unterstützen mindestens 30 Kalendertage und höchstens 90 Kalendertage bei der Übergabe des Amtes.
 Eine aufeinanderfolgende Wiederwahl für dasselbe oder ein anderes Vorstandsamt ist einmal möglich; danach kann das Mitglied für zwei Wahlperioden nicht für den Bundesvorstand kandidieren.
 
 (2)
 Nachwahlen aufgrund des Ausscheidens einzelner Mitglieder des Bundesvorstands finden auf dem nächstfolgenden Bundesparteitag statt.
-Nachwahlen aufgrund des Ausscheidens einzelner Mitglieder des Bundesvorstands müssen im Rahmen eines außerordentlichen Bundesparteitags nach § 15 Absatz 2 stattfinden, soweit er sonst durch das Ausscheiden des Mitglieds unter die gesetzliche Mindestzahl an Mitgliedern sinkt.
-Nachgewählte Mitglieder führen ihr Amt nur für den verbleibenden Rest der Amtszeit des Bundesvorstands aus; eine Wiederwahl nach einer Amtszeit nach diesem Absatz zählt nicht als Wiederwahl im Sinne von Absatz 1 Satz 4.
-Scheidet der gesamte Bundesvorstand aus, insbesondere infolge eines Rücktritts aller Mitglieder, endet die Amtsperiode vorzeitig und es finden auf dem folgenden außerordentlichen oder ordentlichen Bundesparteitag Neuwahlen statt.
+Nachwahlen aufgrund des Ausscheidens einzelner Mitglieder des Bundesvorstands müssen im Rahmen eines Außerordentlichen Bundesparteitags nach § 15 Absatz 2 stattfinden, soweit er sonst durch das Ausscheiden des Mitglieds unter die gesetzliche Mindestzahl an Mitgliedern sinkt.
+Nachgewählte Mitglieder führen ihr Amt nur für den verbleibenden Rest der Amtszeit aus.
+Eine Nachwahl zählt nicht als Wiederwahl im Sinne von Absatz 1 Satz.
+Scheidet der gesamte Bundesvorstand aus, insbesondere infolge eines Rücktritts aller Mitglieder, endet die Amtszeit vorzeitig und es finden in Ausnahme zu § 17 Absatz 1 Satz 2 auf dem folgenden Außerordentlichen oder Ordentlichen Parteitag Neuwahlen für alle Mitglieder statt.
+In diesem Fall werden die stellvertretenden vorsitzenden Mitglieder bereits im darauffolgenden Kalenderjahr neu gewählt, um in Zukunft Wahlen im Sinne von § 17 Absatz 1 in unterschiedlichen Kalenderjahren abhalten zu können.
 
 (3)
-Dem Bundesvorstand von Volt Deutschland gehören sieben Mitglieder an:
+Dem Bundesvorstand von Volt Deutschland gehören 15 Mitglieder an:
 
-1. zwei gleichberechtigte Vorsitzende unterschiedlichen Geschlechts;
-2. ein\*e Schatzmeister\*in;
-3. vier stellvertretende Vorsitzende; von diesen dürfen maximal die Hälfte demselben Geschlecht angehören.
+1. fünf vorsitzende Mitgliedern, darunter das für die Finanzangelegenheiten zuständige Mitglied (Schatzmeister\*in), von denen mindestens zwei der fünf vorsitzenden Mitglieder einem anderen Geschlecht angehören müssen,
+2. zehn stellvertretende vorsitzende Mitgliedern, von denen nur die Hälfte demselben Geschlecht angehören dürfen darf.
+
+Dem Bundesvorstand gehören kraft Satzung als stellvertretenden vorsitzende Mitglieder
+
+a) zwei Landesvorstände unterschiedlichen Geschlechts sowie
+b) ein Mitglied des Europäischen Parlaments, des Bundestags oder eines Landtags an.
+
+Die zwei Landesvorstände werden vor der Wahl des Bundesvorstandes durch die Landesvorstände aus ihrer Mitte bestimmt.
+Das Mitglied des Parlaments wird vor der Wahl durch die Volt-Mitglieder des Europäischen Parlaments, des Bundestags und der Landtage bestimmt.
+Die übrigen stellvertretenden vorsitzenden Mitglieder werden gemäß den Bestimmungen der Wahlordnung gewählt.
+Von diesen gewählten stellvertretenden vorsitzenden Mitgliedern sollen
+
+a) zwei weitere Landesvorstände, also Mitglieder die derzeit Landesvorstände sind oder innerhalb der letzten sechs Monate vor dem Wahltag waren und
+b) drei weitere Elected Officials, also Mitglieder, die derzeit ein durch öffentliche Wahl erworbenes Amt oder Mandat innehaben oderinnerhalb der letzten sechs Monate vor dem Wahltag innehatten,
+
+sein.
 
 (4)
-Eine Mitgliedschaft im Bundesvorstand ist mit einem Mandat als Abgeordnete\*r des Europäischen Parlaments, des Bundestags, eines Landtags sowie mit einem öffentlichen Amt als Mitglied der Europäischen Kommission, der Bundesregierung oder einer Landesregierung sowie eines Amtes als Bürger- oder Oberbürgermeister\*in oder Landrat/Landrätin unvereinbar.
-Eine Mitgliedschaft im Bundesvorstand ist mit einem Mandat auf kommunaler Ebene vereinbar.
+Die fünf vorsitzenden Mitglieder des Bundesvorstandes bilden den geschäftsführenden Vorstand (Präsidium).
+Die nicht für die Finanzangelegenheiten zuständigen vorsitzenden Mitglieder können ihre Aufgaben unter Berücksichtigung ihrer Kompetenzen in vier abgrenzbare Geschäftsbereiche aufteilen.
+Diese Aufteilung wird in der Geschäftsordnung des Präsidiums niedergelegt.
 
 (5)
-Eine Mitgliedschaft im Bundesvorstand ist mit einer Mitgliedschaft im Vorstand eines unteren Gebietsverbandes, Landesverbandes oder von Volt Europa unvereinbar.
+Eine Mitgliedschaft im Präsidium ist mit einem Mandat als Abgeordnete\*r des Europäischen Parlaments, des Bundestags, eines Landtags sowie mit einem öffentlichen Amt als Mitglied der Europäischen Kommission, der Bundesregierung oder einer Landesregierung sowie eines Amtes als Bürger- oder Oberbürgermeister\*in oder Landrat/Landrätin unvereinbar.
+Eine Mitgliedschaft im Präsidium ist mit einem Mandat auf kommunaler Ebene vereinbar.
 
 (6)
 Der Bundesparteitag kann den Bundesvorstand oder einzelne Mitglieder jederzeit in geheimer Wahl mit einer Mehrheit von zwei Dritteln der abgegebenen Stimmen abwählen.
 Nachwahlen für einzelne abgewählte Mitglieder finden noch auf demselben Parteitag statt; Absatz 2 Satz 3 gilt entsprechend.
-Für den Fall der Abwahl des gesamten Bundesvorstands sind noch auf demselben Parteitag Neuwahlen durchzuführen; Absatz 2 Satz 4 gilt entsprechend.
+Für den Fall der Abwahl des gesamten Bundesvorstands sind noch auf demselben Parteitag Neuwahlen durchzuführen; Absatz 2 Satz 5 und 6 gelten entsprechend.
 
 (7)
 Der Bundesvorstand vertritt Volt Deutschland gerichtlich und außergerichtlich nach außen.
-Er führt die Geschäfte auf Grundlage der Beschlüsse des Bundesparteitags oder der Gründungsversammlung.
-Soweit die Finanzordnung nichts anderes bestimmt, ist der\*die Schatzmeister\*in ermächtigt, Volt Deutschland in wirtschaftlichen und finanziellen Angelegenheiten zu vertreten.
-Der Bundesvorstand kann einzelne seiner Vorstandsmitglieder zur alleinigen oder mehrere Vorstandsmitglieder zur gemeinschaftlichen Vertretung nach außen ermächtigen.
+Er führt die Geschäfte auf Grundlage der Beschlüsse des Bundesparteitags.
+
+Das Präsidium erledigtdie laufenden und besonders dringlichen Geschäfte, bereitet die Beschlüsse des Bundesvorstandes vor und führt diese durch.
+Es soll dabei insbesondere die Verantwortung für
+
+- die Bundesgeschäftsstelle,
+- die Personalführung, die Vorbereitung & Umsetzung des Strategiekonzepts und von Organisationsentwicklungsmaßnahmen,
+- die Presse- und Öffentlichkeitsarbeit,
+- die Krisenkommunikation und die Umsetzung der Kampagnen- bzw. Wahlkampfstrategie auf Bundesebene
+
+übernehmen.
+Das Nähere regelt die Geschäftsordnung des Bundesvorstands.
+Soweit die Finanzordnung nichts anderes bestimmt, ist der\*die Schatzmeister\*in ermächtigt, Volt Deutschland in Finanzangelegenheiten zu vertreten.
+Der Bundesvorstand kann mehrere Vorstandsmitglieder zur gemeinschaftlichen Vertretung nach außen ermächtigen
 
 (8)
 Der Bundesvorstand gibt sich eine Geschäftsordnung.
-Diese regelt unter anderem die Aufgabenverteilung innerhalb des Bundesvorstands und die Verantwortlichkeiten der einzelnen Vorstandsmitglieder.
-Diese Geschäftsordnung und jegliche Änderungen sind spätestens zehn Tage nach Beschlussfassung den Mitgliedern schriftlich oder per E-Mail bekanntzugeben.
+Diese Geschäftsordnung und jegliche Änderungen werden spätestens zehn Tage nach Beschlussfassung den Mitgliedern in Textform bekannt gegeben.
 
 (9)
 Der Bundesvorstand fasst seine Beschlüsse mit der Mehrheit der abgegebenen Stimmen.
@@ -517,22 +574,15 @@ Vorstandsbeschlüsse werden in namentlicher Abstimmung gefasst und protokolliert
 Das Nähere regelt der Vorstand in seiner Geschäftsordnung.
 
 (10)
-Der Vorstand hat zu Beginn eines jeden Quartals innerhalb von 14 Tagen die Vorstandsbeschlüsse des vergangenen Quartals zu veröffentlichen.
-Dabei wird das namentliche Abstimmungsverhalten der Vorstandsmitglieder nicht veröffentlicht.
-Bei der Veröffentlichung haben einzelne Vorstandsmitglieder aber die Möglichkeit, ihre abweichende Meinung im jeweiligen Beschluss darzulegen.
+Das Präsidium hat zu Beginn eines jeden Quartals innerhalb von 14 Tagen die Vorstandsbeschlüsse des vergangenen Quartals zu veröffentlichen.
+Dabei wird das namentliche Abstimmungsverhalten der Vorstandsmitglieder veröffentlicht.
+Bei der Veröffentlichung haben einzelne Vorstandsmitglieder darüber hinaus die Möglichkeit, ihre abweichende Meinung im jeweiligen Beschluss darzulegen.
 Nicht zu veröffentlichen sind solche Vorstandsbeschlüsse, deren Veröffentlichung berechtigte Interessen, insbesondere jene des Datenschutzes und der Wahrung von Geschäftsgeheimnissen, entgegenstehen.
 
 (11)
-Einzelne Mitglieder des Bundesvorstands können im Rahmen von Anstellungsverhältnissen vergütet werden.
-Über die Anstellung sowie Höhe und Umfang der Vergütung im Einzelfall beschließt der Bundesparteitag im Rahmen der Haushaltsplanung.
-Den Mitgliedern des Bundesvorstands in Ausübung ihrer Vorstandstätigkeit entstandene Aufwendungen werden nach den Regelungen der Finanzordnung ersetzt.
-
-(12)
-Der Bundesvorstand entscheidet über die Anstellung und Entlassung der Bundesgeschäftsführung.
-Die Bundesgeschäftsführung führt die Geschäfte der Bundesgeschäftsstelle.
-Dazu gehört die Verteilung der Geschäfte.
-Der Geschäftsverteilungsplan ist regelmäßig, mindestens jährlich, fortzuschreiben.
-Der Bundesvorstand kann daneben für die politische Leitung ein Generalsekretariat ernennen.
+Die Mitglieder des Präsidiums sollen im Rahmen eines Anstellungsverhältnisses vergütet werden und sollen ihr Amt nach Möglichkeit in Vollzeit oder mindestens Teilzeit ausüben.
+Über Höhe und Umfang der Vergütung beschließt der Bundesparteitag spätestens auf dem Bundesparteitag, der dem Bundesparteitag unmittelbar vorausgeht, auf dem die Wahl des Präsidiums erfolgt.
+Die den Mitgliedern des Bundesvorstands in Ausübung ihrer Vorstandstätigkeit entstandenen Aufwendungen werden nach den Regelungen der Finanzordnung ersetzt.
 
 ## § 18 – Wahlen von Parteiämtern und Bewerberaufstellung für staatliche Wahlen
 
@@ -583,6 +633,36 @@ Die Schiedsgerichtsordnung von Volt Deutschland ist Teil dieser Satzung.
 ## § 22 – Schlussbestimmungen
 
 Diese Satzung und alle Änderungen treten am Tage ihrer Beschlussfassung in Kraft.
+
+## § 23 – Übergangsbestimmungen
+
+(1)
+Die derzeit gewählten Mitglieder des Bundesvorstandes fungieren bis zur Erweiterung des Bundesvorstandes durch die zehn Stellvertreter weiter als Präsidium.
+
+(2)
+Die sieben stellvertretenden vorsitzenden Mitglieder des Bundesvorstandes nach § 17 Absatz Satz 5 und 6 der Satzung werden auf dem nächsten Bundesparteitag gewählt, spätestens zum 30.06.2026.
+Die zwei Landesvorstände, die Kraft Satzung stellvertretende vorsitzende Mitglieder sind, werden bis dahin aus der Mitte der Landesvorstände bestimmt.
+Das Mitglied des Europäischen Parlaments, wird bis dahin aus der Mitte der Mitglieder des Europäischen Parlaments bestimmt.
+
+(3)
+Mit dem Tag der vollständigen Erweiterung des Bundesvorstandes gem. § 17 Absatz 3 Satz 1 Nr. 2 bilden die derzeit gewählten Mitglieder des Bundesvorstandes bis zur Neuwahl im Jahr 2027 das Präsidium.
+Sie behalten ihre Ämter als die zwei vorsitzenden Mitglieder, das für die Finanzangelegenheiten zuständige Mitglied (Schatzmeister\*in) und die stellvertretenden vorsitzenden Mitglieder.
+Ab der Erweiterung hat der Bundesvorstand insbesondere die Vorgaben von § 17 Absatz 7 zu beachten.
+
+(4)
+Der Beschluss des Bundesparteitags über die Anstellung sowie Höhe und Umfang der Vergütung der Mitglieder des bisherigen Bundesvorstandes gilt bis zur Neuwahl des Präsidiums fort.
+
+(5)
+Sollte bis zum 31. Dezember 2026 kein Bundesparteitagsbeschluss zur Struktur des Präsidiums erfolgt sein, gelten die folgenden Regelungen:
+Die fünf vorsitzenden Mitglieder leiten jeweils einen der folgenden fünf Geschäftsbereiche:
+
+1. Policy,
+2. Community,
+3. Communications,
+4. Finance (Schatzmeister\*in),
+5. Operations.
+
+Der Bundesvorstand wählt aus seiner Mitte zwei Sprechende unterschiedlichen Geschlechts für die Außenkommunikation.
 
 # MANIFESTO
 

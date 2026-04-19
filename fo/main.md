@@ -38,7 +38,7 @@ Der Bundesverband und die Landesverbände prüfen stichprobenartig die Konten un
 Der Bundesverband sowie die Landes- und unteren Gebietsverbände sind verpflichtet, die Buchführung, die Kassen und die Konten durch satzungsgemäß bestellte Rechnungsprüfer\*innen entsprechend § 9 Abs. 5 PartG prüfen zu lassen.
 
 (4)
-Der Bundesparteitag und die Mitgliederversammlungen der Landes- und unteren Gebietsverbände wählen in nicht geheimer Wahl jeweils drei Rechnungsprüfer\*innen für eine Amtszeit von zwei Jahren.
+Der Bundesparteitag, die Landesparteitage und die Mitgliederversammlungen der unteren Gebietsverbände wählen jeweils mindestens drei Rechnungsprüfer\*innen für eine Amtszeit von zwei Jahren.
 Landes- und unteren Gebietsverbände können in ihrer Satzung eine abweichende Anzahl von Rechnungsprüfer\*innen, mindestens aber zwei, festlegen.
 Ungeachtet der nach den Sätzen 1 und 2 zu wählenden Anzahl ist bei allen wesentlichen Prüfungshandlungen das Vier-Augen-Prinzip einzuhalten - insofern die Prüfung durch lediglich eine\*n Rechnungsprüfer\*in stets ausgeschlossen.
 
@@ -108,11 +108,9 @@ Sofern ein Verband nicht besteht, steht der Anteil dem nächsthöheren Verband z
 Der Bundesparteitag beschließt weiterhin über die Höhe der zwischen dem Bundesverband und den Landes- und unteren Gebietsverbände zu verteilenden Anteile des nach Satz 1 verbleibenden Gesamtanteils.
 
 (7)
-Der Bundesverband zahlt den Anteil der Mitgliedsbeiträge quartalsweise direkt an die Landesverbände und Kreisverbände aus.
-Auf Antrag einzelner Landesverbände kann der/die Bundesschatzmeister\*in eine kurzfristige Auszahlung der jeweiligen Anteile bewilligen.
-Die Landesparteitage beschließen über die Höhe der zwischen dem Landesverband und den unteren Gebietsverbänden zu verteilenden Anteile des nach Satz 2 verbleibenden Gesamtanteils.
-Die von den Landesparteitagen beschlossene Höhe der Anteile gilt jeweils für das folgende Kalenderjahr; eine Änderung im laufenden Kalenderjahr ist nur im Falle des erstmaligen Beschlusses möglich.
-Liegt kein Beschluss des Landesparteitages vor, so gilt der zuletzt durch den Landesparteitag beschlossene Verteilerschlüssel weiter fort.
+Der Bundesverband zahlt den Anteil der Mitgliedsbeiträge monatlich direkt an die Landesverbände und Kreisverbände unteren Gebietsverbände aus.
+Die Auszahlung erfolgt bis spätestens zum 25. Kalendertag des Folgemonats.
+In begründeten Ausnahmefällen kann der/die Bundesschatzmeister\*in einen abweichenden Auszahlungszeitpunkt festlegen; die Auszahlung der Anteile muss in diesem Fall jedoch spätestens zum Ende des jeweiligen Quartals erfolgen.
 
 ## § 5a – Verletzung der Beitragspflicht, Mahnung und Ausschluss
 
@@ -192,7 +190,7 @@ Jeder Gliederung stehen die bei ihr eingegangenen Spenden ungeteilt zu, sofern e
 Erbschaften und Vermächtnisse werden, soweit sie keine Nachteile für Volt Deutschland haben, ohne Begrenzung angenommen.
 
 (4)
-Spenden, die im Einzelfall die Höhe von 50.000 Euro übersteigen, sind über die Landesverbände und durch den Bundesverband der/dem Präsidentin/en des Deutschen Bundestages unverzüglich anzuzeigen.
+Spenden, die im Einzelfall die Höhe von 35.000 Euro übersteigen, sind über die Landesverbände und durch den Bundesverband der/dem Präsidentin/en des Deutschen Bundestages unverzüglich anzuzeigen.
 
 (5)
 Spenden an eine oder mehrere Verbandsebenen von Volt Deutschland, deren Gesamtwert 10.000 Euro pro Jahr übersteigt, sind im jeweiligen Rechenschaftsbericht unter Angabe des Namens und der Anschrift des/der Spender\*in zu verzeichnen.
@@ -262,8 +260,9 @@ Landes- oder untere Gebietsverbände bedürfen zusätzlich der Einwilligung des 
 (3)
 Für den Vollzug des Haushalts- und Finanzplans ist der/die Bundesschatzmeister\*in verantwortlich.
 Dieser/diese ist ermächtigt, über Ausgaben zu beschließen, die jeweils 5.000 Euro nicht übersteigen.
-Ausgaben bis zu jeweils 10.000 Euro sind mit Einwilligung zweier Zeichnungsberechtigter aus dem Kreis von Bundesschatzmeister\*in und den beiden Bundesvorsitzenden wirksam.
-Für alle anderen Ausgaben, die jeweils 10.000 Euro übersteigen, ist die Einwilligung des Bundesvorstands erforderlich.
+Ausgaben bis zu jeweils 10.000 Euro sind mit Einwilligung zweier Zeichnungsberechtigter aus dem Kreis von Bundesschatzmeister\*in und den Bundesvorsitzenden wirksam.
+Für Ausgaben bis zu jeweils 100.000 Euro ist die Einwilligung des Präsidiums erforderlich
+Für alle anderen Ausgaben, die jeweils 100.000 Euro übersteigen, ist die Einwilligung des Bundesvorstands erforderlich.
 
 (4)
 Abs. 3 gilt entsprechend für Landes- und unteren Gebietsverbände.

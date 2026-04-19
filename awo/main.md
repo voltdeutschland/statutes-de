@@ -21,12 +21,14 @@ Die Wahl von
 
 1. Mitgliedern des Vorstandes des Bundesverbandes sowie der Gebietsverbände
 2. Mitgliedern der Schiedsgerichte
-3. Rechnungsprüfer\*innen
-4. Kandidat\*innen für öffentliche Ämter und staatliche Wahlen
-5. Delegierten für Vertreter\*innenversammlungen
+3. Mitgliedern der Antragskommission
+4. Mitgliedern der Wahlkommission
+5. Rechnungsprüfer\*innen
+6. Kandidat\*innen für öffentliche Ämter und staatliche Wahlen
+7. Delegierten für Vertreter\*innenversammlungen
 
 kann nur durchgeführt werden, soweit sie zuvor in einer vorläufigen Tagesordnung angekündigt wurde.
-Dies gilt nicht für die erstmalige und unmittelbare Besetzung von Ämtern und Funktionen, die erst auf der Versammlung durch eine Satzungsänderung geschaffen werden.
+Dies gilt nicht für die erstmalige und unmittelbare Besetzung von Ämtern und Funktionen, die erst auf der Versammlung durch eine Satzungsänderung geschaffen werden, sowie für die Nachwahl von Ämtern, die seit dem Versand der Einladung vakant geworden sind.
 
 (2)
 Diese Ankündigung muss den Versammlungsteilnehmer\*innen mit angemessenem Vorlauf, wenigstens aber fünf Werktage vor der Versammlung zugehen, soweit die Satzung oder gesetzliche Vorschriften nicht eine längere Frist vorsehen.
@@ -53,13 +55,14 @@ Wahlen sind geheim, sofern die Satzungen von Volt Deutschland oder ihrer Gebiets
 a) Versammlungsleitung
 b) Schriftführer\*innen
 c) Zählkommission
-d) Rechnungsprüfer\*innen
-e) Vertrauenspersonen für die Einreichung von Wahlvorschlägen
-f) Unterzeichner\*innen von Wahlvorschlägen, die die Einhaltung der Wahlgesetze und Wahlordnungen eidesstattlich versichern
+d) Antragskommission
+e) Wahlkommission
+f) Rechnungsprüfer\*innen
+g) Vertrauenspersonen für die Einreichung von Wahlvorschlägen
+h) Unterzeichner\*innen von Wahlvorschlägen, die die Einhaltung der Wahlgesetze und Wahlordnungen eidesstattlich versichern
 
 (2)
 Erhebt ein stimmberechtigtes Versammlungsmitglied Widerspruch gegen eine offene Abstimmung, so beschließt die Versammlung in offener Abstimmung mit einfacher Mehrheit darüber, ob die Abstimmung offen oder geheim durchzuführen ist.
-Für Online-Parteitage gilt § 4 Abs. 2 der Online-GO.
 
 ## § 6 – Stimmzettel
 
@@ -83,11 +86,21 @@ Sie ist von der Versammlung zu beschließen.
 ## § 7 – Wahlkommission
 
 (1)
-Zur Vorbereitung von Wahlen auf dem Bundesparteitag ernennt der Bundesvorstand eine Wahlkommission, bestehend aus mindestens drei Mitgliedern.
+Gemäß § 15 Absatz 5 der Satzung von Volt Deutschland wird die Wahlkommission vom Parteitag gewählt.
+In Landes- und unteren Gebietsverbänden wird die Wahlkommission bestehend aus mindestens drei Mitgliedern in der Einladung durch den zuständigen Vorstand ernannt.
 
 (2)
 Die Wahlkommission hat sicherzustellen, dass allen Wahlbewerber\*innen die Möglichkeit geboten wird, sich bereits vor dem Parteitag über digitale Medien den Stimmberechtigten vorzustellen.
 Über die Art und Weise der Vorstellung und die Ausübung ihrer Tätigkeit entscheidet die Wahlkommission nach freiem Ermessen.
+Die Wahlkommission hat darauf hinzuwirken, dass alle Wahlbewerber\*innen für ein Amt als vorsitzendes Mitglied des Bundesvorstandes angeben, mit wie viel Zeit sie zur Verfügung stehen, welchen Geschäftsbereich sie übernehmen wollen und welche Eigenschaften und/oder Erfahrungen sie für diesen Geschäftsbereich mitbringen.
+Für die Wahl der stellvertretenden vorsitzenden Mitglieder des Bundesvorstandes soll der Wahlkommission
+
+1. vom Präsidium (z.B. unterstützt durch das Elected Officials Office) zwei Vorschlagslisten (weiblich/divers und männlich/divers) mit jeweils mindestens drei Bewerber\*innen und
+2. von den Landesvorständen (z.B. über den Länderrat) zwei Vorschlagslisten (weiblich/divers und männlich/divers) mit jeweils mindestens drei Bewerber\*innen
+
+rechtzeitig zur Verfügung gestellt werden.
+
+Ungeachtet dieses Vorschlagsrechts kann sich jedes Parteimitglied weiterhin direkt bei der Wahlkommission im Sinne von § 10 Absatz 2 Satz 2 bewerben.
 
 (3)
 Zur Ausübung ihrer Tätigkeit kann die Wahlkommission den Wahlbewerber\*innen eine Frist setzen, bis zu der die Wahlbewerber\*innen ihre Kandidatur zu erklären haben, um die angebotenen Vorstellungsmöglichkeiten vollumfänglich nutzen zu können.
@@ -99,7 +112,10 @@ Bei der Ausübung ihrer Tätigkeit sind die Mitglieder der Wahlkommission zur Ne
 Mitglieder der Wahlkommission können nicht zeitgleich ein satzungsmäßiges Amt des Bundesverbandes oder eines Gebietsverbandes ausüben oder zu diesen in einem Dienstverhältnis stehen.
 
 (6)
-Die Absätze 1 bis 4 gelten für Landesverbände entsprechend, soweit sich aus ihren Satzungen nicht etwas Anderweitiges ergibt.
+Auf der Versammlung steht die Wahlkommission für Rückfragen zum Wahlprozess und für die Erarbeitung von Verfahrensvorschlägen in Absprache mit der Versammlungsleitung zur Verfügung.
+
+(7)
+Die Absätze 2 bis 6 gelten für Landesverbände entsprechend, soweit sich aus ihren Satzungen nicht etwas Anderweitiges ergibt.
 
 ## § 8 – Durchführung der Wahl
 
@@ -120,6 +136,13 @@ Schriftführer\*innen sind von der Regelung nach Satz 1 ausgenommen.
 Bei der Aufstellung von Kandidat\*innen zu staatlichen Wahlen ist jede\*r stimmberechtigte Teilnehmer\*in der Versammlung vorschlagsberechtigt, soweit keine gesetzliche Regelung entgegensteht.
 
 (2)
+Für Kandidaturen zu den folgenden Ämtern ist während der Versammlung jedes stimmberechtigte Mitglied vorschlagsberechtigt:
+
+a) Antragskommission
+b) Wahlkommission
+c) Rechnungsprüfung
+
+(2)
 Für alle übrigen Wahlen folgt das Vorschlagsrecht dem Antragsrecht.
 
 (3)
@@ -130,11 +153,11 @@ Das Vorschlagsrecht umfasst das Recht, sich selbst für eine Wahl vorzuschlagen.
 (1)
 Bei der Aufstellung von Kandidat\*innen zu staatlichen Wahlen entscheidet die Versammlung im Beschlusswege über den Schluss des Bewerbungszeitraumes.
 Das Recht der Stimmberechtigten, noch auf der Versammlung selbst Wahlvorschläge einzureichen, darf dadurch nicht unangemessen eingeschränkt werden.
-Wahlvorschläge sind vor dem Beginn der Versammlung beim zuständigen Vorstand oder bei einer für die Versammlung eingesetzten Wahlkommission, nach Beginn der Versammlung bei der Versammlungsleitung einzureichen.
+Wahlvorschläge sind vor dem Beginn der Versammlung bei der zuständigen Wahlkommission, nach Beginn der Versammlung bei der Versammlungsleitung einzureichen.
 
 (2)
 Für alle übrigen Wahlen auf Parteitagen oder Mitgliederversammlungen gelten die Fristen für Anträge entsprechend, soweit und wie sie sich aus den jeweiligen Geschäftsordnungen ergeben.
-Die Wahlvorschläge sind an den jeweiligen Vorstand oder die zuständige Wahlkommission zu richten.
+Die Wahlvorschläge sind an die zuständige Wahlkommission zu richten.
 
 (3)
 Die Fristen nach Abs. 2 gelten nicht
@@ -166,7 +189,7 @@ Abweichendes kann in Bezug auf Aufstellungsversammlungen für die Wahl von Kandi
 Passiv wahlberechtigt sind, soweit die Satzung oder die anwendbaren Gesetze nicht etwas Abweichendes bestimmen,
 
 1. bei Wahlen auf Bundesebene grundsätzlich alle Mitglieder von Volt Deutschland.
-2. auf Ebene der Gebietsverbände, Landes- und unteren Gebietsverbände die Mitglieder dieser Gebietsverbände.
+2. auf Ebene der Gebietsverbände die Mitglieder des jeweiligen Gebietsverbandes.
 
 (2)
 Bei Aufstellungsversammlungen für Wahlen zu öffentlichen Ämtern sind alle Mitglieder von Volt Deutschland passiv wahlberechtigt, denen nach den anwendbaren Gesetzen und Verordnungen das passive Wahlrecht für die jeweilige Wahl zukommt.
@@ -182,7 +205,7 @@ Ausnahmen des Grundsatzes nach Satz 2 sind im Zuge der Aufstellung gemeinsamer L
 (1)
 Allen Wahlbewerber\*innen ist vor dem ersten Wahlgang die Möglichkeit einzuräumen, sich der Versammlung in angemessener Zeit vorzustellen.
 Die maximale Dauer der Vorstellung wird vor Beginn der ersten Vorstellung von der Versammlung auf Vorschlag der Versammlungsleitung beschlossen.
-Bei Wahlen von Mitgliedern des Vorstandes des Bundesverbandes oder eines Gebietsverbandes darf die maximal zulässige Vorstellungszeit fünf Minuten, bei der Aufstellung von Kandidat\*innen zu staatlichen Wahlen fünf Minuten pro Wahlbewerber\*in nicht unterschreiten.
+Bei Wahlen von Mitgliedern des Vorstandes des Bundesverbandes oder eines Gebietsverbandes sowie bei der Aufstellung von Kandidat\*innen zu staatlichen Wahlen darf die zulässige Vorstellungszeit fünf Minuten pro Wahlbewerber\*in nicht unterschreiten.
 
 (2)
 Bewirbt sich ein\*e Wahlbewerber\*in hilfsweise auf ein weiteres Amt, so hat er\*sie nur einmal die Möglichkeit, sich vorzustellen.
@@ -419,17 +442,7 @@ Landes- und untere Gebietsverbände können in ihrer Satzung für die Wahl des j
 ## § 29 – Reihenfolge der Wahl, Vorstellung und Zusammenfassung der Wahlen
 
 (1)
-Die Ämter des Vorstandes werden in folgender Reihenfolge gewählt:
-
-1. Die Vorsitzenden
-2. Der/die Schatzmeister\*in
-3. Die stellvertretenden Vorsitzenden
-
-(2)
-Die Wahlgänge für die verschiedenen Ämter können gemeinsam durchgeführt werden, soweit sich keine\*r der Wahlbewerber\*innen (hilfsweise) auf mehrere der betroffenen Ämter bewirbt.
-
-(3)
-Die Vorstellung aller Wahlbewerber\*innen für ein Amt als Mitglied des Bundesvorstandes erfolgt geschlossen vor der Durchführung des ersten Wahlganges nach § 31.
+Die Vorstellung der Wahlbewerber\*innen für ein Amt als Mitglied des Bundesvorstandes erfolgt geschlossen vor der Durchführung des ersten Wahlganges.
 
 ## § 30 – Kandidatur
 
@@ -437,22 +450,31 @@ Die Vorstellung aller Wahlbewerber\*innen für ein Amt als Mitglied des Bundesvo
 Wahlbewerber\*in ist, wer seine\*ihre Bewerbung nach den Vorgaben der Satzung und der Geschäftsordnung für Parteitage rechtzeitig und ordnungsgemäß gegenüber dem zuständigen Gremium erklärt hat.
 
 (2)
-Jede/jeder Wahlbewerber\*in hat sein/ihr Geschlecht anzugeben sowie, auf welches Amt er/sie sich bewirbt.
-Jeder/jede Wahlbewerber\*in kann sich unter Berücksichtigung der Wahlreihenfolge dieser Wahlordnung hilfsweise auf weitere Ämter bewerben; Satz 1 gilt entsprechend.
+Jede/jeder Wahlbewerber\*in hat sein/ihr Geschlecht anzugeben, auf welches Amt er/sie sich bewirbt, wie viele Wochenstunden sie/er für das Amt zur Verfügung stellen kann und welche Eigenschaften und Erfahrungen sie/er für der jeweiligen Geschäftsbereich mitbringt.
+Jeder/jede Wahlbewerber\*in kann sich unter Berücksichtigung der Wahlreihenfolge dieser Wahlordnung hilfweise auf weitere Ämter bewerben;Satz 1 gilt entsprechend.
 
 ## § 31 – Wahl der Vorsitzenden
 
 (1)
 Die Vorsitzenden werden nacheinander in geheimer Einzelwahl nach § 19 gewählt.
-Ist eine Person zum/zur Vorsitzenden gewählt, so sind zur Wahl des zweiten Amts des/der Vorsitzenden nur die Wahlbewerber\*innen zugelassen, die nicht dem Geschlecht des/der bereits gewählten Vorsitzenden angehören.
+Begonnen wird mit der Wahl des/der Schatzmeister\*in.
 
 (2)
-Bewerben sich Wahlbewerber\*innen nur zweier Geschlechter auf das Amt der Vorsitzenden, so erfolgen die Wahlen der Vorsitzenden nach Geschlechtern getrennt in geheimer Einzelwahl nach § 19.
-Diese Wahlen können in gemeinsamen Wahlgängen abgehalten werden.
+Die Versammlungsleitung muss vor Durchführung jedes Einzelwahlgangs, auch solchen für die es nur Wahlbewerber\*innen eines Geschlechts gibt, prüfen, ob die Voraussetzungen des § 17 Absatz 3 Satz 1 Nr. 1 der Satzung (mindestens zwei der Vorsitzenden vom anderen Geschlecht) auch nach der Durchführung der Wahl in jedem Fall gewahrt werden können.
+Ist dies nicht der Fall, lässt die Versammlungsleitung für den zur Besetzung anstehenden Geschäftsbereich nur Wahlbewerber\*innen des Geschlechts zu, das ansonsten unterrepräsentiert wäre.
+Gibt es für diesen Geschäftsbereich keine Wahlbewerber\*innen dieses Geschlechts, zieht die Versammlungsleitung einen Geschäftsbereich vor, für den es Wahlbewerber\*innen dieses Geschlechts gibt und lässt nur diese zu.
+Gibt es mehrere Geschäftsbereiche für die es Wahlbewerber\*innen dieses Geschlechts gibt, entscheidet das Los, welcher Geschäftsbereich vorgezogen wird.
 
-## § 32 – Wahl des/der Schatzmeister\*in
+(3)
+Nach Durchführung eines Einzelwahlgangs wird erneut gemäß § 31 Absatz 1 und Absatz 2 vorgegangen.
+Dieses Prozedere wiederholt die Versammlungsleitung bis alle Geschäftsbereiche besetzt sind.
 
-Der/die Schatzmeister\*in wird in geheimer Einzelwahl nach § 19 gewählt.
+(4)
+Gibt es nicht genügend Wahlbewerber\*innen, um die Voraussetzungen des § 17 Absatz 3 Satz 1 Nr. 1 der Satzung zu erfüllen, bleiben die Ämter frei und es findet eine Neuwahl spätestens auf dem nächsten Bundesparteitag statt.
+Stehen nicht genügend Wahlbewerber\*innen zur Verfügung, hat das Präsidium die Gründe zu analysieren und Maßnahmen einzuleiten, damit in der anstehenden Nachwahl ausreichend Wahlbewerber\*innen zur Verfügung stehen.
+Bis zur Nachwahl übernimmt das Präsidium gemeinschaftlich die Verantwortung für den unbesetzten Geschäftsbereich.
+
+## § 32 – weggefallen
 
 ## § 33 – Stellvertretende Vorsitzende
 
@@ -464,9 +486,8 @@ In diesem Fall ist ein zweiter Wahlgang nicht erforderlich.
 
 (2)
 Die Stimmberechtigten erhalten je zwei Wahllisten.
-Auf diesen sind jeweils die zum zweiten Wahlgang zugelassenen weiblichen und diversen (Liste 1) bzw. männlichen und diversen (Liste 2) Wahlbewerber\*innen in alphabetischer Reihenfolge gelistet.
-Satz 1 ist so zu lesen, dass Personen, die entsprechend § 22 Absatz 3 und § 45b Absatz 1 Personenstandsgesetz weder dem männlichen noch dem weiblichen Geschlecht zugeordnet werden können (Diverse), frei entscheiden können, auf welcher der genannten Listen sie kandidieren möchten.
-Eine Zuordnung diverser Personen entweder zum männlichen oder zum weiblichen Geschlecht geht mit dieser Auswahl ausdrücklich nicht einher.
+Auf diesen sind jeweils die zum zweiten Wahlgang zugelassenen weiblichen und diversen (Liste 1) bzw. männlichen und diversen (Liste 2) Wahlbewerber\*innen in alphabetischer Reihenfolge und falls einschlägig mit der Zusatzinformation "Landesvorstand" oder "Elected Official" gelistet.
+Bewerber\*innen mit diversem Geschlecht dürfen frei wählen, auf welcher der beiden Listen sie antreten möchten.
 
 (3)
 Jede und jeder Stimmberechtigte kann auf jeder der beiden Wahllisten den jeweils gelisteten Wahlbewerber\*innen Punktzahlen zuordnen.
@@ -484,13 +505,32 @@ Die Wahlbewerber\*innen werden in der Reihenfolge der in der Stichwahl erhaltene
 Eine Stichwahl ist nicht erforderlich, wenn der/die obsiegende Wahlbewerber\*in auf der erreichten Position nicht zum stellvertretenden Vorsitzenden gewählt wäre.
 
 (5)
-Gewählt sind jeweils die Wahlbewerber\*innen, die auf den beiden Punktelisten die jeweils ersten beiden Plätze einnehmen.
+Gewählt sind die Wahlbewerber\*innen, die auf den beiden Punktelisten die meisten Punkte haben, wobei die Versammlungsleitung sicherzustellen hat, dass die Quoten in § 17 Absatz 3 Satz 1 Nr 2., d.h. jeweils 5 vom anderen Geschlecht, auch unter Berücksichtigung der stellvertretenden vorsitzenden Mitglieder kraft Satzung, eingehalten werden.
+Gibt es nicht genügend Wahlbewerber\*innen, um die Voraussetzungen des § 17 Abs. 3 Satz 1 Nr. 2 der Satzung zu erfüllen, bleiben diese Posten der stellvertretenden vorsitzenden Mitglieder unbesetzt.
+Es findet eine Neuwahl spätestens auf dem nächsten Bundesparteitag statt, zu der nur Wahlbewerber\*innnen des unterrepräsentierten Geschlechts zugelassen werden.
+Stehen nicht genügend Wahlbewerber\*innen zur Verfügung, hat das Präsidium die Gründe zu analysieren und Maßnahmen einzuleiten, damit in der anstehenden Nachwahl ausreichend Wahlbewerber\*innen zur Verfügung stehen.
 
-## § 34 – Sonderfall
+## § 34 – Übergangsregelung
 
-Für den Fall, dass mehr als die nach § 17 Absatz 3 der Satzung maximal zulässige Zahl an diversen Mitgliedern als stellvertretende Vorsitzende gewählt wären, sind nur die diversen Wahlbewerber\*innen gewählt, die bei ihrer jeweiligen Listenwahl den höchsten Platz belegt haben.
-Hat im Fall des Satz 1 nur ein\*e diverse\*r Wahlbewerber\*in bei der jeweiligen Listenwahl den höchsten Platz belegt, so findet zwischen den jeweils Zweitplatzierten der Listenwahlen eine Stichwahl im Wege der Einzelwahl nach § 19 statt, bei der gewählt ist, wer die meisten Stimmen auf sich vereinigt.
-Anstelle der Wahlbewerber\*innen, die nach Satz 1 und 2 nicht gewählt sind, sind die in der jeweiligen Listenwahl nach Stimmenzahl nachfolgenden Wahlbewerber\*innen gewählt.
+Wenn die Übergangsregelung gemäß § 23 Absatz 5 der Satzung greift, gilt für die Wahl der Vorsitzenden folgendes:
+
+1. Die Vorsitzenden werden für jeden Geschäftsbereich nacheinander in geheimer Einzelwahl nach § 19 gewählt.
+   Über die Reihenfolge der Wahl für die jeweiligen Geschäftsbereiche entscheidet das Los.
+   Dies gilt nicht, wenn es für Geschäftsbereiche Wahlbewerber\*innen nur eines Geschlechts gibt.
+   In diesem Fall wird mit der Wahl des Geschäftsbereichs begonnen, für den es Wahlbewerber\*innen nur eines Geschlechts gibt.
+   Gibt es mehrere Geschäftsbereiche, für die es Wahlbewerber\*innen nur eines Geschlechts gibt, entscheidet das Los, mit welchem dieser Geschäftsbereiche begonnen wird.
+
+2. Die Versammlungsleitung muss vor Durchführung jedes Einzelwahlgangs (auch solchen für die es nur Wahlbewerber\*innen eines Geschlechts gibt) prüfen, ob die Voraussetzungen des § 17 Absatz 3 Satz 1 Nr. 1 der Satzung (mindestens zwei der Vorsitzenden vom anderen Geschlecht) auch nach der Durchführung der Wahl in jedem Fall gewahrt werden können.
+   Ist dies nicht der Fall, lässt die Versammlungsleitung für den zur Besetzung anstehenden Geschäftsbereich nur Wahlbewerber\*innen des Geschlechts zu, das ansonsten unterrepräsentiert wäre.
+   Gibt es für diesen Geschäftsbereich keine Wahlbewerber\*innen dieses Geschlechts, zieht die Versammlungsleitung einen Geschäftsbereich vor, für den es Wahlbewerber\*innen dieses Geschlechts gibt und lässt nur diese zu.
+   Gibt es mehrere Geschäftsbereiche für die es Wahlbewerber\*innen dieses Geschlechts gibt, entscheidet das Los, welcher Geschäftsbereich vorgezogen wird.
+
+3. Nach Durchführung eines Einzelwahlgangs wird erneut gemäß § 31 Absatz 1 und Absatz 2 vorgegangen.
+   Dieses Prozedere wiederholt die Versammlungsleitung bis alle Geschäftsbereiche besetzt sind.
+
+4. Gibt es nicht genügend Wahlbewerber\*innen, um die Voraussetzungen des § 17 Absatz 3 Satz 1 Nr. 1 der Satzung zu erfüllen, bleiben die Geschäftsbereiche, die nach dem Vorgehen gemäß § 31 Absatz 1 bis 3 unbesetzt bleiben müssen, frei und es findet eine Nachwahl spätestens auf dem nächsten Bundesparteitag statt.
+   Stehen nicht genügend Wahlbewerber\*innen zur Verfügung, hat das Präsidium die Gründe zu analysieren und Maßnahmen einzuleiten, damit in der anstehenden Nachwahl ausreichend Wahlbewerber\*innen zur Verfügung stehen.
+   Bis zur Nachwahl übernimmt das Präsidium gemeinschaftlich die Verantwortung für den unbesetzten Geschäftsbereich.
 
 # E | Wahlen des Schiedsgerichts
 
@@ -504,7 +544,7 @@ Die §§ 1 bis 18 gelten entsprechend.
 ## § 36 – Allgemeines
 
 (1)
-Die Wahl der Delegierten für den Bundesparteitag von Volt Deutschland erfolgt nach § 15 Abs. 5 Satz 1 der Satzung von Volt Deutschland auf den Landesparteitagen der Landesverbände von Volt Deutschland, soweit die Landesverbände nicht von der in § 15 Abs. 5 Satz 2 der Satzung von Volt Deutschland beschriebenen Möglichkeit Gebrauch gemacht haben, die untergeordneten Gebietsverbände zur Aufstellung der Delegierten zu ermächtigten.
+Die Wahl der Delegierten für den Bundesparteitag von Volt Deutschland erfolgt nach § 15 Absatz 10 Satz 1 der Satzung von Volt Deutschland auf den Landesparteitagen der Landesverbände von Volt Deutschland, soweit die Landesverbände nicht von der in § 15 Absatz 9 Satz 5 der Satzung von Volt Deutschland beschriebenen Möglichkeit Gebrauch gemacht haben, die untergeordneten Gebietsverbände zur Aufstellung der Delegierten zu ermächtigten.
 
 (2)
 Die Wahl der Delegierten erfolgt nach den §§ 37 und 38, soweit der Landesverband in seiner Satzung keine abweichenden Regelungen trifft.
@@ -517,13 +557,13 @@ Abweichend von § 8 Abs. 3 können Mitglieder der Versammlungsleitung ebenfalls 
 ## § 37 – Anzahl der zu wählenden Delegierten
 
 (1)
-Der Landesparteitag wählt zwei fortlaufende Listen an Delegierten nach § 15 Abs. 7 der Satzung.
+Der Landesparteitag wählt zwei fortlaufende Listen an Delegierten nach § 15 Absatz 12 der Satzung.
 
 (2)
-Der Landesparteitag entscheidet nach § 15 Abs. 7 der Satzung vor Beginn der Wahl frei über die Anzahl der Listenplätze, ist jedoch dazu angehalten, zwei Listen aufzustellen, welche jeweils mindestens 50 Prozent mehr Delegierte enthalten, als der Landesverband zum Zeitpunkt der Aufstellung nach § 15 Abs. 7 Satz 2 zu entsenden erwarten kann.
+Der Landesparteitag entscheidet nach § 15 Absatz 12 der Satzung vor Beginn der Wahl frei über die Anzahl der Listenplätze, ist jedoch dazu angehalten, zwei Listen aufzustellen, welche jeweils mindestens 50 Prozent mehr Delegierte enthalten, als der Landesverband zum Zeitpunkt der Aufstellung nach § 15 Absatz 12 Satz 2 zu entsenden erwarten kann.
 
 (3)
-Soweit ein Landesverband das Recht zur Aufstellung von Delegierten nach § 15 Abs. 5 der Satzung ganz oder teilweise auf untergeordnete Gebietsverbände übertragen hat, so gelten Abs. 1 und 2 für diese Listen entsprechend.
+Soweit ein Landesverband das Recht zur Aufstellung von Delegierten nach § 15 Absatz 10 der Satzung ganz oder teilweise auf untergeordnete Gebietsverbände übertragen hat, so gelten Abs. 1 und 2 für diese Listen entsprechend.
 
 ## § 38 – Wahl der Delegierten
 
