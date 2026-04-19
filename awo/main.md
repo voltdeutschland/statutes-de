@@ -92,6 +92,15 @@ In Landes- und unteren Gebietsverbänden wird die Wahlkommission bestehend aus m
 (2)
 Die Wahlkommission hat sicherzustellen, dass allen Wahlbewerber\*innen die Möglichkeit geboten wird, sich bereits vor dem Parteitag über digitale Medien den Stimmberechtigten vorzustellen.
 Über die Art und Weise der Vorstellung und die Ausübung ihrer Tätigkeit entscheidet die Wahlkommission nach freiem Ermessen.
+Die Wahlkommission hat darauf hinzuwirken, dass alle Wahlbewerber\*innen für ein Amt als vorsitzendes Mitglied des Bundesvorstandes angeben, mit wie viel Zeit sie zur Verfügung stehen, welchen Geschäftsbereich sie übernehmen wollen und welche Eigenschaften und/oder Erfahrungen sie für diesen Geschäftsbereich mitbringen.
+Für die Wahl der stellvertretenden vorsitzenden Mitglieder des Bundesvorstandes soll der Wahlkommission
+
+1. vom Präsidium (z.B. unterstützt durch das Elected Officials Office) zwei Vorschlagslisten (weiblich/divers und männlich/divers) mit jeweils mindestens drei Bewerber\*innen und
+2. von den Landesvorständen (z.B. über den Länderrat) zwei Vorschlagslisten (weiblich/divers und männlich/divers) mit jeweils mindestens drei Bewerber\*innen
+
+rechtzeitig zur Verfügung gestellt werden.
+
+Ungeachtet dieses Vorschlagsrechts kann sich jedes Parteimitglied weiterhin direkt bei der Wahlkommission im Sinne von § 10 Absatz 2 Satz 2 bewerben.
 
 (3)
 Zur Ausübung ihrer Tätigkeit kann die Wahlkommission den Wahlbewerber\*innen eine Frist setzen, bis zu der die Wahlbewerber\*innen ihre Kandidatur zu erklären haben, um die angebotenen Vorstellungsmöglichkeiten vollumfänglich nutzen zu können.
@@ -433,17 +442,7 @@ Landes- und untere Gebietsverbände können in ihrer Satzung für die Wahl des j
 ## § 29 – Reihenfolge der Wahl, Vorstellung und Zusammenfassung der Wahlen
 
 (1)
-Die Ämter des Vorstandes werden in folgender Reihenfolge gewählt:
-
-1. Die Vorsitzenden
-2. Der/die Schatzmeister\*in
-3. Die stellvertretenden Vorsitzenden
-
-(2)
-Die Wahlgänge für die verschiedenen Ämter können gemeinsam durchgeführt werden, soweit sich keine\*r der Wahlbewerber\*innen (hilfsweise) auf mehrere der betroffenen Ämter bewirbt.
-
-(3)
-Die Vorstellung aller Wahlbewerber\*innen für ein Amt als Mitglied des Bundesvorstandes erfolgt geschlossen vor der Durchführung des ersten Wahlganges nach § 31.
+Die Vorstellung der Wahlbewerber\*innen für ein Amt als Mitglied des Bundesvorstandes erfolgt geschlossen vor der Durchführung des ersten Wahlganges.
 
 ## § 30 – Kandidatur
 
@@ -451,22 +450,31 @@ Die Vorstellung aller Wahlbewerber\*innen für ein Amt als Mitglied des Bundesvo
 Wahlbewerber\*in ist, wer seine\*ihre Bewerbung nach den Vorgaben der Satzung und der Geschäftsordnung für Parteitage rechtzeitig und ordnungsgemäß gegenüber dem zuständigen Gremium erklärt hat.
 
 (2)
-Jede/jeder Wahlbewerber\*in hat sein/ihr Geschlecht anzugeben sowie, auf welches Amt er/sie sich bewirbt.
-Jeder/jede Wahlbewerber\*in kann sich unter Berücksichtigung der Wahlreihenfolge dieser Wahlordnung hilfsweise auf weitere Ämter bewerben; Satz 1 gilt entsprechend.
+Jede/jeder Wahlbewerber\*in hat sein/ihr Geschlecht anzugeben, auf welches Amt er/sie sich bewirbt, wie viele Wochenstunden sie/er für das Amt zur Verfügung stellen kann und welche Eigenschaften und Erfahrungen sie/er für der jeweiligen Geschäftsbereich mitbringt.
+Jeder/jede Wahlbewerber\*in kann sich unter Berücksichtigung der Wahlreihenfolge dieser Wahlordnung hilfweise auf weitere Ämter bewerben;Satz 1 gilt entsprechend.
 
 ## § 31 – Wahl der Vorsitzenden
 
 (1)
 Die Vorsitzenden werden nacheinander in geheimer Einzelwahl nach § 19 gewählt.
-Ist eine Person zum/zur Vorsitzenden gewählt, so sind zur Wahl des zweiten Amts des/der Vorsitzenden nur die Wahlbewerber\*innen zugelassen, die nicht dem Geschlecht des/der bereits gewählten Vorsitzenden angehören.
+Begonnen wird mit der Wahl des/der Schatzmeister\*in.
 
 (2)
-Bewerben sich Wahlbewerber\*innen nur zweier Geschlechter auf das Amt der Vorsitzenden, so erfolgen die Wahlen der Vorsitzenden nach Geschlechtern getrennt in geheimer Einzelwahl nach § 19.
-Diese Wahlen können in gemeinsamen Wahlgängen abgehalten werden.
+Die Versammlungsleitung muss vor Durchführung jedes Einzelwahlgangs, auch solchen für die es nur Wahlbewerber\*innen eines Geschlechts gibt, prüfen, ob die Voraussetzungen des § 17 Absatz 3 Satz 1 Nr. 1 der Satzung (mindestens zwei der Vorsitzenden vom anderen Geschlecht) auch nach der Durchführung der Wahl in jedem Fall gewahrt werden können.
+Ist dies nicht der Fall, lässt die Versammlungsleitung für den zur Besetzung anstehenden Geschäftsbereich nur Wahlbewerber\*innen des Geschlechts zu, das ansonsten unterrepräsentiert wäre.
+Gibt es für diesen Geschäftsbereich keine Wahlbewerber\*innen dieses Geschlechts, zieht die Versammlungsleitung einen Geschäftsbereich vor, für den es Wahlbewerber\*innen dieses Geschlechts gibt und lässt nur diese zu.
+Gibt es mehrere Geschäftsbereiche für die es Wahlbewerber\*innen dieses Geschlechts gibt, entscheidet das Los, welcher Geschäftsbereich vorgezogen wird.
 
-## § 32 – Wahl des/der Schatzmeister\*in
+(3)
+Nach Durchführung eines Einzelwahlgangs wird erneut gemäß § 31 Absatz 1 und Absatz 2 vorgegangen.
+Dieses Prozedere wiederholt die Versammlungsleitung bis alle Geschäftsbereiche besetzt sind.
 
-Der/die Schatzmeister\*in wird in geheimer Einzelwahl nach § 19 gewählt.
+(4)
+Gibt es nicht genügend Wahlbewerber\*innen, um die Voraussetzungen des § 17 Absatz 3 Satz 1 Nr. 1 der Satzung zu erfüllen, bleiben die Ämter frei und es findet eine Neuwahl spätestens auf dem nächsten Bundesparteitag statt.
+Stehen nicht genügend Wahlbewerber\*innen zur Verfügung, hat das Präsidium die Gründe zu analysieren und Maßnahmen einzuleiten, damit in der anstehenden Nachwahl ausreichend Wahlbewerber\*innen zur Verfügung stehen.
+Bis zur Nachwahl übernimmt das Präsidium gemeinschaftlich die Verantwortung für den unbesetzten Geschäftsbereich.
+
+## § 32 – weggefallen
 
 ## § 33 – Stellvertretende Vorsitzende
 
@@ -478,7 +486,7 @@ In diesem Fall ist ein zweiter Wahlgang nicht erforderlich.
 
 (2)
 Die Stimmberechtigten erhalten je zwei Wahllisten.
-Auf diesen sind jeweils die zum zweiten Wahlgang zugelassenen weiblichen und diversen (Liste 1) bzw. männlichen und diversen (Liste 2) Wahlbewerber\*innen in alphabetischer Reihenfolge gelistet.
+Auf diesen sind jeweils die zum zweiten Wahlgang zugelassenen weiblichen und diversen (Liste 1) bzw. männlichen und diversen (Liste 2) Wahlbewerber\*innen in alphabetischer Reihenfolge und falls einschlägig mit der Zusatzinformation "Landesvorstand" oder "Elected Official" gelistet.
 Bewerber\*innen mit diversem Geschlecht dürfen frei wählen, auf welcher der beiden Listen sie antreten möchten.
 
 (3)
@@ -497,13 +505,32 @@ Die Wahlbewerber\*innen werden in der Reihenfolge der in der Stichwahl erhaltene
 Eine Stichwahl ist nicht erforderlich, wenn der/die obsiegende Wahlbewerber\*in auf der erreichten Position nicht zum stellvertretenden Vorsitzenden gewählt wäre.
 
 (5)
-Gewählt sind jeweils die Wahlbewerber\*innen, die auf den beiden Punktelisten die jeweils ersten beiden Plätze einnehmen.
+Gewählt sind die Wahlbewerber\*innen, die auf den beiden Punktelisten die meisten Punkte haben, wobei die Versammlungsleitung sicherzustellen hat, dass die Quoten in § 17 Absatz 3 Satz 1 Nr 2., d.h. jeweils 5 vom anderen Geschlecht, auch unter Berücksichtigung der stellvertretenden vorsitzenden Mitglieder kraft Satzung, eingehalten werden.
+Gibt es nicht genügend Wahlbewerber\*innen, um die Voraussetzungen des § 17 Abs. 3 Satz 1 Nr. 2 der Satzung zu erfüllen, bleiben diese Posten der stellvertretenden vorsitzenden Mitglieder unbesetzt.
+Es findet eine Neuwahl spätestens auf dem nächsten Bundesparteitag statt, zu der nur Wahlbewerber\*innnen des unterrepräsentierten Geschlechts zugelassen werden.
+Stehen nicht genügend Wahlbewerber\*innen zur Verfügung, hat das Präsidium die Gründe zu analysieren und Maßnahmen einzuleiten, damit in der anstehenden Nachwahl ausreichend Wahlbewerber\*innen zur Verfügung stehen.
 
-## § 34 – Sonderfall
+## § 34 – Übergangsregelung
 
-Für den Fall, dass mehr als die nach § 17 Absatz 3 der Satzung maximal zulässige Zahl an diversen Mitgliedern als stellvertretende Vorsitzende gewählt wären, sind nur die diversen Wahlbewerber\*innen gewählt, die bei ihrer jeweiligen Listenwahl den höchsten Platz belegt haben.
-Hat im Fall des Satz 1 nur ein\*e diverse\*r Wahlbewerber\*in bei der jeweiligen Listenwahl den höchsten Platz belegt, so findet zwischen den jeweils Zweitplatzierten der Listenwahlen eine Stichwahl im Wege der Einzelwahl nach § 19 statt, bei der gewählt ist, wer die meisten Stimmen auf sich vereinigt.
-Anstelle der Wahlbewerber\*innen, die nach Satz 1 und 2 nicht gewählt sind, sind die in der jeweiligen Listenwahl nach Stimmenzahl nachfolgenden Wahlbewerber\*innen gewählt.
+Wenn die Übergangsregelung gemäß § 23 Absatz 5 der Satzung greift, gilt für die Wahl der Vorsitzenden folgendes:
+
+1. Die Vorsitzenden werden für jeden Geschäftsbereich nacheinander in geheimer Einzelwahl nach § 19 gewählt.
+   Über die Reihenfolge der Wahl für die jeweiligen Geschäftsbereiche entscheidet das Los.
+   Dies gilt nicht, wenn es für Geschäftsbereiche Wahlbewerber\*innen nur eines Geschlechts gibt.
+   In diesem Fall wird mit der Wahl des Geschäftsbereichs begonnen, für den es Wahlbewerber\*innen nur eines Geschlechts gibt.
+   Gibt es mehrere Geschäftsbereiche, für die es Wahlbewerber\*innen nur eines Geschlechts gibt, entscheidet das Los, mit welchem dieser Geschäftsbereiche begonnen wird.
+
+2. Die Versammlungsleitung muss vor Durchführung jedes Einzelwahlgangs (auch solchen für die es nur Wahlbewerber\*innen eines Geschlechts gibt) prüfen, ob die Voraussetzungen des § 17 Absatz 3 Satz 1 Nr. 1 der Satzung (mindestens zwei der Vorsitzenden vom anderen Geschlecht) auch nach der Durchführung der Wahl in jedem Fall gewahrt werden können.
+   Ist dies nicht der Fall, lässt die Versammlungsleitung für den zur Besetzung anstehenden Geschäftsbereich nur Wahlbewerber\*innen des Geschlechts zu, das ansonsten unterrepräsentiert wäre.
+   Gibt es für diesen Geschäftsbereich keine Wahlbewerber\*innen dieses Geschlechts, zieht die Versammlungsleitung einen Geschäftsbereich vor, für den es Wahlbewerber\*innen dieses Geschlechts gibt und lässt nur diese zu.
+   Gibt es mehrere Geschäftsbereiche für die es Wahlbewerber\*innen dieses Geschlechts gibt, entscheidet das Los, welcher Geschäftsbereich vorgezogen wird.
+
+3. Nach Durchführung eines Einzelwahlgangs wird erneut gemäß § 31 Absatz 1 und Absatz 2 vorgegangen.
+   Dieses Prozedere wiederholt die Versammlungsleitung bis alle Geschäftsbereiche besetzt sind.
+
+4. Gibt es nicht genügend Wahlbewerber\*innen, um die Voraussetzungen des § 17 Absatz 3 Satz 1 Nr. 1 der Satzung zu erfüllen, bleiben die Geschäftsbereiche, die nach dem Vorgehen gemäß § 31 Absatz 1 bis 3 unbesetzt bleiben müssen, frei und es findet eine Nachwahl spätestens auf dem nächsten Bundesparteitag statt.
+   Stehen nicht genügend Wahlbewerber\*innen zur Verfügung, hat das Präsidium die Gründe zu analysieren und Maßnahmen einzuleiten, damit in der anstehenden Nachwahl ausreichend Wahlbewerber\*innen zur Verfügung stehen.
+   Bis zur Nachwahl übernimmt das Präsidium gemeinschaftlich die Verantwortung für den unbesetzten Geschäftsbereich.
 
 # E | Wahlen des Schiedsgerichts
 

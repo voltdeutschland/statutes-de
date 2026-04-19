@@ -260,8 +260,9 @@ Landes- oder untere Gebietsverbände bedürfen zusätzlich der Einwilligung des 
 (3)
 Für den Vollzug des Haushalts- und Finanzplans ist der/die Bundesschatzmeister\*in verantwortlich.
 Dieser/diese ist ermächtigt, über Ausgaben zu beschließen, die jeweils 5.000 Euro nicht übersteigen.
-Ausgaben bis zu jeweils 10.000 Euro sind mit Einwilligung zweier Zeichnungsberechtigter aus dem Kreis von Bundesschatzmeister\*in und den beiden Bundesvorsitzenden wirksam.
-Für alle anderen Ausgaben, die jeweils 10.000 Euro übersteigen, ist die Einwilligung des Bundesvorstands erforderlich.
+Ausgaben bis zu jeweils 10.000 Euro sind mit Einwilligung zweier Zeichnungsberechtigter aus dem Kreis von Bundesschatzmeister\*in und den Bundesvorsitzenden wirksam.
+Für Ausgaben bis zu jeweils 100.000 Euro ist die Einwilligung des Präsidiums erforderlich
+Für alle anderen Ausgaben, die jeweils 100.000 Euro übersteigen, ist die Einwilligung des Bundesvorstands erforderlich.
 
 (4)
 Abs. 3 gilt entsprechend für Landes- und unteren Gebietsverbände.
