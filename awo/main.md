@@ -28,7 +28,7 @@ Die Wahl von
 7. Delegierten für Vertreter\*innenversammlungen
 
 kann nur durchgeführt werden, soweit sie zuvor in einer vorläufigen Tagesordnung angekündigt wurde.
-Dies gilt nicht für die erstmalige und unmittelbare Besetzung von Ämtern und Funktionen, die erst auf der Versammlung durch eine Satzungsänderung geschaffen werden.
+Dies gilt nicht für die erstmalige und unmittelbare Besetzung von Ämtern und Funktionen, die erst auf der Versammlung durch eine Satzungsänderung geschaffen werden, sowie für die Nachwahl von Ämtern, die seit dem Versand der Einladung vakant geworden sind.
 
 (2)
 Diese Ankündigung muss den Versammlungsteilnehmer\*innen mit angemessenem Vorlauf, wenigstens aber fünf Werktage vor der Versammlung zugehen, soweit die Satzung oder gesetzliche Vorschriften nicht eine längere Frist vorsehen.
@@ -144,11 +144,11 @@ Das Vorschlagsrecht umfasst das Recht, sich selbst für eine Wahl vorzuschlagen.
 (1)
 Bei der Aufstellung von Kandidat\*innen zu staatlichen Wahlen entscheidet die Versammlung im Beschlusswege über den Schluss des Bewerbungszeitraumes.
 Das Recht der Stimmberechtigten, noch auf der Versammlung selbst Wahlvorschläge einzureichen, darf dadurch nicht unangemessen eingeschränkt werden.
-Wahlvorschläge sind vor dem Beginn der Versammlung beim zuständigen Vorstand oder bei einer für die Versammlung eingesetzten Wahlkommission, nach Beginn der Versammlung bei der Versammlungsleitung einzureichen.
+Wahlvorschläge sind vor dem Beginn der Versammlung bei der zuständigen Wahlkommission, nach Beginn der Versammlung bei der Versammlungsleitung einzureichen.
 
 (2)
 Für alle übrigen Wahlen auf Parteitagen oder Mitgliederversammlungen gelten die Fristen für Anträge entsprechend, soweit und wie sie sich aus den jeweiligen Geschäftsordnungen ergeben.
-Die Wahlvorschläge sind an den jeweiligen Vorstand oder die zuständige Wahlkommission zu richten.
+Die Wahlvorschläge sind an die zuständige Wahlkommission zu richten.
 
 (3)
 Die Fristen nach Abs. 2 gelten nicht
@@ -180,7 +180,7 @@ Abweichendes kann in Bezug auf Aufstellungsversammlungen für die Wahl von Kandi
 Passiv wahlberechtigt sind, soweit die Satzung oder die anwendbaren Gesetze nicht etwas Abweichendes bestimmen,
 
 1. bei Wahlen auf Bundesebene grundsätzlich alle Mitglieder von Volt Deutschland.
-2. auf Ebene der Gebietsverbände, Landes- und unteren Gebietsverbände die Mitglieder dieser Gebietsverbände.
+2. auf Ebene der Gebietsverbände die Mitglieder des jeweiligen Gebietsverbandes.
 
 (2)
 Bei Aufstellungsversammlungen für Wahlen zu öffentlichen Ämtern sind alle Mitglieder von Volt Deutschland passiv wahlberechtigt, denen nach den anwendbaren Gesetzen und Verordnungen das passive Wahlrecht für die jeweilige Wahl zukommt.
@@ -196,7 +196,7 @@ Ausnahmen des Grundsatzes nach Satz 2 sind im Zuge der Aufstellung gemeinsamer L
 (1)
 Allen Wahlbewerber\*innen ist vor dem ersten Wahlgang die Möglichkeit einzuräumen, sich der Versammlung in angemessener Zeit vorzustellen.
 Die maximale Dauer der Vorstellung wird vor Beginn der ersten Vorstellung von der Versammlung auf Vorschlag der Versammlungsleitung beschlossen.
-Bei Wahlen von Mitgliedern des Vorstandes des Bundesverbandes oder eines Gebietsverbandes darf die maximal zulässige Vorstellungszeit fünf Minuten, bei der Aufstellung von Kandidat\*innen zu staatlichen Wahlen fünf Minuten pro Wahlbewerber\*in nicht unterschreiten.
+Bei Wahlen von Mitgliedern des Vorstandes des Bundesverbandes oder eines Gebietsverbandes sowie bei der Aufstellung von Kandidat\*innen zu staatlichen Wahlen darf die zulässige Vorstellungszeit fünf Minuten pro Wahlbewerber\*in nicht unterschreiten.
 
 (2)
 Bewirbt sich ein\*e Wahlbewerber\*in hilfsweise auf ein weiteres Amt, so hat er\*sie nur einmal die Möglichkeit, sich vorzustellen.
@@ -479,8 +479,7 @@ In diesem Fall ist ein zweiter Wahlgang nicht erforderlich.
 (2)
 Die Stimmberechtigten erhalten je zwei Wahllisten.
 Auf diesen sind jeweils die zum zweiten Wahlgang zugelassenen weiblichen und diversen (Liste 1) bzw. männlichen und diversen (Liste 2) Wahlbewerber\*innen in alphabetischer Reihenfolge gelistet.
-Satz 1 ist so zu lesen, dass Personen, die entsprechend § 22 Absatz 3 und § 45b Absatz 1 Personenstandsgesetz weder dem männlichen noch dem weiblichen Geschlecht zugeordnet werden können (Diverse), frei entscheiden können, auf welcher der genannten Listen sie kandidieren möchten.
-Eine Zuordnung diverser Personen entweder zum männlichen oder zum weiblichen Geschlecht geht mit dieser Auswahl ausdrücklich nicht einher.
+Bewerber\*innen mit diversem Geschlecht dürfen frei wählen, auf welcher der beiden Listen sie antreten möchten.
 
 (3)
 Jede und jeder Stimmberechtigte kann auf jeder der beiden Wahllisten den jeweils gelisteten Wahlbewerber\*innen Punktzahlen zuordnen.

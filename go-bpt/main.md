@@ -89,8 +89,7 @@ d) die Vorstände der Landesverbände,
 e) die Landesparteitage,
 f) die Vorstände der unteren Gebietsverbände,
 g) die Mitgliederversammlungen der unteren Gebietsverbände,
-h) eine Gruppe von mindestens 1 % der Mitglieder bis zu einer gesamt Mitgliederzahl von 4500 Mitgliedern.
-Darüber hinaus reichen die Unterstützungsunterschriften von 45 Mitgliedern.
+h) eine Gruppe von 45 Mitgliedern,
 i) bei Durchführung des Parteitages als Vertreter\*innenversammlung im Fall von Anträgen nach § 16 Absatz 6 Satz 4 der Satzung von Volt Deutschland eine Gruppe von mindestens zwanzig auf der Versammlung stimmberechtigt akkreditierte Delegierten und
 j) die Antragskommission.
 
@@ -106,8 +105,7 @@ Anträge, die einen bestehenden Beschluss verändern, sind als Synopsen zu stell
 Für die Einreichung von Anträgen zur Änderung der Tagesordnung, Sachanträgen und Wahlvorschlägen gelten die Bestimmungen des § 16 Abs. 5 und 6 der Satzung.
 
 (5)
-Die erforderliche Anzahl an Mitgliedern in Fällen des Absatzes 1 lit. g richtet sich nach der Anzahl der Mitglieder zum Zeitpunkt der Einladung und wird mit der Einladung zum Parteitag bekannt gegeben.
-Nachkommastellen werden auf eine ganze Zahl abgerundet.
+weggefallen
 
 (6)
 Bei Wahlvorschlägen kann jedes Mitglied in den Fällen des Absatzes 1 lit. h beliebig viele Wahlvorschläge unterstützen.
