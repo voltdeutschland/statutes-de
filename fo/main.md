@@ -108,11 +108,9 @@ Sofern ein Verband nicht besteht, steht der Anteil dem nächsthöheren Verband z
 Der Bundesparteitag beschließt weiterhin über die Höhe der zwischen dem Bundesverband und den Landes- und unteren Gebietsverbände zu verteilenden Anteile des nach Satz 1 verbleibenden Gesamtanteils.
 
 (7)
-Der Bundesverband zahlt den Anteil der Mitgliedsbeiträge quartalsweise direkt an die Landesverbände und Kreisverbände aus.
-Auf Antrag einzelner Landesverbände kann der/die Bundesschatzmeister\*in eine kurzfristige Auszahlung der jeweiligen Anteile bewilligen.
-Die Landesparteitage beschließen über die Höhe der zwischen dem Landesverband und den unteren Gebietsverbänden zu verteilenden Anteile des nach Satz 2 verbleibenden Gesamtanteils.
-Die von den Landesparteitagen beschlossene Höhe der Anteile gilt jeweils für das folgende Kalenderjahr; eine Änderung im laufenden Kalenderjahr ist nur im Falle des erstmaligen Beschlusses möglich.
-Liegt kein Beschluss des Landesparteitages vor, so gilt der zuletzt durch den Landesparteitag beschlossene Verteilerschlüssel weiter fort.
+Der Bundesverband zahlt den Anteil der Mitgliedsbeiträge monatlich direkt an die Landesverbände und Kreisverbände unteren Gebietsverbände aus.
+Die Auszahlung erfolgt bis spätestens zum 25. Kalendertag des Folgemonats.
+In begründeten Ausnahmefällen kann der/die Bundesschatzmeister\*in einen abweichenden Auszahlungszeitpunkt festlegen; die Auszahlung der Anteile muss in diesem Fall jedoch spätestens zum Ende des jeweiligen Quartals erfolgen.
 
 ## § 5a – Verletzung der Beitragspflicht, Mahnung und Ausschluss
 
