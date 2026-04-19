@@ -112,6 +112,7 @@ Bei Wahlvorschlägen kann jedes Mitglied in den Fällen des Absatzes 1 lit. h be
 
 (7)
 Die Unterstützung von Wahlvorschlägen erfolgt namentlich gegenüber der Wahlkommission.
+Die Wahlkommission veröffentlicht eingegangene Wahlvorschläge und die aktuelle Zahl ihrer Unterstützer\*innen fortlaufend.
 Es erfolgt keine namentliche Veröffentlichung der Unterstützer\*innen eines Wahlvorschlags.
 
 ## § 5 – Sachanträge
