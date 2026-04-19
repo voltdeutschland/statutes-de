@@ -21,9 +21,11 @@ Die Wahl von
 
 1. Mitgliedern des Vorstandes des Bundesverbandes sowie der Gebietsverbände
 2. Mitgliedern der Schiedsgerichte
-3. Rechnungsprüfer\*innen
-4. Kandidat\*innen für öffentliche Ämter und staatliche Wahlen
-5. Delegierten für Vertreter\*innenversammlungen
+3. Mitgliedern der Antragskommission
+4. Mitgliedern der Wahlkommission
+5. Rechnungsprüfer\*innen
+6. Kandidat\*innen für öffentliche Ämter und staatliche Wahlen
+7. Delegierten für Vertreter\*innenversammlungen
 
 kann nur durchgeführt werden, soweit sie zuvor in einer vorläufigen Tagesordnung angekündigt wurde.
 Dies gilt nicht für die erstmalige und unmittelbare Besetzung von Ämtern und Funktionen, die erst auf der Versammlung durch eine Satzungsänderung geschaffen werden.
@@ -53,9 +55,11 @@ Wahlen sind geheim, sofern die Satzungen von Volt Deutschland oder ihrer Gebiets
 a) Versammlungsleitung
 b) Schriftführer\*innen
 c) Zählkommission
-d) Rechnungsprüfer\*innen
-e) Vertrauenspersonen für die Einreichung von Wahlvorschlägen
-f) Unterzeichner\*innen von Wahlvorschlägen, die die Einhaltung der Wahlgesetze und Wahlordnungen eidesstattlich versichern
+d) Antragskommission
+e) Wahlkommission
+f) Rechnungsprüfer\*innen
+g) Vertrauenspersonen für die Einreichung von Wahlvorschlägen
+h) Unterzeichner\*innen von Wahlvorschlägen, die die Einhaltung der Wahlgesetze und Wahlordnungen eidesstattlich versichern
 
 (2)
 Erhebt ein stimmberechtigtes Versammlungsmitglied Widerspruch gegen eine offene Abstimmung, so beschließt die Versammlung in offener Abstimmung mit einfacher Mehrheit darüber, ob die Abstimmung offen oder geheim durchzuführen ist.
@@ -83,7 +87,8 @@ Sie ist von der Versammlung zu beschließen.
 ## § 7 – Wahlkommission
 
 (1)
-Zur Vorbereitung von Wahlen auf dem Bundesparteitag ernennt der Bundesvorstand eine Wahlkommission, bestehend aus mindestens drei Mitgliedern.
+Gemäß § 15 Absatz 5 der Satzung von Volt Deutschland wird die Wahlkommission vom Parteitag gewählt.
+In Landes- und unteren Gebietsverbänden wird die Wahlkommission bestehend aus mindestens drei Mitgliedern in der Einladung durch den zuständigen Vorstand ernannt.
 
 (2)
 Die Wahlkommission hat sicherzustellen, dass allen Wahlbewerber\*innen die Möglichkeit geboten wird, sich bereits vor dem Parteitag über digitale Medien den Stimmberechtigten vorzustellen.
@@ -99,7 +104,10 @@ Bei der Ausübung ihrer Tätigkeit sind die Mitglieder der Wahlkommission zur Ne
 Mitglieder der Wahlkommission können nicht zeitgleich ein satzungsmäßiges Amt des Bundesverbandes oder eines Gebietsverbandes ausüben oder zu diesen in einem Dienstverhältnis stehen.
 
 (6)
-Die Absätze 1 bis 4 gelten für Landesverbände entsprechend, soweit sich aus ihren Satzungen nicht etwas Anderweitiges ergibt.
+Auf der Versammlung steht die Wahlkommission für Rückfragen zum Wahlprozess und für die Erarbeitung von Verfahrensvorschlägen in Absprache mit der Versammlungsleitung zur Verfügung.
+
+(7)
+Die Absätze 2 bis 6 gelten für Landesverbände entsprechend, soweit sich aus ihren Satzungen nicht etwas Anderweitiges ergibt.
 
 ## § 8 – Durchführung der Wahl
 
@@ -118,6 +126,13 @@ Schriftführer\*innen sind von der Regelung nach Satz 1 ausgenommen.
 
 (1)
 Bei der Aufstellung von Kandidat\*innen zu staatlichen Wahlen ist jede\*r stimmberechtigte Teilnehmer\*in der Versammlung vorschlagsberechtigt, soweit keine gesetzliche Regelung entgegensteht.
+
+(2)
+Für Kandidaturen zu den folgenden Ämtern ist während der Versammlung jedes stimmberechtigte Mitglied vorschlagsberechtigt:
+
+a) Antragskommission
+b) Wahlkommission
+c) Rechnungsprüfung
 
 (2)
 Für alle übrigen Wahlen folgt das Vorschlagsrecht dem Antragsrecht.
@@ -504,7 +519,7 @@ Die §§ 1 bis 18 gelten entsprechend.
 ## § 36 – Allgemeines
 
 (1)
-Die Wahl der Delegierten für den Bundesparteitag von Volt Deutschland erfolgt nach § 15 Abs. 5 Satz 1 der Satzung von Volt Deutschland auf den Landesparteitagen der Landesverbände von Volt Deutschland, soweit die Landesverbände nicht von der in § 15 Abs. 5 Satz 2 der Satzung von Volt Deutschland beschriebenen Möglichkeit Gebrauch gemacht haben, die untergeordneten Gebietsverbände zur Aufstellung der Delegierten zu ermächtigten.
+Die Wahl der Delegierten für den Bundesparteitag von Volt Deutschland erfolgt nach § 15 Absatz 10 Satz 1 der Satzung von Volt Deutschland auf den Landesparteitagen der Landesverbände von Volt Deutschland, soweit die Landesverbände nicht von der in § 15 Absatz 9 Satz 5 der Satzung von Volt Deutschland beschriebenen Möglichkeit Gebrauch gemacht haben, die untergeordneten Gebietsverbände zur Aufstellung der Delegierten zu ermächtigten.
 
 (2)
 Die Wahl der Delegierten erfolgt nach den §§ 37 und 38, soweit der Landesverband in seiner Satzung keine abweichenden Regelungen trifft.
@@ -517,13 +532,13 @@ Abweichend von § 8 Abs. 3 können Mitglieder der Versammlungsleitung ebenfalls 
 ## § 37 – Anzahl der zu wählenden Delegierten
 
 (1)
-Der Landesparteitag wählt zwei fortlaufende Listen an Delegierten nach § 15 Abs. 7 der Satzung.
+Der Landesparteitag wählt zwei fortlaufende Listen an Delegierten nach § 15 Absatz 12 der Satzung.
 
 (2)
-Der Landesparteitag entscheidet nach § 15 Abs. 7 der Satzung vor Beginn der Wahl frei über die Anzahl der Listenplätze, ist jedoch dazu angehalten, zwei Listen aufzustellen, welche jeweils mindestens 50 Prozent mehr Delegierte enthalten, als der Landesverband zum Zeitpunkt der Aufstellung nach § 15 Abs. 7 Satz 2 zu entsenden erwarten kann.
+Der Landesparteitag entscheidet nach § 15 Absatz 12 der Satzung vor Beginn der Wahl frei über die Anzahl der Listenplätze, ist jedoch dazu angehalten, zwei Listen aufzustellen, welche jeweils mindestens 50 Prozent mehr Delegierte enthalten, als der Landesverband zum Zeitpunkt der Aufstellung nach § 15 Absatz 12 Satz 2 zu entsenden erwarten kann.
 
 (3)
-Soweit ein Landesverband das Recht zur Aufstellung von Delegierten nach § 15 Abs. 5 der Satzung ganz oder teilweise auf untergeordnete Gebietsverbände übertragen hat, so gelten Abs. 1 und 2 für diese Listen entsprechend.
+Soweit ein Landesverband das Recht zur Aufstellung von Delegierten nach § 15 Absatz 10 der Satzung ganz oder teilweise auf untergeordnete Gebietsverbände übertragen hat, so gelten Abs. 1 und 2 für diese Listen entsprechend.
 
 ## § 38 – Wahl der Delegierten
 

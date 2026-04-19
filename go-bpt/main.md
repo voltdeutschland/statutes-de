@@ -43,19 +43,19 @@ Bei grober Verletzung der Ordnung oder der Würde des Parteitags kann die Versam
 ## § 2a – Antragskommission
 
 (1)
-Der Vorstand beruft mit der Einladung für den Parteitag eine Antragskommission, die aus mindestens fünf Mitgliedern besteht, welche nicht dem Vorstand angehören.
-
-(2)
 Die Antragskommission prüft alle eingegangenen Anträge auf deren frist- und formgerechten Eingang, entscheidet gemäß Satzung und Geschäftsordnung über ihre Zulassung und informiert die Parteimitglieder nach § 16 Abs. 6 der Satzung.
 
-(3)
+(2)
 Die Antragskommission gibt dem Parteitag eine Empfehlung zur Reihenfolge der Antragsbearbeitung anhand der vorläufigen Tagesordnung, stellt Konkurrenzen zwischen Anträgen sowie Widersprüche von Anträgen zu Vorgaben von Volt Europa, insbesondere politisch inhaltliche, fest.
 Sie kann die Änderung oder Ergänzung von Anträgen, die Übernahme von Teilen eines Antrags in einen anderen Antrag und die Rücknahme von Anträgen anregen.
 Die Empfehlungen der Antragskommission sind allen Parteimitgliedern sieben Tage vor dem Parteitag zur Verfügung zu stellen.
 
-(4)
+(3)
 Die Versammlung stimmt über die Empfehlung der Antragskommission nach Beschluss der Tagesordnung ohne Aussprache mit einfacher Mehrheit ab.
 Kommt diese nicht zustande, stimmt der Parteitag über die Reihenfolge und Klassifizierung der Anträge einzeln ab.
+
+(4)
+Auf der Versammlung steht die Antragskommission für Rückfragen zum Antragsprozess und für die Erarbeitung von Verfahrensvorschlägen in Absprache mit der Versammlungsleitung zur Verfügung.
 
 ## § 3 – Tagesordnung
 
@@ -244,12 +244,12 @@ Auf Antrag beschließt der Parteitag die Verlängerung der Aussprache mit einfac
 ## § 11 – Teilnehmende ohne Stimmrecht und Gäste
 
 (1)
-Alle Parteimitglieder können, auch wenn sie nach § 15 Absatz 4 der Satzung nicht stimmberechtigt sind, ebenso wie Mitglieder von Volt Europa oder anderen nationalen Volt Parteien an Bundesparteitagen teilnehmen.
+Alle Parteimitglieder können, auch wenn sie nach § 15 Absatz 9 der Satzung nicht stimmberechtigt sind, ebenso wie Mitglieder von Volt Europa oder anderen nationalen Volt Parteien an Bundesparteitagen teilnehmen.
 Gäste können auf Einladung durch den Bundesvorstand an Parteitagen teilnehmen.
 Der Bundesvorstand kann die Zahl der am Parteitag Teilnehmenden ohne Stimmrecht aus organisatorischen Gründen begrenzen.
 
 (2)
-Gemäß § 15 Absatz 10 der Satzung kann der Parteitag Gästen das Rederecht erteilen.
+Gemäß § 15 Absatz 15 der Satzung kann der Parteitag Gästen das Rederecht erteilen.
 Teilnehmende Mitglieder von Volt Europa und nationalen Chaptern haben nach § 10 Abs. 1 unabhängig ihres Stimmrechts das Rederecht; für nicht stimmberechtigte Teilnehmende kann die Versammlung per Beschluss das Rederecht einschränken.
 
 (3)
